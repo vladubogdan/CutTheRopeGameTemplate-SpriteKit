@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>designResolutionDeviceIdx</key>
+	<integer>0</integer>
+	<key>devices</key>
+	<array>
+		<dict>
+			<key>DeviceName</key>
+			<string>iPhones 3.5 inch Retina</string>
+			<key>ScaleRatio</key>
+			<real>1</real>
+			<key>ScreenHeight</key>
+			<integer>640</integer>
+			<key>ScreenWidth</key>
+			<integer>960</integer>
+			<key>SuffixName</key>
+			<string></string>
+			<key>color</key>
+			<string>{{0.17161963880062103, 0}, {0.043363295495510101, 1}}</string>
+		</dict>
+		<dict>
+			<key>DeviceName</key>
+			<string>iPhone 4 inch Retina</string>
+			<key>ScaleRatio</key>
+			<real>1</real>
+			<key>ScreenHeight</key>
+			<integer>640</integer>
+			<key>ScreenWidth</key>
+			<integer>1136</integer>
+			<key>SuffixName</key>
+			<string>-568</string>
+			<key>color</key>
+			<string>{{1, 1}, {0.078242406249046326, 1}}</string>
+		</dict>
+		<dict>
+			<key>DeviceName</key>
+			<string>iPad &amp; iPad Mini</string>
+			<key>ScaleRatio</key>
+			<real>1</real>
+			<key>ScreenHeight</key>
+			<integer>768</integer>
+			<key>ScreenWidth</key>
+			<integer>1024</integer>
+			<key>SuffixName</key>
+			<string>-ipad</string>
+			<key>color</key>
+			<string>{{0.14000754058361053, 0}, {0.85061699151992798, 1}}</string>
+		</dict>
+		<dict>
+			<key>DeviceName</key>
+			<string>iPad Retina</string>
+			<key>ScaleRatio</key>
+			<real>2</real>
+			<key>ScreenHeight</key>
+			<integer>1536</integer>
+			<key>ScreenWidth</key>
+			<integer>2048</integer>
+			<key>SuffixName</key>
+			<string>-ipad@2x</string>
+			<key>color</key>
+			<string>{{0.14000754058361053, 0}, {0.85061699151992798, 1}}</string>
+		</dict>
+	</array>
+	<key>engine</key>
+	<string>Sprite Kit</string>
+	<key>options</key>
+	<dict>
+		<key>ignoredFolders</key>
+		<array/>
+		<key>name</key>
+		<string>GiveMeCandy</string>
+		<key>publishOptions</key>
+		<dict>
+			<key>ScenesOptions</key>
+			<dict>
+				<key>MainScreen.lhs</key>
+				<dict>
+					<key>publish</key>
+					<true/>
+				</dict>
+				<key>bambooForest_level1.lhs</key>
+				<dict>
+					<key>publish</key>
+					<true/>
+				</dict>
+				<key>bambooForest_level2.lhs</key>
+				<dict>
+					<key>publish</key>
+					<true/>
+				</dict>
+				<key>bambooForest_level3.lhs</key>
+				<dict>
+					<key>publish</key>
+					<true/>
+				</dict>
+				<key>bambooForest_level4.lhs</key>
+				<dict>
+					<key>publish</key>
+					<true/>
+				</dict>
+				<key>bambooForest_level5.lhs</key>
+				<dict>
+					<key>publish</key>
+					<true/>
+				</dict>
+				<key>bambooForest_level6.lhs</key>
+				<dict>
+					<key>publish</key>
+					<true/>
+				</dict>
+				<key>levelSelectScreen.lhs</key>
+				<dict>
+					<key>publish</key>
+					<true/>
+				</dict>
+			</dict>
+			<key>publisherPluginName</key>
+			<string>Sprite Kit</string>
+			<key>selectedPublishTypeName</key>
+			<string>All Selected Scenes</string>
+		</dict>
+	</dict>
+	<key>uuid</key>
+	<string>983EB774-0905-4306-89E8-29DA5A7E6BCC</string>
+</dict>
+</plist>

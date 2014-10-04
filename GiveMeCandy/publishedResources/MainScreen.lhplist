@@ -1,0 +1,2064 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspect</key>
+	<integer>2</integer>
+	<key>backgroundColor</key>
+	<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+	<key>children</key>
+	<array>
+		<dict>
+			<key>alpha</key>
+			<real>255</real>
+			<key>anchor</key>
+			<string>{0.500000, 0.500000}</string>
+			<key>children</key>
+			<array>
+				<dict>
+					<key>alpha</key>
+					<real>255</real>
+					<key>anchor</key>
+					<string>{0.500000, 0.500000}</string>
+					<key>colorOverlay</key>
+					<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+					<key>generalPosition</key>
+					<string>{0.500000, 0.500000}</string>
+					<key>imageFileName</key>
+					<string>mainSceneBgrd.png</string>
+					<key>invisibleInEditor</key>
+					<false/>
+					<key>name</key>
+					<string>mainSceneBgrd.png</string>
+					<key>nodeType</key>
+					<string>LHSprite</string>
+					<key>parentUUID</key>
+					<string>_BACK_USER_INTERFACE_NODE_UUID_</string>
+					<key>relativeImagePath</key>
+					<string>backgrounds/</string>
+					<key>rotation</key>
+					<real>0.0</real>
+					<key>scale</key>
+					<string>{1.000000, 1.000000}</string>
+					<key>size</key>
+					<string>{960.000000, 640.000000}</string>
+					<key>tags</key>
+					<array>
+						<string>DEFAULT</string>
+					</array>
+					<key>uuid</key>
+					<string>1C5EAF4E-D33C-493C-8AEA-8F1DC5D69470</string>
+					<key>zOrder</key>
+					<integer>0</integer>
+				</dict>
+			</array>
+			<key>colorOverlay</key>
+			<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+			<key>generalPosition</key>
+			<string>{0.000000, 0.000000}</string>
+			<key>invisibleInEditor</key>
+			<false/>
+			<key>name</key>
+			<string>BACK USER INTERFACE</string>
+			<key>nodeType</key>
+			<string>LHBackUINode</string>
+			<key>parentUUID</key>
+			<string>C80544A8-F354-41B1-88AD-A45486731527</string>
+			<key>rotation</key>
+			<real>0.0</real>
+			<key>scale</key>
+			<string>{1.000000, 1.000000}</string>
+			<key>size</key>
+			<string>{128.000000, 128.000000}</string>
+			<key>tags</key>
+			<array>
+				<string>DEFAULT</string>
+			</array>
+			<key>uuid</key>
+			<string>E40E3441-9937-411C-BA58-A20F0B0642D2</string>
+			<key>zOrder</key>
+			<integer>-1</integer>
+		</dict>
+		<dict>
+			<key>alpha</key>
+			<real>255</real>
+			<key>anchor</key>
+			<string>{0.500000, 0.500000}</string>
+			<key>children</key>
+			<array>
+				<dict>
+					<key>alpha</key>
+					<real>255</real>
+					<key>anchor</key>
+					<string>{0.500000, 0.500000}</string>
+					<key>colorOverlay</key>
+					<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+					<key>generalPosition</key>
+					<string>{0.501599, 0.160887}</string>
+					<key>imageFileName</key>
+					<string>mainScreen.png</string>
+					<key>invisibleInEditor</key>
+					<false/>
+					<key>name</key>
+					<string>vine.png</string>
+					<key>nodeType</key>
+					<string>LHSprite</string>
+					<key>parentUUID</key>
+					<string>_GAME_WORLD_NODE_UUID_</string>
+					<key>relativeImagePath</key>
+					<string>publishedResources/</string>
+					<key>rotation</key>
+					<real>0.0</real>
+					<key>scale</key>
+					<string>{1.000000, 1.000000}</string>
+					<key>size</key>
+					<string>{673.000000, 222.000000}</string>
+					<key>spriteName</key>
+					<string>vine.png</string>
+					<key>spriteUUID</key>
+					<string>25D7333F-65E0-4AB0-B1DB-53FE944009E4</string>
+					<key>tags</key>
+					<array>
+						<string>DEFAULT</string>
+					</array>
+					<key>uuid</key>
+					<string>D4DF6BD1-9F18-410D-9D7B-46E16F7CEF19</string>
+					<key>zOrder</key>
+					<integer>-1</integer>
+				</dict>
+				<dict>
+					<key>alpha</key>
+					<real>255</real>
+					<key>anchor</key>
+					<string>{0.500000, 0.500000}</string>
+					<key>colorOverlay</key>
+					<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+					<key>generalPosition</key>
+					<string>{0.456245, 0.272456}</string>
+					<key>imageFileName</key>
+					<string>mainScreen.png</string>
+					<key>invisibleInEditor</key>
+					<false/>
+					<key>name</key>
+					<string>title.png</string>
+					<key>nodeType</key>
+					<string>LHSprite</string>
+					<key>parentUUID</key>
+					<string>_GAME_WORLD_NODE_UUID_</string>
+					<key>relativeImagePath</key>
+					<string>publishedResources/</string>
+					<key>rotation</key>
+					<real>0.0</real>
+					<key>scale</key>
+					<string>{1.000000, 1.000000}</string>
+					<key>size</key>
+					<string>{429.000000, 235.000000}</string>
+					<key>spriteName</key>
+					<string>title.png</string>
+					<key>spriteUUID</key>
+					<string>67550EDE-3625-4C2C-A01A-BDAA8C713DE0</string>
+					<key>tags</key>
+					<array>
+						<string>DEFAULT</string>
+					</array>
+					<key>uuid</key>
+					<string>24B7F94C-BF4F-4996-B7EB-5050D9DFAD65</string>
+					<key>zOrder</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>alpha</key>
+					<real>255</real>
+					<key>anchor</key>
+					<string>{0.500000, 0.500000}</string>
+					<key>children</key>
+					<array>
+						<dict>
+							<key>alpha</key>
+							<real>255</real>
+							<key>anchor</key>
+							<string>{0.500000, 0.500000}</string>
+							<key>colorOverlay</key>
+							<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+							<key>generalPosition</key>
+							<string>{-0.000062, 0.018264}</string>
+							<key>imageFileName</key>
+							<string>mainScreen.png</string>
+							<key>invisibleInEditor</key>
+							<false/>
+							<key>name</key>
+							<string>buttonPlayTxt.png</string>
+							<key>nodeType</key>
+							<string>LHSprite</string>
+							<key>parentUUID</key>
+							<string>3DBB6921-D7BB-48AB-833C-72CD9C8024CC</string>
+							<key>relativeImagePath</key>
+							<string>publishedResources/</string>
+							<key>rotation</key>
+							<real>0.0</real>
+							<key>scale</key>
+							<string>{1.000000, 1.000000}</string>
+							<key>size</key>
+							<string>{160.000000, 54.000000}</string>
+							<key>spriteName</key>
+							<string>buttonPlayTxt.png</string>
+							<key>spriteUUID</key>
+							<string>B2BC7E3C-E221-4433-A02B-8239E5F60A30</string>
+							<key>tags</key>
+							<array>
+								<string>DEFAULT</string>
+							</array>
+							<key>uuid</key>
+							<string>2E859F3F-D4AF-47FA-9D2C-0699DA1118C1</string>
+							<key>zOrder</key>
+							<integer>0</integer>
+						</dict>
+						<dict>
+							<key>alpha</key>
+							<real>255</real>
+							<key>anchor</key>
+							<string>{0.500000, 0.500000}</string>
+							<key>colorOverlay</key>
+							<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+							<key>generalPosition</key>
+							<string>{-0.189511, -0.079186}</string>
+							<key>imageFileName</key>
+							<string>mainScreen.png</string>
+							<key>invisibleInEditor</key>
+							<false/>
+							<key>name</key>
+							<string>buttonFlower.png</string>
+							<key>nodeType</key>
+							<string>LHSprite</string>
+							<key>parentUUID</key>
+							<string>3DBB6921-D7BB-48AB-833C-72CD9C8024CC</string>
+							<key>relativeImagePath</key>
+							<string>publishedResources/</string>
+							<key>rotation</key>
+							<real>0.0</real>
+							<key>scale</key>
+							<string>{1.000000, 1.000000}</string>
+							<key>size</key>
+							<string>{58.000000, 54.000000}</string>
+							<key>spriteName</key>
+							<string>buttonFlower.png</string>
+							<key>spriteUUID</key>
+							<string>E397D871-B231-4AAC-A1D4-39ED5A1F85FB</string>
+							<key>tags</key>
+							<array>
+								<string>DEFAULT</string>
+							</array>
+							<key>uuid</key>
+							<string>E532D43B-BF14-4644-B8D8-6325F694AED7</string>
+							<key>zOrder</key>
+							<integer>0</integer>
+						</dict>
+						<dict>
+							<key>alpha</key>
+							<real>255</real>
+							<key>anchor</key>
+							<string>{0.500000, 0.500000}</string>
+							<key>colorOverlay</key>
+							<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+							<key>generalPosition</key>
+							<string>{0.163307, -0.051322}</string>
+							<key>imageFileName</key>
+							<string>mainScreen.png</string>
+							<key>invisibleInEditor</key>
+							<false/>
+							<key>name</key>
+							<string>buttonFlower_1.png</string>
+							<key>nodeType</key>
+							<string>LHSprite</string>
+							<key>parentUUID</key>
+							<string>3DBB6921-D7BB-48AB-833C-72CD9C8024CC</string>
+							<key>relativeImagePath</key>
+							<string>publishedResources/</string>
+							<key>rotation</key>
+							<real>0.0</real>
+							<key>scale</key>
+							<string>{1.000000, 1.000000}</string>
+							<key>size</key>
+							<string>{58.000000, 54.000000}</string>
+							<key>spriteName</key>
+							<string>buttonFlower.png</string>
+							<key>spriteUUID</key>
+							<string>E397D871-B231-4AAC-A1D4-39ED5A1F85FB</string>
+							<key>tags</key>
+							<array>
+								<string>DEFAULT</string>
+							</array>
+							<key>uuid</key>
+							<string>81A895A3-CF53-448B-A6BC-9E939DE1412E</string>
+							<key>zOrder</key>
+							<integer>0</integer>
+						</dict>
+					</array>
+					<key>colorOverlay</key>
+					<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+					<key>generalPosition</key>
+					<string>{0.465976, 0.532405}</string>
+					<key>imageFileName</key>
+					<string>mainScreen.png</string>
+					<key>invisibleInEditor</key>
+					<false/>
+					<key>name</key>
+					<string>playButton</string>
+					<key>nodeType</key>
+					<string>LHSprite</string>
+					<key>parentUUID</key>
+					<string>_GAME_WORLD_NODE_UUID_</string>
+					<key>relativeImagePath</key>
+					<string>publishedResources/</string>
+					<key>rotation</key>
+					<real>0.0</real>
+					<key>scale</key>
+					<string>{1.000000, 1.000000}</string>
+					<key>size</key>
+					<string>{413.000000, 138.000000}</string>
+					<key>spriteName</key>
+					<string>button.png</string>
+					<key>spriteUUID</key>
+					<string>11F0F8F2-E4EC-4EF6-ADB5-B4DEBBC94D74</string>
+					<key>tags</key>
+					<array>
+						<string>DEFAULT</string>
+					</array>
+					<key>uuid</key>
+					<string>3DBB6921-D7BB-48AB-833C-72CD9C8024CC</string>
+					<key>zOrder</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>alpha</key>
+					<real>255</real>
+					<key>anchor</key>
+					<string>{0.500000, 0.500000}</string>
+					<key>children</key>
+					<array>
+						<dict>
+							<key>alpha</key>
+							<real>255</real>
+							<key>anchor</key>
+							<string>{0.500000, 0.500000}</string>
+							<key>colorOverlay</key>
+							<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+							<key>generalPosition</key>
+							<string>{-0.193746, -0.051737}</string>
+							<key>imageFileName</key>
+							<string>mainScreen.png</string>
+							<key>invisibleInEditor</key>
+							<false/>
+							<key>name</key>
+							<string>buttonFlower_2.png</string>
+							<key>nodeType</key>
+							<string>LHSprite</string>
+							<key>parentUUID</key>
+							<string>D183A76E-5AAE-49CB-A6F3-58CD93E55507</string>
+							<key>relativeImagePath</key>
+							<string>publishedResources/</string>
+							<key>rotation</key>
+							<real>0.0</real>
+							<key>scale</key>
+							<string>{1.000000, 1.000000}</string>
+							<key>size</key>
+							<string>{58.000000, 54.000000}</string>
+							<key>spriteName</key>
+							<string>buttonFlower.png</string>
+							<key>spriteUUID</key>
+							<string>E397D871-B231-4AAC-A1D4-39ED5A1F85FB</string>
+							<key>tags</key>
+							<array>
+								<string>DEFAULT</string>
+							</array>
+							<key>uuid</key>
+							<string>DB56C499-B5B9-47C9-A8CA-773AAD96CFF3</string>
+							<key>zOrder</key>
+							<integer>0</integer>
+						</dict>
+						<dict>
+							<key>alpha</key>
+							<real>255</real>
+							<key>anchor</key>
+							<string>{0.500000, 0.500000}</string>
+							<key>colorOverlay</key>
+							<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+							<key>generalPosition</key>
+							<string>{0.164651, -0.023603}</string>
+							<key>imageFileName</key>
+							<string>mainScreen.png</string>
+							<key>invisibleInEditor</key>
+							<false/>
+							<key>name</key>
+							<string>buttonFlower_3.png</string>
+							<key>nodeType</key>
+							<string>LHSprite</string>
+							<key>parentUUID</key>
+							<string>D183A76E-5AAE-49CB-A6F3-58CD93E55507</string>
+							<key>relativeImagePath</key>
+							<string>publishedResources/</string>
+							<key>rotation</key>
+							<real>0.0</real>
+							<key>scale</key>
+							<string>{1.000000, 1.000000}</string>
+							<key>size</key>
+							<string>{58.000000, 54.000000}</string>
+							<key>spriteName</key>
+							<string>buttonFlower.png</string>
+							<key>spriteUUID</key>
+							<string>E397D871-B231-4AAC-A1D4-39ED5A1F85FB</string>
+							<key>tags</key>
+							<array>
+								<string>DEFAULT</string>
+							</array>
+							<key>uuid</key>
+							<string>5C6C04EE-2CFC-43E8-AC71-4F5DF26CD677</string>
+							<key>zOrder</key>
+							<integer>0</integer>
+						</dict>
+						<dict>
+							<key>alpha</key>
+							<real>255</real>
+							<key>anchor</key>
+							<string>{0.500000, 0.500000}</string>
+							<key>colorOverlay</key>
+							<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+							<key>generalPosition</key>
+							<string>{-0.000106, 0.016693}</string>
+							<key>imageFileName</key>
+							<string>mainScreen.png</string>
+							<key>invisibleInEditor</key>
+							<false/>
+							<key>name</key>
+							<string>buttonAboutTxt.png</string>
+							<key>nodeType</key>
+							<string>LHSprite</string>
+							<key>parentUUID</key>
+							<string>D183A76E-5AAE-49CB-A6F3-58CD93E55507</string>
+							<key>relativeImagePath</key>
+							<string>publishedResources/</string>
+							<key>rotation</key>
+							<real>0.0</real>
+							<key>scale</key>
+							<string>{1.000000, 1.000000}</string>
+							<key>size</key>
+							<string>{192.000000, 48.000000}</string>
+							<key>spriteName</key>
+							<string>buttonAboutTxt.png</string>
+							<key>spriteUUID</key>
+							<string>22523162-9E30-4238-9B13-C96D4D16F819</string>
+							<key>tags</key>
+							<array>
+								<string>DEFAULT</string>
+							</array>
+							<key>uuid</key>
+							<string>A2AC33FD-C0A8-4857-9B58-A2F0862FEADE</string>
+							<key>zOrder</key>
+							<integer>0</integer>
+						</dict>
+					</array>
+					<key>colorOverlay</key>
+					<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+					<key>generalPosition</key>
+					<string>{0.463404, 0.757522}</string>
+					<key>imageFileName</key>
+					<string>mainScreen.png</string>
+					<key>invisibleInEditor</key>
+					<false/>
+					<key>name</key>
+					<string>aboutButton</string>
+					<key>nodeType</key>
+					<string>LHSprite</string>
+					<key>parentUUID</key>
+					<string>_GAME_WORLD_NODE_UUID_</string>
+					<key>relativeImagePath</key>
+					<string>publishedResources/</string>
+					<key>rotation</key>
+					<real>0.0</real>
+					<key>scale</key>
+					<string>{1.000000, 1.000000}</string>
+					<key>size</key>
+					<string>{413.000000, 138.000000}</string>
+					<key>spriteName</key>
+					<string>button.png</string>
+					<key>spriteUUID</key>
+					<string>11F0F8F2-E4EC-4EF6-ADB5-B4DEBBC94D74</string>
+					<key>tags</key>
+					<array>
+						<string>DEFAULT</string>
+					</array>
+					<key>uuid</key>
+					<string>D183A76E-5AAE-49CB-A6F3-58CD93E55507</string>
+					<key>zOrder</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>alpha</key>
+					<real>255</real>
+					<key>anchor</key>
+					<string>{0.500000, 0.500000}</string>
+					<key>animations</key>
+					<array>
+						<dict>
+							<key>active</key>
+							<true/>
+							<key>fps</key>
+							<integer>12</integer>
+							<key>name</key>
+							<string>wind1</string>
+							<key>properties</key>
+							<dict>
+								<key>Children Rotations</key>
+								<dict>
+									<key>Frames</key>
+									<array>
+										<dict>
+											<key>frameIndex</key>
+											<integer>0</integer>
+											<key>rotations</key>
+											<dict>
+												<key>498DF74D-DE15-4870-B497-5EBFB6AC9187</key>
+												<real>33.376976013183594</real>
+												<key>78A6D2C9-F398-4D08-B30B-96FAB5582170</key>
+												<real>6.9349155426025391</real>
+												<key>99F4F8B1-80EC-430C-A154-AF5B750BF0F7</key>
+												<real>3.0483813285827637</real>
+												<key>F0D04C9F-5ACF-446C-B85D-558A00869A44</key>
+												<real>19.133806228637695</real>
+												<key>FC4AD10A-7E2F-47B3-891B-3B887A0B0CAA</key>
+												<real>6.9349155426025391</real>
+											</dict>
+										</dict>
+										<dict>
+											<key>frameIndex</key>
+											<integer>14</integer>
+											<key>rotations</key>
+											<dict>
+												<key>0770F0AD-F91D-4226-9AFC-AA634764E428</key>
+												<real>6.0391330718994141</real>
+												<key>2EC2263B-BD39-4C18-B2C1-3ADF8FAD7F13</key>
+												<real>5.035944938659668</real>
+												<key>498DF74D-DE15-4870-B497-5EBFB6AC9187</key>
+												<real>24.349105834960938</real>
+												<key>78A6D2C9-F398-4D08-B30B-96FAB5582170</key>
+												<real>0.42750099301338196</real>
+												<key>99F4F8B1-80EC-430C-A154-AF5B750BF0F7</key>
+												<real>7.9332561492919922</real>
+												<key>EDD56930-CFED-4482-9A50-AE020AD289EC</key>
+												<real>354.75421142578125</real>
+												<key>EEE061E4-E006-4E91-96E2-A604D6EC81EF</key>
+												<real>5.0680174827575684</real>
+												<key>F0D04C9F-5ACF-446C-B85D-558A00869A44</key>
+												<real>23.111989974975586</real>
+												<key>FC4AD10A-7E2F-47B3-891B-3B887A0B0CAA</key>
+												<real>3.4903149604797363</real>
+											</dict>
+										</dict>
+										<dict>
+											<key>frameIndex</key>
+											<integer>29</integer>
+											<key>rotations</key>
+											<dict>
+												<key>498DF74D-DE15-4870-B497-5EBFB6AC9187</key>
+												<real>33.376976013183594</real>
+												<key>78A6D2C9-F398-4D08-B30B-96FAB5582170</key>
+												<real>6.9349155426025391</real>
+												<key>99F4F8B1-80EC-430C-A154-AF5B750BF0F7</key>
+												<real>3.0483813285827637</real>
+												<key>F0D04C9F-5ACF-446C-B85D-558A00869A44</key>
+												<real>19.133806228637695</real>
+												<key>FC4AD10A-7E2F-47B3-891B-3B887A0B0CAA</key>
+												<real>6.9349155426025391</real>
+											</dict>
+										</dict>
+									</array>
+									<key>type</key>
+									<string>LHChildrenRotationsProperty</string>
+								</dict>
+							</dict>
+							<key>repetitions</key>
+							<integer>1</integer>
+							<key>totalFrames</key>
+							<integer>30</integer>
+						</dict>
+						<dict>
+							<key>active</key>
+							<false/>
+							<key>fps</key>
+							<integer>14</integer>
+							<key>name</key>
+							<string>wind2</string>
+							<key>properties</key>
+							<dict>
+								<key>Children Rotations</key>
+								<dict>
+									<key>Frames</key>
+									<array>
+										<dict>
+											<key>frameIndex</key>
+											<integer>0</integer>
+											<key>rotations</key>
+											<dict>
+												<key>498DF74D-DE15-4870-B497-5EBFB6AC9187</key>
+												<real>33.376976013183594</real>
+												<key>78A6D2C9-F398-4D08-B30B-96FAB5582170</key>
+												<real>6.9349155426025391</real>
+												<key>99F4F8B1-80EC-430C-A154-AF5B750BF0F7</key>
+												<real>3.0483813285827637</real>
+												<key>F0D04C9F-5ACF-446C-B85D-558A00869A44</key>
+												<real>19.133806228637695</real>
+												<key>FC4AD10A-7E2F-47B3-891B-3B887A0B0CAA</key>
+												<real>6.9349155426025391</real>
+											</dict>
+										</dict>
+										<dict>
+											<key>frameIndex</key>
+											<integer>14</integer>
+											<key>rotations</key>
+											<dict>
+												<key>0770F0AD-F91D-4226-9AFC-AA634764E428</key>
+												<real>10.349690437316895</real>
+												<key>2EC2263B-BD39-4C18-B2C1-3ADF8FAD7F13</key>
+												<real>9.8249721527099609</real>
+												<key>498DF74D-DE15-4870-B497-5EBFB6AC9187</key>
+												<real>38.746372222900391</real>
+												<key>78A6D2C9-F398-4D08-B30B-96FAB5582170</key>
+												<real>12.724610328674316</real>
+												<key>99F4F8B1-80EC-430C-A154-AF5B750BF0F7</key>
+												<real>9.1378974914550781</real>
+												<key>EDD56930-CFED-4482-9A50-AE020AD289EC</key>
+												<real>352.15997314453125</real>
+												<key>EEE061E4-E006-4E91-96E2-A604D6EC81EF</key>
+												<real>8.8352231979370117</real>
+												<key>F0D04C9F-5ACF-446C-B85D-558A00869A44</key>
+												<real>23.268209457397461</real>
+												<key>FC4AD10A-7E2F-47B3-891B-3B887A0B0CAA</key>
+												<real>1.487800121307373</real>
+											</dict>
+										</dict>
+										<dict>
+											<key>frameIndex</key>
+											<integer>29</integer>
+											<key>rotations</key>
+											<dict>
+												<key>498DF74D-DE15-4870-B497-5EBFB6AC9187</key>
+												<real>33.376976013183594</real>
+												<key>78A6D2C9-F398-4D08-B30B-96FAB5582170</key>
+												<real>6.9349155426025391</real>
+												<key>99F4F8B1-80EC-430C-A154-AF5B750BF0F7</key>
+												<real>3.0483813285827637</real>
+												<key>F0D04C9F-5ACF-446C-B85D-558A00869A44</key>
+												<real>19.133806228637695</real>
+												<key>FC4AD10A-7E2F-47B3-891B-3B887A0B0CAA</key>
+												<real>6.9349155426025391</real>
+											</dict>
+										</dict>
+									</array>
+									<key>type</key>
+									<string>LHChildrenRotationsProperty</string>
+								</dict>
+							</dict>
+							<key>repetitions</key>
+							<integer>1</integer>
+							<key>totalFrames</key>
+							<integer>30</integer>
+						</dict>
+						<dict>
+							<key>active</key>
+							<false/>
+							<key>fps</key>
+							<integer>10</integer>
+							<key>name</key>
+							<string>wind3</string>
+							<key>properties</key>
+							<dict>
+								<key>Children Rotations</key>
+								<dict>
+									<key>Frames</key>
+									<array>
+										<dict>
+											<key>frameIndex</key>
+											<integer>0</integer>
+											<key>rotations</key>
+											<dict>
+												<key>498DF74D-DE15-4870-B497-5EBFB6AC9187</key>
+												<real>33.376976013183594</real>
+												<key>78A6D2C9-F398-4D08-B30B-96FAB5582170</key>
+												<real>6.9349155426025391</real>
+												<key>99F4F8B1-80EC-430C-A154-AF5B750BF0F7</key>
+												<real>3.0483813285827637</real>
+												<key>F0D04C9F-5ACF-446C-B85D-558A00869A44</key>
+												<real>19.133806228637695</real>
+												<key>FC4AD10A-7E2F-47B3-891B-3B887A0B0CAA</key>
+												<real>6.9349155426025391</real>
+											</dict>
+										</dict>
+										<dict>
+											<key>frameIndex</key>
+											<integer>14</integer>
+											<key>rotations</key>
+											<dict>
+												<key>0770F0AD-F91D-4226-9AFC-AA634764E428</key>
+												<real>7.5043578147888184</real>
+												<key>2EC2263B-BD39-4C18-B2C1-3ADF8FAD7F13</key>
+												<real>12.15565013885498</real>
+												<key>498DF74D-DE15-4870-B497-5EBFB6AC9187</key>
+												<real>37.336738586425781</real>
+												<key>78A6D2C9-F398-4D08-B30B-96FAB5582170</key>
+												<real>4.2638373374938965</real>
+												<key>99F4F8B1-80EC-430C-A154-AF5B750BF0F7</key>
+												<real>0.50551694631576538</real>
+												<key>EDD56930-CFED-4482-9A50-AE020AD289EC</key>
+												<real>357.17318725585938</real>
+												<key>EEE061E4-E006-4E91-96E2-A604D6EC81EF</key>
+												<real>2.9417781829833984</real>
+												<key>F0D04C9F-5ACF-446C-B85D-558A00869A44</key>
+												<real>21.019044876098633</real>
+												<key>FC4AD10A-7E2F-47B3-891B-3B887A0B0CAA</key>
+												<real>3.4349591732025146</real>
+											</dict>
+										</dict>
+										<dict>
+											<key>frameIndex</key>
+											<integer>29</integer>
+											<key>rotations</key>
+											<dict>
+												<key>498DF74D-DE15-4870-B497-5EBFB6AC9187</key>
+												<real>33.376976013183594</real>
+												<key>78A6D2C9-F398-4D08-B30B-96FAB5582170</key>
+												<real>6.9349155426025391</real>
+												<key>99F4F8B1-80EC-430C-A154-AF5B750BF0F7</key>
+												<real>3.0483813285827637</real>
+												<key>F0D04C9F-5ACF-446C-B85D-558A00869A44</key>
+												<real>19.133806228637695</real>
+												<key>FC4AD10A-7E2F-47B3-891B-3B887A0B0CAA</key>
+												<real>6.9349155426025391</real>
+											</dict>
+										</dict>
+									</array>
+									<key>type</key>
+									<string>LHChildrenRotationsProperty</string>
+								</dict>
+							</dict>
+							<key>repetitions</key>
+							<integer>1</integer>
+							<key>totalFrames</key>
+							<integer>30</integer>
+						</dict>
+					</array>
+					<key>children</key>
+					<array>
+						<dict>
+							<key>alpha</key>
+							<real>255</real>
+							<key>anchor</key>
+							<string>{0.107133, 0.212329}</string>
+							<key>colorOverlay</key>
+							<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+							<key>generalPosition</key>
+							<string>{-0.622410, -0.043754}</string>
+							<key>imageFileName</key>
+							<string>mainScreen.png</string>
+							<key>invisibleInEditor</key>
+							<false/>
+							<key>name</key>
+							<string>topLeaf5_1.png</string>
+							<key>nodeType</key>
+							<string>LHSprite</string>
+							<key>parentUUID</key>
+							<string>378EB36A-F2E3-461F-8442-4C25574ED958</string>
+							<key>relativeImagePath</key>
+							<string>publishedResources/</string>
+							<key>rotation</key>
+							<real>0.0</real>
+							<key>scale</key>
+							<string>{1.000000, 1.000000}</string>
+							<key>size</key>
+							<string>{231.000000, 239.000000}</string>
+							<key>spriteName</key>
+							<string>topLeaf5.png</string>
+							<key>spriteUUID</key>
+							<string>F51C0C89-9779-4CF3-8B56-FC0B08016527</string>
+							<key>tags</key>
+							<array>
+								<string>DEFAULT</string>
+							</array>
+							<key>uuid</key>
+							<string>2EC2263B-BD39-4C18-B2C1-3ADF8FAD7F13</string>
+							<key>zOrder</key>
+							<integer>-2</integer>
+						</dict>
+						<dict>
+							<key>alpha</key>
+							<real>255</real>
+							<key>anchor</key>
+							<string>{0.607051, 0.105298}</string>
+							<key>colorOverlay</key>
+							<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+							<key>generalPosition</key>
+							<string>{-0.057215, -0.185399}</string>
+							<key>imageFileName</key>
+							<string>mainScreen.png</string>
+							<key>invisibleInEditor</key>
+							<false/>
+							<key>name</key>
+							<string>topLeaf123_1.png</string>
+							<key>nodeType</key>
+							<string>LHSprite</string>
+							<key>parentUUID</key>
+							<string>378EB36A-F2E3-461F-8442-4C25574ED958</string>
+							<key>relativeImagePath</key>
+							<string>publishedResources/</string>
+							<key>rotation</key>
+							<real>6.9349155426025391</real>
+							<key>scale</key>
+							<string>{1.000000, 1.000000}</string>
+							<key>size</key>
+							<string>{255.000000, 248.000000}</string>
+							<key>spriteName</key>
+							<string>topLeaf123.png</string>
+							<key>spriteUUID</key>
+							<string>5E93FFB4-01A9-4B00-941D-42AB73C9698F</string>
+							<key>tags</key>
+							<array>
+								<string>DEFAULT</string>
+							</array>
+							<key>uuid</key>
+							<string>78A6D2C9-F398-4D08-B30B-96FAB5582170</string>
+							<key>zOrder</key>
+							<integer>-1</integer>
+						</dict>
+						<dict>
+							<key>alpha</key>
+							<real>255</real>
+							<key>anchor</key>
+							<string>{0.607051, 0.105298}</string>
+							<key>colorOverlay</key>
+							<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+							<key>generalPosition</key>
+							<string>{-0.380983, -0.165698}</string>
+							<key>imageFileName</key>
+							<string>mainScreen.png</string>
+							<key>invisibleInEditor</key>
+							<false/>
+							<key>name</key>
+							<string>topLeaf123_3.png</string>
+							<key>nodeType</key>
+							<string>LHSprite</string>
+							<key>parentUUID</key>
+							<string>378EB36A-F2E3-461F-8442-4C25574ED958</string>
+							<key>relativeImagePath</key>
+							<string>publishedResources/</string>
+							<key>rotation</key>
+							<real>6.9349155426025391</real>
+							<key>scale</key>
+							<string>{1.000000, 1.000000}</string>
+							<key>size</key>
+							<string>{255.000000, 248.000000}</string>
+							<key>spriteName</key>
+							<string>topLeaf123.png</string>
+							<key>spriteUUID</key>
+							<string>5E93FFB4-01A9-4B00-941D-42AB73C9698F</string>
+							<key>tags</key>
+							<array>
+								<string>DEFAULT</string>
+							</array>
+							<key>uuid</key>
+							<string>FC4AD10A-7E2F-47B3-891B-3B887A0B0CAA</string>
+							<key>zOrder</key>
+							<integer>-1</integer>
+						</dict>
+						<dict>
+							<key>alpha</key>
+							<real>255</real>
+							<key>anchor</key>
+							<string>{0.107133, 0.212329}</string>
+							<key>colorOverlay</key>
+							<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+							<key>generalPosition</key>
+							<string>{0.269487, -0.132963}</string>
+							<key>imageFileName</key>
+							<string>mainScreen.png</string>
+							<key>invisibleInEditor</key>
+							<false/>
+							<key>name</key>
+							<string>topLeaf5.png</string>
+							<key>nodeType</key>
+							<string>LHSprite</string>
+							<key>parentUUID</key>
+							<string>378EB36A-F2E3-461F-8442-4C25574ED958</string>
+							<key>relativeImagePath</key>
+							<string>publishedResources/</string>
+							<key>rotation</key>
+							<real>0.0</real>
+							<key>scale</key>
+							<string>{1.000000, 1.000000}</string>
+							<key>size</key>
+							<string>{231.000000, 239.000000}</string>
+							<key>spriteName</key>
+							<string>topLeaf5.png</string>
+							<key>spriteUUID</key>
+							<string>F51C0C89-9779-4CF3-8B56-FC0B08016527</string>
+							<key>tags</key>
+							<array>
+								<string>DEFAULT</string>
+							</array>
+							<key>uuid</key>
+							<string>EEE061E4-E006-4E91-96E2-A604D6EC81EF</string>
+							<key>zOrder</key>
+							<integer>0</integer>
+						</dict>
+						<dict>
+							<key>alpha</key>
+							<real>255</real>
+							<key>anchor</key>
+							<string>{0.607051, 0.105298}</string>
+							<key>colorOverlay</key>
+							<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+							<key>generalPosition</key>
+							<string>{0.080262, -0.184633}</string>
+							<key>imageFileName</key>
+							<string>mainScreen.png</string>
+							<key>invisibleInEditor</key>
+							<false/>
+							<key>name</key>
+							<string>topLeaf123_2.png</string>
+							<key>nodeType</key>
+							<string>LHSprite</string>
+							<key>parentUUID</key>
+							<string>378EB36A-F2E3-461F-8442-4C25574ED958</string>
+							<key>relativeImagePath</key>
+							<string>publishedResources/</string>
+							<key>rotation</key>
+							<real>3.0483813285827637</real>
+							<key>scale</key>
+							<string>{1.000000, 1.000000}</string>
+							<key>size</key>
+							<string>{255.000000, 248.000000}</string>
+							<key>spriteName</key>
+							<string>topLeaf123.png</string>
+							<key>spriteUUID</key>
+							<string>5E93FFB4-01A9-4B00-941D-42AB73C9698F</string>
+							<key>tags</key>
+							<array>
+								<string>DEFAULT</string>
+							</array>
+							<key>uuid</key>
+							<string>99F4F8B1-80EC-430C-A154-AF5B750BF0F7</string>
+							<key>zOrder</key>
+							<integer>0</integer>
+						</dict>
+						<dict>
+							<key>alpha</key>
+							<real>255</real>
+							<key>anchor</key>
+							<string>{0.607051, 0.105298}</string>
+							<key>colorOverlay</key>
+							<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+							<key>generalPosition</key>
+							<string>{-0.187048, -0.165772}</string>
+							<key>imageFileName</key>
+							<string>mainScreen.png</string>
+							<key>invisibleInEditor</key>
+							<false/>
+							<key>name</key>
+							<string>topLeaf123.png</string>
+							<key>nodeType</key>
+							<string>LHSprite</string>
+							<key>parentUUID</key>
+							<string>378EB36A-F2E3-461F-8442-4C25574ED958</string>
+							<key>relativeImagePath</key>
+							<string>publishedResources/</string>
+							<key>rotation</key>
+							<real>19.133806228637695</real>
+							<key>scale</key>
+							<string>{1.000000, 1.000000}</string>
+							<key>size</key>
+							<string>{255.000000, 248.000000}</string>
+							<key>spriteName</key>
+							<string>topLeaf123.png</string>
+							<key>spriteUUID</key>
+							<string>5E93FFB4-01A9-4B00-941D-42AB73C9698F</string>
+							<key>tags</key>
+							<array>
+								<string>DEFAULT</string>
+							</array>
+							<key>uuid</key>
+							<string>F0D04C9F-5ACF-446C-B85D-558A00869A44</string>
+							<key>zOrder</key>
+							<integer>0</integer>
+						</dict>
+						<dict>
+							<key>alpha</key>
+							<real>255</real>
+							<key>anchor</key>
+							<string>{0.234818, 0.166519}</string>
+							<key>colorOverlay</key>
+							<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+							<key>generalPosition</key>
+							<string>{0.149652, -0.123651}</string>
+							<key>imageFileName</key>
+							<string>mainScreen.png</string>
+							<key>invisibleInEditor</key>
+							<false/>
+							<key>name</key>
+							<string>topLeaf4.png</string>
+							<key>nodeType</key>
+							<string>LHSprite</string>
+							<key>parentUUID</key>
+							<string>378EB36A-F2E3-461F-8442-4C25574ED958</string>
+							<key>relativeImagePath</key>
+							<string>publishedResources/</string>
+							<key>rotation</key>
+							<real>0.0</real>
+							<key>scale</key>
+							<string>{1.000000, 1.000000}</string>
+							<key>size</key>
+							<string>{208.000000, 178.000000}</string>
+							<key>spriteName</key>
+							<string>topLeaf4.png</string>
+							<key>spriteUUID</key>
+							<string>B7DFABAA-ECFC-4FF6-973C-990DB9908A08</string>
+							<key>tags</key>
+							<array>
+								<string>DEFAULT</string>
+							</array>
+							<key>uuid</key>
+							<string>EDD56930-CFED-4482-9A50-AE020AD289EC</string>
+							<key>zOrder</key>
+							<integer>2</integer>
+						</dict>
+						<dict>
+							<key>alpha</key>
+							<real>255</real>
+							<key>anchor</key>
+							<string>{0.234818, 0.166519}</string>
+							<key>colorOverlay</key>
+							<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+							<key>generalPosition</key>
+							<string>{0.462529, -0.125771}</string>
+							<key>imageFileName</key>
+							<string>mainScreen.png</string>
+							<key>invisibleInEditor</key>
+							<false/>
+							<key>name</key>
+							<string>topLeaf4_1.png</string>
+							<key>nodeType</key>
+							<string>LHSprite</string>
+							<key>parentUUID</key>
+							<string>378EB36A-F2E3-461F-8442-4C25574ED958</string>
+							<key>relativeImagePath</key>
+							<string>publishedResources/</string>
+							<key>rotation</key>
+							<real>0.0</real>
+							<key>scale</key>
+							<string>{1.000000, 1.000000}</string>
+							<key>size</key>
+							<string>{208.000000, 178.000000}</string>
+							<key>spriteName</key>
+							<string>topLeaf4.png</string>
+							<key>spriteUUID</key>
+							<string>B7DFABAA-ECFC-4FF6-973C-990DB9908A08</string>
+							<key>tags</key>
+							<array>
+								<string>DEFAULT</string>
+							</array>
+							<key>uuid</key>
+							<string>0770F0AD-F91D-4226-9AFC-AA634764E428</string>
+							<key>zOrder</key>
+							<integer>2</integer>
+						</dict>
+						<dict>
+							<key>alpha</key>
+							<real>255</real>
+							<key>anchor</key>
+							<string>{0.234818, 0.166519}</string>
+							<key>colorOverlay</key>
+							<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+							<key>generalPosition</key>
+							<string>{0.588425, -0.066430}</string>
+							<key>imageFileName</key>
+							<string>mainScreen.png</string>
+							<key>invisibleInEditor</key>
+							<false/>
+							<key>name</key>
+							<string>topLeaf4_2.png</string>
+							<key>nodeType</key>
+							<string>LHSprite</string>
+							<key>parentUUID</key>
+							<string>378EB36A-F2E3-461F-8442-4C25574ED958</string>
+							<key>relativeImagePath</key>
+							<string>publishedResources/</string>
+							<key>rotation</key>
+							<real>33.376976013183594</real>
+							<key>scale</key>
+							<string>{1.000000, 1.000000}</string>
+							<key>size</key>
+							<string>{208.000000, 178.000000}</string>
+							<key>spriteName</key>
+							<string>topLeaf4.png</string>
+							<key>spriteUUID</key>
+							<string>B7DFABAA-ECFC-4FF6-973C-990DB9908A08</string>
+							<key>tags</key>
+							<array>
+								<string>DEFAULT</string>
+							</array>
+							<key>uuid</key>
+							<string>498DF74D-DE15-4870-B497-5EBFB6AC9187</string>
+							<key>zOrder</key>
+							<integer>2</integer>
+						</dict>
+					</array>
+					<key>colorOverlay</key>
+					<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+					<key>generalPosition</key>
+					<string>{0.480795, 0.020988}</string>
+					<key>invisibleInEditor</key>
+					<false/>
+					<key>name</key>
+					<string>topLeafs</string>
+					<key>nodeType</key>
+					<string>LHNode</string>
+					<key>parentUUID</key>
+					<string>_GAME_WORLD_NODE_UUID_</string>
+					<key>rotation</key>
+					<real>0.0</real>
+					<key>scale</key>
+					<string>{1.000000, 1.000000}</string>
+					<key>size</key>
+					<string>{979.682007, 319.433777}</string>
+					<key>tags</key>
+					<array>
+						<string>DEFAULT</string>
+					</array>
+					<key>uuid</key>
+					<string>378EB36A-F2E3-461F-8442-4C25574ED958</string>
+					<key>zOrder</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>alpha</key>
+					<real>255</real>
+					<key>anchor</key>
+					<string>{0.500000, 0.500000}</string>
+					<key>animations</key>
+					<array>
+						<dict>
+							<key>active</key>
+							<true/>
+							<key>fps</key>
+							<integer>12</integer>
+							<key>name</key>
+							<string>wind1</string>
+							<key>properties</key>
+							<dict>
+								<key>Children Rotations</key>
+								<dict>
+									<key>Frames</key>
+									<array>
+										<dict>
+											<key>frameIndex</key>
+											<integer>0</integer>
+											<key>rotations</key>
+											<dict/>
+										</dict>
+										<dict>
+											<key>frameIndex</key>
+											<integer>14</integer>
+											<key>rotations</key>
+											<dict>
+												<key>2D1CCFA5-BB00-4BB0-9B4C-3CB168631092</key>
+												<real>3.2268893718719482</real>
+												<key>312DDF2D-BBBC-417F-994D-6597ECB012C5</key>
+												<real>3.9125649929046631</real>
+												<key>435E6CA6-051D-4C5E-9F94-23F5D9F14650</key>
+												<real>3.8075551986694336</real>
+												<key>4E02598F-719B-47D8-BEB5-B31FE7926F80</key>
+												<real>355.55453491210938</real>
+												<key>58F9E9E3-1A20-4392-8032-C1B0246D88F7</key>
+												<real>349.39266967773438</real>
+												<key>60ADA04E-9851-4C5D-9BFA-3D0EC58FA1D2</key>
+												<real>355.18450927734375</real>
+												<key>6ABD39B6-48EF-40FB-AFF9-FD6A7EE9D678</key>
+												<real>3.3464994430541992</real>
+												<key>6B41CBB2-80FD-4DB5-8385-6775AD8BC971</key>
+												<real>356.88742065429688</real>
+												<key>71487A75-EF54-4E81-8005-721A318168EF</key>
+												<real>2.3943278789520264</real>
+												<key>850EDF0C-0D2E-42CA-AAC8-95B990CD28AA</key>
+												<real>355.2965087890625</real>
+												<key>93FE8591-EACD-47BC-8158-0B6DDCCB7A35</key>
+												<real>355.4833984375</real>
+												<key>A06374AF-4389-43F6-B1CC-E283D5D795DA</key>
+												<real>4.1859598159790039</real>
+												<key>CA209523-B5FA-4137-AF60-585A3DF21294</key>
+												<real>3.8509194850921631</real>
+												<key>D2328715-78E1-4B27-9577-62C591B09855</key>
+												<real>353.17303466796875</real>
+											</dict>
+										</dict>
+										<dict>
+											<key>frameIndex</key>
+											<integer>29</integer>
+											<key>rotations</key>
+											<dict/>
+										</dict>
+									</array>
+									<key>type</key>
+									<string>LHChildrenRotationsProperty</string>
+								</dict>
+							</dict>
+							<key>repetitions</key>
+							<integer>1</integer>
+							<key>totalFrames</key>
+							<integer>30</integer>
+						</dict>
+						<dict>
+							<key>active</key>
+							<false/>
+							<key>fps</key>
+							<integer>12</integer>
+							<key>name</key>
+							<string>wind2</string>
+							<key>properties</key>
+							<dict>
+								<key>Children Rotations</key>
+								<dict>
+									<key>Frames</key>
+									<array>
+										<dict>
+											<key>frameIndex</key>
+											<integer>0</integer>
+											<key>rotations</key>
+											<dict/>
+										</dict>
+										<dict>
+											<key>frameIndex</key>
+											<integer>14</integer>
+											<key>rotations</key>
+											<dict>
+												<key>2D1CCFA5-BB00-4BB0-9B4C-3CB168631092</key>
+												<real>358.49557495117188</real>
+												<key>312DDF2D-BBBC-417F-994D-6597ECB012C5</key>
+												<real>6.1904892921447754</real>
+												<key>435E6CA6-051D-4C5E-9F94-23F5D9F14650</key>
+												<real>0.2238118052482605</real>
+												<key>4E02598F-719B-47D8-BEB5-B31FE7926F80</key>
+												<real>354.564453125</real>
+												<key>58F9E9E3-1A20-4392-8032-C1B0246D88F7</key>
+												<real>347.25457763671875</real>
+												<key>60ADA04E-9851-4C5D-9BFA-3D0EC58FA1D2</key>
+												<real>359.37286376953125</real>
+												<key>6ABD39B6-48EF-40FB-AFF9-FD6A7EE9D678</key>
+												<real>4.5100197792053223</real>
+												<key>6B41CBB2-80FD-4DB5-8385-6775AD8BC971</key>
+												<real>-2.0009241104125977</real>
+												<key>71487A75-EF54-4E81-8005-721A318168EF</key>
+												<real>4.2201151847839355</real>
+												<key>850EDF0C-0D2E-42CA-AAC8-95B990CD28AA</key>
+												<real>359.37191772460938</real>
+												<key>93FE8591-EACD-47BC-8158-0B6DDCCB7A35</key>
+												<real>1.1501204967498779</real>
+												<key>A06374AF-4389-43F6-B1CC-E283D5D795DA</key>
+												<real>356.75491333007812</real>
+												<key>CA209523-B5FA-4137-AF60-585A3DF21294</key>
+												<real>7.6477813720703125</real>
+												<key>D2328715-78E1-4B27-9577-62C591B09855</key>
+												<real>353.57696533203125</real>
+											</dict>
+										</dict>
+										<dict>
+											<key>frameIndex</key>
+											<integer>29</integer>
+											<key>rotations</key>
+											<dict/>
+										</dict>
+									</array>
+									<key>type</key>
+									<string>LHChildrenRotationsProperty</string>
+								</dict>
+							</dict>
+							<key>repetitions</key>
+							<integer>1</integer>
+							<key>totalFrames</key>
+							<integer>30</integer>
+						</dict>
+						<dict>
+							<key>active</key>
+							<false/>
+							<key>fps</key>
+							<integer>10</integer>
+							<key>name</key>
+							<string>wind3</string>
+							<key>properties</key>
+							<dict>
+								<key>Children Rotations</key>
+								<dict>
+									<key>Frames</key>
+									<array>
+										<dict>
+											<key>frameIndex</key>
+											<integer>0</integer>
+											<key>rotations</key>
+											<dict/>
+										</dict>
+										<dict>
+											<key>frameIndex</key>
+											<integer>14</integer>
+											<key>rotations</key>
+											<dict>
+												<key>2D1CCFA5-BB00-4BB0-9B4C-3CB168631092</key>
+												<real>357.5545654296875</real>
+												<key>312DDF2D-BBBC-417F-994D-6597ECB012C5</key>
+												<real>6.5619611740112305</real>
+												<key>435E6CA6-051D-4C5E-9F94-23F5D9F14650</key>
+												<real>356.119384765625</real>
+												<key>4E02598F-719B-47D8-BEB5-B31FE7926F80</key>
+												<real>351.68084716796875</real>
+												<key>58F9E9E3-1A20-4392-8032-C1B0246D88F7</key>
+												<real>8.7951555252075195</real>
+												<key>60ADA04E-9851-4C5D-9BFA-3D0EC58FA1D2</key>
+												<real>353.79995727539062</real>
+												<key>6ABD39B6-48EF-40FB-AFF9-FD6A7EE9D678</key>
+												<real>8.6296482086181641</real>
+												<key>6B41CBB2-80FD-4DB5-8385-6775AD8BC971</key>
+												<real>5.1125893592834473</real>
+												<key>71487A75-EF54-4E81-8005-721A318168EF</key>
+												<real>356.52023315429688</real>
+												<key>850EDF0C-0D2E-42CA-AAC8-95B990CD28AA</key>
+												<real>3.7270433902740479</real>
+												<key>93FE8591-EACD-47BC-8158-0B6DDCCB7A35</key>
+												<real>355.66836547851562</real>
+												<key>A06374AF-4389-43F6-B1CC-E283D5D795DA</key>
+												<real>4.1334648132324219</real>
+												<key>CA209523-B5FA-4137-AF60-585A3DF21294</key>
+												<real>354.51953125</real>
+												<key>D2328715-78E1-4B27-9577-62C591B09855</key>
+												<real>2.5507521629333496</real>
+											</dict>
+										</dict>
+										<dict>
+											<key>frameIndex</key>
+											<integer>29</integer>
+											<key>rotations</key>
+											<dict/>
+										</dict>
+									</array>
+									<key>type</key>
+									<string>LHChildrenRotationsProperty</string>
+								</dict>
+							</dict>
+							<key>repetitions</key>
+							<integer>1</integer>
+							<key>totalFrames</key>
+							<integer>30</integer>
+						</dict>
+					</array>
+					<key>children</key>
+					<array>
+						<dict>
+							<key>alpha</key>
+							<real>255</real>
+							<key>anchor</key>
+							<string>{0.167681, 0.871489}</string>
+							<key>colorOverlay</key>
+							<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+							<key>generalPosition</key>
+							<string>{-0.015904, 0.236962}</string>
+							<key>imageFileName</key>
+							<string>mainScreen.png</string>
+							<key>invisibleInEditor</key>
+							<false/>
+							<key>name</key>
+							<string>bottomLeaf6.png</string>
+							<key>nodeType</key>
+							<string>LHSprite</string>
+							<key>parentUUID</key>
+							<string>9F68319F-4A6C-4557-A11D-BBF7BF4A520D</string>
+							<key>relativeImagePath</key>
+							<string>publishedResources/</string>
+							<key>rotation</key>
+							<real>0.0</real>
+							<key>scale</key>
+							<string>{1.000000, 1.000000}</string>
+							<key>size</key>
+							<string>{142.000000, 142.000000}</string>
+							<key>spriteName</key>
+							<string>bottomLeaf6.png</string>
+							<key>spriteUUID</key>
+							<string>F049B6B4-FDB8-4F29-86FA-8198D001CD3A</string>
+							<key>tags</key>
+							<array>
+								<string>DEFAULT</string>
+							</array>
+							<key>uuid</key>
+							<string>58F9E9E3-1A20-4392-8032-C1B0246D88F7</string>
+							<key>zOrder</key>
+							<integer>-2</integer>
+						</dict>
+						<dict>
+							<key>alpha</key>
+							<real>255</real>
+							<key>anchor</key>
+							<string>{0.806529, 0.801232}</string>
+							<key>colorOverlay</key>
+							<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+							<key>generalPosition</key>
+							<string>{0.348505, 0.140919}</string>
+							<key>imageFileName</key>
+							<string>mainScreen.png</string>
+							<key>invisibleInEditor</key>
+							<false/>
+							<key>name</key>
+							<string>bottomLeaf9a.png</string>
+							<key>nodeType</key>
+							<string>LHSprite</string>
+							<key>parentUUID</key>
+							<string>9F68319F-4A6C-4557-A11D-BBF7BF4A520D</string>
+							<key>relativeImagePath</key>
+							<string>publishedResources/</string>
+							<key>rotation</key>
+							<real>0.0</real>
+							<key>scale</key>
+							<string>{1.000000, 1.000000}</string>
+							<key>size</key>
+							<string>{174.000000, 179.000000}</string>
+							<key>spriteName</key>
+							<string>bottomLeaf9a.png</string>
+							<key>spriteUUID</key>
+							<string>2217DCF4-1E7F-42BC-89F8-9876F26EEE9D</string>
+							<key>tags</key>
+							<array>
+								<string>DEFAULT</string>
+							</array>
+							<key>uuid</key>
+							<string>312DDF2D-BBBC-417F-994D-6597ECB012C5</string>
+							<key>zOrder</key>
+							<integer>-2</integer>
+						</dict>
+						<dict>
+							<key>alpha</key>
+							<real>255</real>
+							<key>anchor</key>
+							<string>{0.844210, 0.826828}</string>
+							<key>colorOverlay</key>
+							<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+							<key>generalPosition</key>
+							<string>{0.637627, -0.121923}</string>
+							<key>imageFileName</key>
+							<string>mainScreen.png</string>
+							<key>invisibleInEditor</key>
+							<false/>
+							<key>name</key>
+							<string>bottomLeaf11.png</string>
+							<key>nodeType</key>
+							<string>LHSprite</string>
+							<key>parentUUID</key>
+							<string>9F68319F-4A6C-4557-A11D-BBF7BF4A520D</string>
+							<key>relativeImagePath</key>
+							<string>publishedResources/</string>
+							<key>rotation</key>
+							<real>0.0</real>
+							<key>scale</key>
+							<string>{1.000000, 1.000000}</string>
+							<key>size</key>
+							<string>{176.000000, 182.000000}</string>
+							<key>spriteName</key>
+							<string>bottomLeaf8.png</string>
+							<key>spriteUUID</key>
+							<string>F7B40F82-5059-46F5-8E46-FEFB183BE64B</string>
+							<key>tags</key>
+							<array>
+								<string>DEFAULT</string>
+							</array>
+							<key>uuid</key>
+							<string>435E6CA6-051D-4C5E-9F94-23F5D9F14650</string>
+							<key>zOrder</key>
+							<integer>-2</integer>
+						</dict>
+						<dict>
+							<key>alpha</key>
+							<real>255</real>
+							<key>anchor</key>
+							<string>{0.276153, 0.851676}</string>
+							<key>colorOverlay</key>
+							<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+							<key>generalPosition</key>
+							<string>{-0.311565, 0.229912}</string>
+							<key>imageFileName</key>
+							<string>mainScreen.png</string>
+							<key>invisibleInEditor</key>
+							<false/>
+							<key>name</key>
+							<string>bottomLeaf3.png</string>
+							<key>nodeType</key>
+							<string>LHSprite</string>
+							<key>parentUUID</key>
+							<string>9F68319F-4A6C-4557-A11D-BBF7BF4A520D</string>
+							<key>relativeImagePath</key>
+							<string>publishedResources/</string>
+							<key>rotation</key>
+							<real>0.0</real>
+							<key>scale</key>
+							<string>{1.000000, 1.000000}</string>
+							<key>size</key>
+							<string>{168.000000, 150.000000}</string>
+							<key>spriteName</key>
+							<string>bottomLeaf3.png</string>
+							<key>spriteUUID</key>
+							<string>DBB1D628-0590-4519-BACC-51BCBE6F9AF1</string>
+							<key>tags</key>
+							<array>
+								<string>DEFAULT</string>
+							</array>
+							<key>uuid</key>
+							<string>D2328715-78E1-4B27-9577-62C591B09855</string>
+							<key>zOrder</key>
+							<integer>-1</integer>
+						</dict>
+						<dict>
+							<key>alpha</key>
+							<real>255</real>
+							<key>anchor</key>
+							<string>{0.131444, 0.868213}</string>
+							<key>colorOverlay</key>
+							<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+							<key>generalPosition</key>
+							<string>{-0.126198, 0.245553}</string>
+							<key>imageFileName</key>
+							<string>mainScreen.png</string>
+							<key>invisibleInEditor</key>
+							<false/>
+							<key>name</key>
+							<string>bottomLeaf5.png</string>
+							<key>nodeType</key>
+							<string>LHSprite</string>
+							<key>parentUUID</key>
+							<string>9F68319F-4A6C-4557-A11D-BBF7BF4A520D</string>
+							<key>relativeImagePath</key>
+							<string>publishedResources/</string>
+							<key>rotation</key>
+							<real>0.0</real>
+							<key>scale</key>
+							<string>{1.000000, 1.000000}</string>
+							<key>size</key>
+							<string>{160.000000, 183.000000}</string>
+							<key>spriteName</key>
+							<string>bottomLeaf5.png</string>
+							<key>spriteUUID</key>
+							<string>E56E1839-19A4-4D38-B8D9-FAA5275CCEC8</string>
+							<key>tags</key>
+							<array>
+								<string>DEFAULT</string>
+							</array>
+							<key>uuid</key>
+							<string>4E02598F-719B-47D8-BEB5-B31FE7926F80</string>
+							<key>zOrder</key>
+							<integer>-1</integer>
+						</dict>
+						<dict>
+							<key>alpha</key>
+							<real>255</real>
+							<key>anchor</key>
+							<string>{0.844210, 0.826828}</string>
+							<key>colorOverlay</key>
+							<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+							<key>generalPosition</key>
+							<string>{0.345057, 0.243516}</string>
+							<key>imageFileName</key>
+							<string>mainScreen.png</string>
+							<key>invisibleInEditor</key>
+							<false/>
+							<key>name</key>
+							<string>bottomLeaf8.png</string>
+							<key>nodeType</key>
+							<string>LHSprite</string>
+							<key>parentUUID</key>
+							<string>9F68319F-4A6C-4557-A11D-BBF7BF4A520D</string>
+							<key>relativeImagePath</key>
+							<string>publishedResources/</string>
+							<key>rotation</key>
+							<real>0.0</real>
+							<key>scale</key>
+							<string>{1.000000, 1.000000}</string>
+							<key>size</key>
+							<string>{176.000000, 182.000000}</string>
+							<key>spriteName</key>
+							<string>bottomLeaf8.png</string>
+							<key>spriteUUID</key>
+							<string>F7B40F82-5059-46F5-8E46-FEFB183BE64B</string>
+							<key>tags</key>
+							<array>
+								<string>DEFAULT</string>
+							</array>
+							<key>uuid</key>
+							<string>6B41CBB2-80FD-4DB5-8385-6775AD8BC971</string>
+							<key>zOrder</key>
+							<integer>0</integer>
+						</dict>
+						<dict>
+							<key>alpha</key>
+							<real>255</real>
+							<key>anchor</key>
+							<string>{0.830929, 0.816816}</string>
+							<key>colorOverlay</key>
+							<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+							<key>generalPosition</key>
+							<string>{0.215242, 0.253100}</string>
+							<key>imageFileName</key>
+							<string>mainScreen.png</string>
+							<key>invisibleInEditor</key>
+							<false/>
+							<key>name</key>
+							<string>bottomLeaf7_10b.png</string>
+							<key>nodeType</key>
+							<string>LHSprite</string>
+							<key>parentUUID</key>
+							<string>9F68319F-4A6C-4557-A11D-BBF7BF4A520D</string>
+							<key>relativeImagePath</key>
+							<string>publishedResources/</string>
+							<key>rotation</key>
+							<real>0.0</real>
+							<key>scale</key>
+							<string>{1.000000, 1.000000}</string>
+							<key>size</key>
+							<string>{195.000000, 218.000000}</string>
+							<key>spriteName</key>
+							<string>bottomLeaf7_10b.png</string>
+							<key>spriteUUID</key>
+							<string>E44AA514-AA84-4533-AD89-90B7E94A017A</string>
+							<key>tags</key>
+							<array>
+								<string>DEFAULT</string>
+							</array>
+							<key>uuid</key>
+							<string>CA209523-B5FA-4137-AF60-585A3DF21294</string>
+							<key>zOrder</key>
+							<integer>0</integer>
+						</dict>
+						<dict>
+							<key>alpha</key>
+							<real>255</real>
+							<key>anchor</key>
+							<string>{0.479100, 0.879931}</string>
+							<key>colorOverlay</key>
+							<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+							<key>generalPosition</key>
+							<string>{-0.182880, 0.295333}</string>
+							<key>imageFileName</key>
+							<string>mainScreen.png</string>
+							<key>invisibleInEditor</key>
+							<false/>
+							<key>name</key>
+							<string>bottomLeaf4.png</string>
+							<key>nodeType</key>
+							<string>LHSprite</string>
+							<key>parentUUID</key>
+							<string>9F68319F-4A6C-4557-A11D-BBF7BF4A520D</string>
+							<key>relativeImagePath</key>
+							<string>publishedResources/</string>
+							<key>rotation</key>
+							<real>0.0</real>
+							<key>scale</key>
+							<string>{1.000000, 1.000000}</string>
+							<key>size</key>
+							<string>{189.000000, 223.000000}</string>
+							<key>spriteName</key>
+							<string>bottomLeaf4.png</string>
+							<key>spriteUUID</key>
+							<string>E2F431C8-F740-4FB4-84E4-75E1A0D98447</string>
+							<key>tags</key>
+							<array>
+								<string>DEFAULT</string>
+							</array>
+							<key>uuid</key>
+							<string>71487A75-EF54-4E81-8005-721A318168EF</string>
+							<key>zOrder</key>
+							<integer>0</integer>
+						</dict>
+						<dict>
+							<key>alpha</key>
+							<real>255</real>
+							<key>anchor</key>
+							<string>{0.241727, 0.914103}</string>
+							<key>colorOverlay</key>
+							<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+							<key>generalPosition</key>
+							<string>{-0.560367, 0.212859}</string>
+							<key>imageFileName</key>
+							<string>mainScreen.png</string>
+							<key>invisibleInEditor</key>
+							<false/>
+							<key>name</key>
+							<string>bottomLeaf1.png</string>
+							<key>nodeType</key>
+							<string>LHSprite</string>
+							<key>parentUUID</key>
+							<string>9F68319F-4A6C-4557-A11D-BBF7BF4A520D</string>
+							<key>relativeImagePath</key>
+							<string>publishedResources/</string>
+							<key>rotation</key>
+							<real>0.0</real>
+							<key>scale</key>
+							<string>{1.000000, 1.000000}</string>
+							<key>size</key>
+							<string>{311.000000, 294.000000}</string>
+							<key>spriteName</key>
+							<string>bottomLeaf1.png</string>
+							<key>spriteUUID</key>
+							<string>C8385F3B-546E-4BD8-9F89-38D4D41B0126</string>
+							<key>tags</key>
+							<array>
+								<string>DEFAULT</string>
+							</array>
+							<key>uuid</key>
+							<string>2D1CCFA5-BB00-4BB0-9B4C-3CB168631092</string>
+							<key>zOrder</key>
+							<integer>0</integer>
+						</dict>
+						<dict>
+							<key>alpha</key>
+							<real>255</real>
+							<key>anchor</key>
+							<string>{0.826806, 0.872564}</string>
+							<key>colorOverlay</key>
+							<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+							<key>generalPosition</key>
+							<string>{0.596965, 0.179437}</string>
+							<key>imageFileName</key>
+							<string>mainScreen.png</string>
+							<key>invisibleInEditor</key>
+							<false/>
+							<key>name</key>
+							<string>bottomLeaf10a.png</string>
+							<key>nodeType</key>
+							<string>LHSprite</string>
+							<key>parentUUID</key>
+							<string>9F68319F-4A6C-4557-A11D-BBF7BF4A520D</string>
+							<key>relativeImagePath</key>
+							<string>publishedResources/</string>
+							<key>rotation</key>
+							<real>0.0</real>
+							<key>scale</key>
+							<string>{1.000000, 1.000000}</string>
+							<key>size</key>
+							<string>{296.000000, 277.000000}</string>
+							<key>spriteName</key>
+							<string>bottomLeaf10a.png</string>
+							<key>spriteUUID</key>
+							<string>0B67BF12-2E93-4532-BE0C-D111D6CD7C70</string>
+							<key>tags</key>
+							<array>
+								<string>DEFAULT</string>
+							</array>
+							<key>uuid</key>
+							<string>850EDF0C-0D2E-42CA-AAC8-95B990CD28AA</string>
+							<key>zOrder</key>
+							<integer>0</integer>
+						</dict>
+						<dict>
+							<key>alpha</key>
+							<real>255</real>
+							<key>anchor</key>
+							<string>{0.851186, 0.806415}</string>
+							<key>colorOverlay</key>
+							<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+							<key>generalPosition</key>
+							<string>{0.592440, 0.178621}</string>
+							<key>imageFileName</key>
+							<string>mainScreen.png</string>
+							<key>invisibleInEditor</key>
+							<false/>
+							<key>name</key>
+							<string>bottomLeaf7_10b_1.png</string>
+							<key>nodeType</key>
+							<string>LHSprite</string>
+							<key>parentUUID</key>
+							<string>9F68319F-4A6C-4557-A11D-BBF7BF4A520D</string>
+							<key>relativeImagePath</key>
+							<string>publishedResources/</string>
+							<key>rotation</key>
+							<real>0.0</real>
+							<key>scale</key>
+							<string>{1.000000, 1.000000}</string>
+							<key>size</key>
+							<string>{195.000000, 218.000000}</string>
+							<key>spriteName</key>
+							<string>bottomLeaf7_10b.png</string>
+							<key>spriteUUID</key>
+							<string>E44AA514-AA84-4533-AD89-90B7E94A017A</string>
+							<key>tags</key>
+							<array>
+								<string>DEFAULT</string>
+							</array>
+							<key>uuid</key>
+							<string>6ABD39B6-48EF-40FB-AFF9-FD6A7EE9D678</string>
+							<key>zOrder</key>
+							<integer>1</integer>
+						</dict>
+						<dict>
+							<key>alpha</key>
+							<real>255</real>
+							<key>anchor</key>
+							<string>{0.150992, 0.868445}</string>
+							<key>colorOverlay</key>
+							<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+							<key>generalPosition</key>
+							<string>{-0.556328, 0.238477}</string>
+							<key>imageFileName</key>
+							<string>mainScreen.png</string>
+							<key>invisibleInEditor</key>
+							<false/>
+							<key>name</key>
+							<string>bottomLeaf2.png</string>
+							<key>nodeType</key>
+							<string>LHSprite</string>
+							<key>parentUUID</key>
+							<string>9F68319F-4A6C-4557-A11D-BBF7BF4A520D</string>
+							<key>relativeImagePath</key>
+							<string>publishedResources/</string>
+							<key>rotation</key>
+							<real>0.0</real>
+							<key>scale</key>
+							<string>{1.000000, 1.000000}</string>
+							<key>size</key>
+							<string>{222.000000, 195.000000}</string>
+							<key>spriteName</key>
+							<string>bottomLeaf2.png</string>
+							<key>spriteUUID</key>
+							<string>3766BF37-FCD9-4DBF-9348-9A535BD66E92</string>
+							<key>tags</key>
+							<array>
+								<string>DEFAULT</string>
+							</array>
+							<key>uuid</key>
+							<string>93FE8591-EACD-47BC-8158-0B6DDCCB7A35</string>
+							<key>zOrder</key>
+							<integer>1</integer>
+						</dict>
+						<dict>
+							<key>alpha</key>
+							<real>255</real>
+							<key>anchor</key>
+							<string>{0.749002, 0.898559}</string>
+							<key>colorOverlay</key>
+							<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+							<key>generalPosition</key>
+							<string>{0.452593, 0.259420}</string>
+							<key>imageFileName</key>
+							<string>mainScreen.png</string>
+							<key>invisibleInEditor</key>
+							<false/>
+							<key>name</key>
+							<string>bottomLeaf9b.png</string>
+							<key>nodeType</key>
+							<string>LHSprite</string>
+							<key>parentUUID</key>
+							<string>9F68319F-4A6C-4557-A11D-BBF7BF4A520D</string>
+							<key>relativeImagePath</key>
+							<string>publishedResources/</string>
+							<key>rotation</key>
+							<real>0.0</real>
+							<key>scale</key>
+							<string>{1.000000, 1.000000}</string>
+							<key>size</key>
+							<string>{228.000000, 228.000000}</string>
+							<key>spriteName</key>
+							<string>bottomLeaf9b.png</string>
+							<key>spriteUUID</key>
+							<string>7373445A-2873-4EC6-AAF8-6B06CFBC1415</string>
+							<key>tags</key>
+							<array>
+								<string>DEFAULT</string>
+							</array>
+							<key>uuid</key>
+							<string>60ADA04E-9851-4C5D-9BFA-3D0EC58FA1D2</string>
+							<key>zOrder</key>
+							<integer>3</integer>
+						</dict>
+						<dict>
+							<key>alpha</key>
+							<real>255</real>
+							<key>anchor</key>
+							<string>{0.452193, 0.854274}</string>
+							<key>colorOverlay</key>
+							<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+							<key>generalPosition</key>
+							<string>{0.384211, 0.260281}</string>
+							<key>imageFileName</key>
+							<string>mainScreen.png</string>
+							<key>invisibleInEditor</key>
+							<false/>
+							<key>name</key>
+							<string>bottomLeaf9c.png</string>
+							<key>nodeType</key>
+							<string>LHSprite</string>
+							<key>parentUUID</key>
+							<string>9F68319F-4A6C-4557-A11D-BBF7BF4A520D</string>
+							<key>relativeImagePath</key>
+							<string>publishedResources/</string>
+							<key>rotation</key>
+							<real>0.0</real>
+							<key>scale</key>
+							<string>{1.000000, 1.000000}</string>
+							<key>size</key>
+							<string>{176.000000, 165.000000}</string>
+							<key>spriteName</key>
+							<string>bottomLeaf9c.png</string>
+							<key>spriteUUID</key>
+							<string>31204BA1-891F-4747-A8BA-980F9784331A</string>
+							<key>tags</key>
+							<array>
+								<string>DEFAULT</string>
+							</array>
+							<key>uuid</key>
+							<string>A06374AF-4389-43F6-B1CC-E283D5D795DA</string>
+							<key>zOrder</key>
+							<integer>4</integer>
+						</dict>
+					</array>
+					<key>colorOverlay</key>
+					<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+					<key>generalPosition</key>
+					<string>{0.490296, 0.891958}</string>
+					<key>invisibleInEditor</key>
+					<false/>
+					<key>name</key>
+					<string>bottomLeafs</string>
+					<key>nodeType</key>
+					<string>LHNode</string>
+					<key>parentUUID</key>
+					<string>_GAME_WORLD_NODE_UUID_</string>
+					<key>rotation</key>
+					<real>0.0</real>
+					<key>scale</key>
+					<string>{1.000000, 1.000000}</string>
+					<key>size</key>
+					<string>{1218.839355, 376.576660}</string>
+					<key>tags</key>
+					<array>
+						<string>DEFAULT</string>
+					</array>
+					<key>uuid</key>
+					<string>9F68319F-4A6C-4557-A11D-BBF7BF4A520D</string>
+					<key>zOrder</key>
+					<integer>2</integer>
+				</dict>
+			</array>
+			<key>colorOverlay</key>
+			<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+			<key>generalPosition</key>
+			<string>{0.000000, 0.000000}</string>
+			<key>invisibleInEditor</key>
+			<false/>
+			<key>name</key>
+			<string>GAME WORLD</string>
+			<key>nodeType</key>
+			<string>LHGameWorldNode</string>
+			<key>parentUUID</key>
+			<string>C80544A8-F354-41B1-88AD-A45486731527</string>
+			<key>rotation</key>
+			<real>0.0</real>
+			<key>scale</key>
+			<string>{1.000000, 1.000000}</string>
+			<key>size</key>
+			<string>{128.000000, 128.000000}</string>
+			<key>tags</key>
+			<array>
+				<string>DEFAULT</string>
+			</array>
+			<key>uuid</key>
+			<string>F3C9B4DB-BB9B-46C5-88FF-9D57F7C5F760</string>
+			<key>zOrder</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>alpha</key>
+			<real>255</real>
+			<key>anchor</key>
+			<string>{0.500000, 0.500000}</string>
+			<key>colorOverlay</key>
+			<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+			<key>generalPosition</key>
+			<string>{0.000000, 0.000000}</string>
+			<key>invisibleInEditor</key>
+			<false/>
+			<key>name</key>
+			<string>FRONT USER INTERFACE</string>
+			<key>nodeType</key>
+			<string>LHUINode</string>
+			<key>parentUUID</key>
+			<string>C80544A8-F354-41B1-88AD-A45486731527</string>
+			<key>rotation</key>
+			<real>0.0</real>
+			<key>scale</key>
+			<string>{1.000000, 1.000000}</string>
+			<key>size</key>
+			<string>{128.000000, 128.000000}</string>
+			<key>tags</key>
+			<array>
+				<string>DEFAULT</string>
+			</array>
+			<key>uuid</key>
+			<string>8529D454-70A5-4592-BFAB-BD973E1AE2DD</string>
+			<key>zOrder</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>designResolution</key>
+	<string>{960.000000, 640.000000}</string>
+	<key>devices</key>
+	<array>
+		<dict>
+			<key>ratio</key>
+			<real>1</real>
+			<key>size</key>
+			<string>{960.000000, 640.000000}</string>
+			<key>suffix</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>ratio</key>
+			<real>1</real>
+			<key>size</key>
+			<string>{1136.000000, 640.000000}</string>
+			<key>suffix</key>
+			<string>-568</string>
+		</dict>
+		<dict>
+			<key>ratio</key>
+			<real>1</real>
+			<key>size</key>
+			<string>{1024.000000, 768.000000}</string>
+			<key>suffix</key>
+			<string>-ipad</string>
+		</dict>
+		<dict>
+			<key>ratio</key>
+			<real>2</real>
+			<key>size</key>
+			<string>{2048.000000, 1536.000000}</string>
+			<key>suffix</key>
+			<string>-ipad@2x</string>
+		</dict>
+	</array>
+	<key>globalGravityDirection</key>
+	<string>{0.000000, -1.000000}</string>
+	<key>globalGravityForce</key>
+	<real>8</real>
+	<key>invisibleInEditor</key>
+	<false/>
+	<key>nodeType</key>
+	<string>LHScene</string>
+	<key>sceneFormat</key>
+	<real>1</real>
+	<key>tags</key>
+	<array>
+		<string>DEFAULT</string>
+	</array>
+	<key>useGlobalGravity</key>
+	<true/>
+	<key>uuid</key>
+	<string>C80544A8-F354-41B1-88AD-A45486731527</string>
+</dict>
+</plist>

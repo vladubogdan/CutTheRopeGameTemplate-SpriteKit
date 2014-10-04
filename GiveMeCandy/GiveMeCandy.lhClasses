@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>ButtonInfo</string>
+		<key>properties</key>
+		<array>
+			<dict>
+				<key>arrayType</key>
+				<integer>0</integer>
+				<key>name</key>
+				<string>levelFile</string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>arrayType</key>
+				<integer>0</integer>
+				<key>name</key>
+				<string>levelID</string>
+				<key>type</key>
+				<integer>1</integer>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>LevelInfo</string>
+		<key>properties</key>
+		<array>
+			<dict>
+				<key>arrayType</key>
+				<integer>0</integer>
+				<key>name</key>
+				<string>levelID</string>
+				<key>type</key>
+				<integer>1</integer>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

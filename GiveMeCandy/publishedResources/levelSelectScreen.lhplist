@@ -1,0 +1,1186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspect</key>
+	<integer>2</integer>
+	<key>backgroundColor</key>
+	<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+	<key>children</key>
+	<array>
+		<dict>
+			<key>alpha</key>
+			<real>255</real>
+			<key>anchor</key>
+			<string>{0.500000, 0.500000}</string>
+			<key>children</key>
+			<array>
+				<dict>
+					<key>alpha</key>
+					<real>255</real>
+					<key>anchor</key>
+					<string>{0.500000, 0.500000}</string>
+					<key>colorOverlay</key>
+					<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+					<key>generalPosition</key>
+					<string>{0.500000, 0.500000}</string>
+					<key>imageFileName</key>
+					<string>menuSelectBkgrd.png</string>
+					<key>invisibleInEditor</key>
+					<false/>
+					<key>name</key>
+					<string>menuSelectBkgrd</string>
+					<key>nodeType</key>
+					<string>LHSprite</string>
+					<key>parentUUID</key>
+					<string>_BACK_USER_INTERFACE_NODE_UUID_</string>
+					<key>relativeImagePath</key>
+					<string>backgrounds/</string>
+					<key>rotation</key>
+					<real>0.0</real>
+					<key>scale</key>
+					<string>{1.000000, 1.000000}</string>
+					<key>size</key>
+					<string>{960.000000, 640.000000}</string>
+					<key>tags</key>
+					<array>
+						<string>DEFAULT</string>
+					</array>
+					<key>uuid</key>
+					<string>91F65D1C-6CD4-4250-B416-2C63696D7168</string>
+					<key>zOrder</key>
+					<integer>0</integer>
+				</dict>
+			</array>
+			<key>colorOverlay</key>
+			<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+			<key>generalPosition</key>
+			<string>{0.000000, 0.000000}</string>
+			<key>invisibleInEditor</key>
+			<false/>
+			<key>name</key>
+			<string>BACK USER INTERFACE</string>
+			<key>nodeType</key>
+			<string>LHBackUINode</string>
+			<key>parentUUID</key>
+			<string>24193307-F2D7-4027-A0D4-7307FE985270</string>
+			<key>rotation</key>
+			<real>0.0</real>
+			<key>scale</key>
+			<string>{1.000000, 1.000000}</string>
+			<key>size</key>
+			<string>{128.000000, 128.000000}</string>
+			<key>tags</key>
+			<array>
+				<string>DEFAULT</string>
+			</array>
+			<key>uuid</key>
+			<string>EBFC676D-0240-4922-9746-6DFD0426F615</string>
+			<key>zOrder</key>
+			<integer>-1</integer>
+		</dict>
+		<dict>
+			<key>alpha</key>
+			<real>255</real>
+			<key>anchor</key>
+			<string>{0.500000, 0.500000}</string>
+			<key>children</key>
+			<array>
+				<dict>
+					<key>alpha</key>
+					<real>255</real>
+					<key>anchor</key>
+					<string>{0.500000, 0.500000}</string>
+					<key>colorOverlay</key>
+					<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+					<key>generalPosition</key>
+					<string>{0.092999, 0.868150}</string>
+					<key>imageFileName</key>
+					<string>levelSelect.png</string>
+					<key>invisibleInEditor</key>
+					<false/>
+					<key>name</key>
+					<string>goToMainMenu</string>
+					<key>nodeType</key>
+					<string>LHSprite</string>
+					<key>parentUUID</key>
+					<string>_GAME_WORLD_NODE_UUID_</string>
+					<key>relativeImagePath</key>
+					<string>publishedResources/</string>
+					<key>rotation</key>
+					<real>0.0</real>
+					<key>scale</key>
+					<string>{1.000000, 1.000000}</string>
+					<key>size</key>
+					<string>{156.000000, 152.000000}</string>
+					<key>spriteName</key>
+					<string>levelSelectBack</string>
+					<key>spriteUUID</key>
+					<string>91E27034-C1EB-4726-B0AA-AA71D5934483</string>
+					<key>tags</key>
+					<array>
+						<string>DEFAULT</string>
+					</array>
+					<key>uuid</key>
+					<string>0C0335F2-597B-4C19-A002-1C56B21477A9</string>
+					<key>zOrder</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>alpha</key>
+					<real>255</real>
+					<key>anchor</key>
+					<string>{0.500000, 0.500000}</string>
+					<key>assetFile</key>
+					<string>levelSelect.lhasset</string>
+					<key>assetUUID</key>
+					<string>FD187235-E3EC-44DB-BCA7-BC711EEF1626</string>
+					<key>colorOverlay</key>
+					<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+					<key>generalPosition</key>
+					<string>{0.126961, 0.175947}</string>
+					<key>invisibleInEditor</key>
+					<false/>
+					<key>name</key>
+					<string>levelSelect</string>
+					<key>nodeType</key>
+					<string>LHAsset</string>
+					<key>parentUUID</key>
+					<string>_GAME_WORLD_NODE_UUID_</string>
+					<key>rotation</key>
+					<real>0.0</real>
+					<key>scale</key>
+					<string>{1.000000, 1.000000}</string>
+					<key>size</key>
+					<string>{130.947266, 179.096634}</string>
+					<key>subclassNodeType</key>
+					<string>LevelButtonAsset</string>
+					<key>tags</key>
+					<array>
+						<string>DEFAULT</string>
+					</array>
+					<key>userPropertyInfo</key>
+					<dict>
+						<key>levelFile</key>
+						<string>bambooForest_level1</string>
+						<key>levelID</key>
+						<integer>1</integer>
+					</dict>
+					<key>userPropertyName</key>
+					<string>ButtonInfo</string>
+					<key>uuid</key>
+					<string>BA61B813-9983-4AE1-8BE6-5D49D9E28D36</string>
+					<key>zOrder</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>alpha</key>
+					<real>255</real>
+					<key>anchor</key>
+					<string>{0.500000, 0.500000}</string>
+					<key>assetFile</key>
+					<string>levelSelect.lhasset</string>
+					<key>assetUUID</key>
+					<string>FD187235-E3EC-44DB-BCA7-BC711EEF1626</string>
+					<key>colorOverlay</key>
+					<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+					<key>generalPosition</key>
+					<string>{0.263772, 0.175947}</string>
+					<key>invisibleInEditor</key>
+					<false/>
+					<key>name</key>
+					<string>levelSelect_1</string>
+					<key>nodeType</key>
+					<string>LHAsset</string>
+					<key>parentUUID</key>
+					<string>_GAME_WORLD_NODE_UUID_</string>
+					<key>rotation</key>
+					<real>0.0</real>
+					<key>scale</key>
+					<string>{1.000000, 1.000000}</string>
+					<key>size</key>
+					<string>{130.947266, 179.096634}</string>
+					<key>subclassNodeType</key>
+					<string>LevelButtonAsset</string>
+					<key>tags</key>
+					<array>
+						<string>DEFAULT</string>
+					</array>
+					<key>userPropertyInfo</key>
+					<dict>
+						<key>levelFile</key>
+						<string>bambooForest_level2</string>
+						<key>levelID</key>
+						<integer>2</integer>
+					</dict>
+					<key>userPropertyName</key>
+					<string>ButtonInfo</string>
+					<key>uuid</key>
+					<string>513B1933-6333-4B9D-A681-DD33FA9817E1</string>
+					<key>zOrder</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>alpha</key>
+					<real>255</real>
+					<key>anchor</key>
+					<string>{0.500000, 0.500000}</string>
+					<key>assetFile</key>
+					<string>levelSelect.lhasset</string>
+					<key>assetUUID</key>
+					<string>FD187235-E3EC-44DB-BCA7-BC711EEF1626</string>
+					<key>colorOverlay</key>
+					<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+					<key>generalPosition</key>
+					<string>{0.400989, 0.175947}</string>
+					<key>invisibleInEditor</key>
+					<false/>
+					<key>name</key>
+					<string>levelSelect_2</string>
+					<key>nodeType</key>
+					<string>LHAsset</string>
+					<key>parentUUID</key>
+					<string>_GAME_WORLD_NODE_UUID_</string>
+					<key>rotation</key>
+					<real>0.0</real>
+					<key>scale</key>
+					<string>{1.000000, 1.000000}</string>
+					<key>size</key>
+					<string>{130.947266, 179.096634}</string>
+					<key>subclassNodeType</key>
+					<string>LevelButtonAsset</string>
+					<key>tags</key>
+					<array>
+						<string>DEFAULT</string>
+					</array>
+					<key>userPropertyInfo</key>
+					<dict>
+						<key>levelFile</key>
+						<string>bambooForest_level3</string>
+						<key>levelID</key>
+						<integer>3</integer>
+					</dict>
+					<key>userPropertyName</key>
+					<string>ButtonInfo</string>
+					<key>uuid</key>
+					<string>CAD5479A-8A07-4F99-AB7C-B0A8DC6F9D98</string>
+					<key>zOrder</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>alpha</key>
+					<real>255</real>
+					<key>anchor</key>
+					<string>{0.500000, 0.500000}</string>
+					<key>assetFile</key>
+					<string>levelSelect.lhasset</string>
+					<key>assetUUID</key>
+					<string>FD187235-E3EC-44DB-BCA7-BC711EEF1626</string>
+					<key>colorOverlay</key>
+					<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+					<key>generalPosition</key>
+					<string>{0.538207, 0.175947}</string>
+					<key>invisibleInEditor</key>
+					<false/>
+					<key>name</key>
+					<string>levelSelect_3</string>
+					<key>nodeType</key>
+					<string>LHAsset</string>
+					<key>parentUUID</key>
+					<string>_GAME_WORLD_NODE_UUID_</string>
+					<key>rotation</key>
+					<real>0.0</real>
+					<key>scale</key>
+					<string>{1.000000, 1.000000}</string>
+					<key>size</key>
+					<string>{130.947266, 179.096634}</string>
+					<key>subclassNodeType</key>
+					<string>LevelButtonAsset</string>
+					<key>tags</key>
+					<array>
+						<string>DEFAULT</string>
+					</array>
+					<key>userPropertyInfo</key>
+					<dict>
+						<key>levelFile</key>
+						<string>bambooForest_level4</string>
+						<key>levelID</key>
+						<integer>4</integer>
+					</dict>
+					<key>userPropertyName</key>
+					<string>ButtonInfo</string>
+					<key>uuid</key>
+					<string>2BF235EF-2EE3-45B3-8025-E48E23D78262</string>
+					<key>zOrder</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>alpha</key>
+					<real>255</real>
+					<key>anchor</key>
+					<string>{0.500000, 0.500000}</string>
+					<key>assetFile</key>
+					<string>levelSelect.lhasset</string>
+					<key>assetUUID</key>
+					<string>FD187235-E3EC-44DB-BCA7-BC711EEF1626</string>
+					<key>colorOverlay</key>
+					<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+					<key>generalPosition</key>
+					<string>{0.675424, 0.175947}</string>
+					<key>invisibleInEditor</key>
+					<false/>
+					<key>name</key>
+					<string>levelSelect_4</string>
+					<key>nodeType</key>
+					<string>LHAsset</string>
+					<key>parentUUID</key>
+					<string>_GAME_WORLD_NODE_UUID_</string>
+					<key>rotation</key>
+					<real>0.0</real>
+					<key>scale</key>
+					<string>{1.000000, 1.000000}</string>
+					<key>size</key>
+					<string>{130.947266, 179.096634}</string>
+					<key>subclassNodeType</key>
+					<string>LevelButtonAsset</string>
+					<key>tags</key>
+					<array>
+						<string>DEFAULT</string>
+					</array>
+					<key>userPropertyInfo</key>
+					<dict>
+						<key>levelFile</key>
+						<string>bambooForest_level5</string>
+						<key>levelID</key>
+						<real>5</real>
+					</dict>
+					<key>userPropertyName</key>
+					<string>ButtonInfo</string>
+					<key>uuid</key>
+					<string>BEC1FA5A-D522-416F-8A80-6CFE723B306C</string>
+					<key>zOrder</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>alpha</key>
+					<real>255</real>
+					<key>anchor</key>
+					<string>{0.500000, 0.500000}</string>
+					<key>assetFile</key>
+					<string>levelSelect.lhasset</string>
+					<key>assetUUID</key>
+					<string>FD187235-E3EC-44DB-BCA7-BC711EEF1626</string>
+					<key>colorOverlay</key>
+					<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+					<key>generalPosition</key>
+					<string>{0.231942, 0.395018}</string>
+					<key>invisibleInEditor</key>
+					<false/>
+					<key>name</key>
+					<string>levelSelect_5</string>
+					<key>nodeType</key>
+					<string>LHAsset</string>
+					<key>parentUUID</key>
+					<string>_GAME_WORLD_NODE_UUID_</string>
+					<key>rotation</key>
+					<real>0.0</real>
+					<key>scale</key>
+					<string>{1.000000, 1.000000}</string>
+					<key>size</key>
+					<string>{130.947266, 179.096634}</string>
+					<key>subclassNodeType</key>
+					<string>LevelButtonAsset</string>
+					<key>tags</key>
+					<array>
+						<string>DEFAULT</string>
+					</array>
+					<key>userPropertyInfo</key>
+					<dict>
+						<key>levelFile</key>
+						<string>bambooForest_level6</string>
+						<key>levelID</key>
+						<integer>6</integer>
+					</dict>
+					<key>userPropertyName</key>
+					<string>ButtonInfo</string>
+					<key>uuid</key>
+					<string>1F124A14-FF51-45BC-9328-EACA0733E770</string>
+					<key>zOrder</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>alpha</key>
+					<real>255</real>
+					<key>anchor</key>
+					<string>{0.500000, 0.500000}</string>
+					<key>assetFile</key>
+					<string>levelSelect.lhasset</string>
+					<key>assetUUID</key>
+					<string>FD187235-E3EC-44DB-BCA7-BC711EEF1626</string>
+					<key>colorOverlay</key>
+					<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+					<key>generalPosition</key>
+					<string>{0.369159, 0.395018}</string>
+					<key>invisibleInEditor</key>
+					<false/>
+					<key>name</key>
+					<string>levelSelect_6</string>
+					<key>nodeType</key>
+					<string>LHAsset</string>
+					<key>parentUUID</key>
+					<string>_GAME_WORLD_NODE_UUID_</string>
+					<key>rotation</key>
+					<real>0.0</real>
+					<key>scale</key>
+					<string>{1.000000, 1.000000}</string>
+					<key>size</key>
+					<string>{130.947266, 179.096634}</string>
+					<key>subclassNodeType</key>
+					<string>LevelButtonAsset</string>
+					<key>tags</key>
+					<array>
+						<string>DEFAULT</string>
+					</array>
+					<key>userPropertyInfo</key>
+					<dict>
+						<key>levelFile</key>
+						<string>bambooForest_level7</string>
+						<key>levelID</key>
+						<integer>7</integer>
+					</dict>
+					<key>userPropertyName</key>
+					<string>ButtonInfo</string>
+					<key>uuid</key>
+					<string>42B56810-46B5-4E24-85A5-1B6B9927F8B8</string>
+					<key>zOrder</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>alpha</key>
+					<real>255</real>
+					<key>anchor</key>
+					<string>{0.500000, 0.500000}</string>
+					<key>assetFile</key>
+					<string>levelSelect.lhasset</string>
+					<key>assetUUID</key>
+					<string>FD187235-E3EC-44DB-BCA7-BC711EEF1626</string>
+					<key>colorOverlay</key>
+					<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+					<key>generalPosition</key>
+					<string>{0.506377, 0.395018}</string>
+					<key>invisibleInEditor</key>
+					<false/>
+					<key>name</key>
+					<string>levelSelect_7</string>
+					<key>nodeType</key>
+					<string>LHAsset</string>
+					<key>parentUUID</key>
+					<string>_GAME_WORLD_NODE_UUID_</string>
+					<key>rotation</key>
+					<real>0.0</real>
+					<key>scale</key>
+					<string>{1.000000, 1.000000}</string>
+					<key>size</key>
+					<string>{130.947266, 179.096634}</string>
+					<key>subclassNodeType</key>
+					<string>LevelButtonAsset</string>
+					<key>tags</key>
+					<array>
+						<string>DEFAULT</string>
+					</array>
+					<key>userPropertyInfo</key>
+					<dict>
+						<key>levelFile</key>
+						<string>bambooForest_level8</string>
+						<key>levelID</key>
+						<integer>8</integer>
+					</dict>
+					<key>userPropertyName</key>
+					<string>ButtonInfo</string>
+					<key>uuid</key>
+					<string>53ED1634-625A-4E3F-9391-D156D196262E</string>
+					<key>zOrder</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>alpha</key>
+					<real>255</real>
+					<key>anchor</key>
+					<string>{0.500000, 0.500000}</string>
+					<key>assetFile</key>
+					<string>levelSelect.lhasset</string>
+					<key>assetUUID</key>
+					<string>FD187235-E3EC-44DB-BCA7-BC711EEF1626</string>
+					<key>colorOverlay</key>
+					<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+					<key>generalPosition</key>
+					<string>{0.643594, 0.395018}</string>
+					<key>invisibleInEditor</key>
+					<false/>
+					<key>name</key>
+					<string>levelSelect_8</string>
+					<key>nodeType</key>
+					<string>LHAsset</string>
+					<key>parentUUID</key>
+					<string>_GAME_WORLD_NODE_UUID_</string>
+					<key>rotation</key>
+					<real>0.0</real>
+					<key>scale</key>
+					<string>{1.000000, 1.000000}</string>
+					<key>size</key>
+					<string>{130.947266, 179.096634}</string>
+					<key>subclassNodeType</key>
+					<string>LevelButtonAsset</string>
+					<key>tags</key>
+					<array>
+						<string>DEFAULT</string>
+					</array>
+					<key>userPropertyInfo</key>
+					<dict>
+						<key>levelFile</key>
+						<string>bambooForest_level9</string>
+						<key>levelID</key>
+						<integer>9</integer>
+					</dict>
+					<key>userPropertyName</key>
+					<string>ButtonInfo</string>
+					<key>uuid</key>
+					<string>B6E1366C-99EF-4687-AC96-8A07F1551587</string>
+					<key>zOrder</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>alpha</key>
+					<real>255</real>
+					<key>anchor</key>
+					<string>{0.500000, 0.500000}</string>
+					<key>assetFile</key>
+					<string>levelSelect.lhasset</string>
+					<key>assetUUID</key>
+					<string>FD187235-E3EC-44DB-BCA7-BC711EEF1626</string>
+					<key>colorOverlay</key>
+					<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+					<key>generalPosition</key>
+					<string>{0.780812, 0.395018}</string>
+					<key>invisibleInEditor</key>
+					<false/>
+					<key>name</key>
+					<string>levelSelect_9</string>
+					<key>nodeType</key>
+					<string>LHAsset</string>
+					<key>parentUUID</key>
+					<string>_GAME_WORLD_NODE_UUID_</string>
+					<key>rotation</key>
+					<real>0.0</real>
+					<key>scale</key>
+					<string>{1.000000, 1.000000}</string>
+					<key>size</key>
+					<string>{130.947266, 179.096634}</string>
+					<key>subclassNodeType</key>
+					<string>LevelButtonAsset</string>
+					<key>tags</key>
+					<array>
+						<string>DEFAULT</string>
+					</array>
+					<key>userPropertyInfo</key>
+					<dict>
+						<key>levelFile</key>
+						<string>bambooForest_level10</string>
+						<key>levelID</key>
+						<integer>10</integer>
+					</dict>
+					<key>userPropertyName</key>
+					<string>ButtonInfo</string>
+					<key>uuid</key>
+					<string>28BE79D7-876B-4911-8CAB-065F9C061811</string>
+					<key>zOrder</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>alpha</key>
+					<real>255</real>
+					<key>anchor</key>
+					<string>{0.500000, 0.500000}</string>
+					<key>assetFile</key>
+					<string>levelSelect.lhasset</string>
+					<key>assetUUID</key>
+					<string>FD187235-E3EC-44DB-BCA7-BC711EEF1626</string>
+					<key>colorOverlay</key>
+					<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+					<key>generalPosition</key>
+					<string>{0.200662, 0.612397}</string>
+					<key>invisibleInEditor</key>
+					<false/>
+					<key>name</key>
+					<string>levelSelect_10</string>
+					<key>nodeType</key>
+					<string>LHAsset</string>
+					<key>parentUUID</key>
+					<string>_GAME_WORLD_NODE_UUID_</string>
+					<key>rotation</key>
+					<real>0.0</real>
+					<key>scale</key>
+					<string>{1.000000, 1.000000}</string>
+					<key>size</key>
+					<string>{130.947266, 179.096634}</string>
+					<key>subclassNodeType</key>
+					<string>LevelButtonAsset</string>
+					<key>tags</key>
+					<array>
+						<string>DEFAULT</string>
+					</array>
+					<key>userPropertyInfo</key>
+					<dict>
+						<key>levelFile</key>
+						<string>bambooForest_level11</string>
+						<key>levelID</key>
+						<integer>11</integer>
+					</dict>
+					<key>userPropertyName</key>
+					<string>ButtonInfo</string>
+					<key>uuid</key>
+					<string>24579126-A058-4976-8C05-33F5B256C909</string>
+					<key>zOrder</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>alpha</key>
+					<real>255</real>
+					<key>anchor</key>
+					<string>{0.500000, 0.500000}</string>
+					<key>assetFile</key>
+					<string>levelSelect.lhasset</string>
+					<key>assetUUID</key>
+					<string>FD187235-E3EC-44DB-BCA7-BC711EEF1626</string>
+					<key>colorOverlay</key>
+					<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+					<key>generalPosition</key>
+					<string>{0.337880, 0.612397}</string>
+					<key>invisibleInEditor</key>
+					<false/>
+					<key>name</key>
+					<string>levelSelect_11</string>
+					<key>nodeType</key>
+					<string>LHAsset</string>
+					<key>parentUUID</key>
+					<string>_GAME_WORLD_NODE_UUID_</string>
+					<key>rotation</key>
+					<real>0.0</real>
+					<key>scale</key>
+					<string>{1.000000, 1.000000}</string>
+					<key>size</key>
+					<string>{130.947266, 179.096634}</string>
+					<key>subclassNodeType</key>
+					<string>LevelButtonAsset</string>
+					<key>tags</key>
+					<array>
+						<string>DEFAULT</string>
+					</array>
+					<key>userPropertyInfo</key>
+					<dict>
+						<key>levelFile</key>
+						<string>bambooForest_level12</string>
+						<key>levelID</key>
+						<integer>12</integer>
+					</dict>
+					<key>userPropertyName</key>
+					<string>ButtonInfo</string>
+					<key>uuid</key>
+					<string>1F8E45F8-C609-4E31-B4BF-B7F9D9D761F1</string>
+					<key>zOrder</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>alpha</key>
+					<real>255</real>
+					<key>anchor</key>
+					<string>{0.500000, 0.500000}</string>
+					<key>assetFile</key>
+					<string>levelSelect.lhasset</string>
+					<key>assetUUID</key>
+					<string>FD187235-E3EC-44DB-BCA7-BC711EEF1626</string>
+					<key>colorOverlay</key>
+					<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+					<key>generalPosition</key>
+					<string>{0.475097, 0.612397}</string>
+					<key>invisibleInEditor</key>
+					<false/>
+					<key>name</key>
+					<string>levelSelect_12</string>
+					<key>nodeType</key>
+					<string>LHAsset</string>
+					<key>parentUUID</key>
+					<string>_GAME_WORLD_NODE_UUID_</string>
+					<key>rotation</key>
+					<real>0.0</real>
+					<key>scale</key>
+					<string>{1.000000, 1.000000}</string>
+					<key>size</key>
+					<string>{130.947266, 179.096634}</string>
+					<key>subclassNodeType</key>
+					<string>LevelButtonAsset</string>
+					<key>tags</key>
+					<array>
+						<string>DEFAULT</string>
+					</array>
+					<key>userPropertyInfo</key>
+					<dict>
+						<key>levelFile</key>
+						<string>bambooForest_level13</string>
+						<key>levelID</key>
+						<integer>13</integer>
+					</dict>
+					<key>userPropertyName</key>
+					<string>ButtonInfo</string>
+					<key>uuid</key>
+					<string>771701F0-CEE7-49CF-86DF-71A407F12D2A</string>
+					<key>zOrder</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>alpha</key>
+					<real>255</real>
+					<key>anchor</key>
+					<string>{0.500000, 0.500000}</string>
+					<key>assetFile</key>
+					<string>levelSelect.lhasset</string>
+					<key>assetUUID</key>
+					<string>FD187235-E3EC-44DB-BCA7-BC711EEF1626</string>
+					<key>colorOverlay</key>
+					<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+					<key>generalPosition</key>
+					<string>{0.612315, 0.612397}</string>
+					<key>invisibleInEditor</key>
+					<false/>
+					<key>name</key>
+					<string>levelSelect_13</string>
+					<key>nodeType</key>
+					<string>LHAsset</string>
+					<key>parentUUID</key>
+					<string>_GAME_WORLD_NODE_UUID_</string>
+					<key>rotation</key>
+					<real>0.0</real>
+					<key>scale</key>
+					<string>{1.000000, 1.000000}</string>
+					<key>size</key>
+					<string>{130.947266, 179.096634}</string>
+					<key>subclassNodeType</key>
+					<string>LevelButtonAsset</string>
+					<key>tags</key>
+					<array>
+						<string>DEFAULT</string>
+					</array>
+					<key>userPropertyInfo</key>
+					<dict>
+						<key>levelFile</key>
+						<string>bambooForest_level14</string>
+						<key>levelID</key>
+						<integer>14</integer>
+					</dict>
+					<key>userPropertyName</key>
+					<string>ButtonInfo</string>
+					<key>uuid</key>
+					<string>6B930E58-9B76-410A-B45C-1ABE07960ACF</string>
+					<key>zOrder</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>alpha</key>
+					<real>255</real>
+					<key>anchor</key>
+					<string>{0.500000, 0.500000}</string>
+					<key>assetFile</key>
+					<string>levelSelect.lhasset</string>
+					<key>assetUUID</key>
+					<string>FD187235-E3EC-44DB-BCA7-BC711EEF1626</string>
+					<key>colorOverlay</key>
+					<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+					<key>generalPosition</key>
+					<string>{0.749532, 0.612397}</string>
+					<key>invisibleInEditor</key>
+					<false/>
+					<key>name</key>
+					<string>levelSelect_14</string>
+					<key>nodeType</key>
+					<string>LHAsset</string>
+					<key>parentUUID</key>
+					<string>_GAME_WORLD_NODE_UUID_</string>
+					<key>rotation</key>
+					<real>0.0</real>
+					<key>scale</key>
+					<string>{1.000000, 1.000000}</string>
+					<key>size</key>
+					<string>{130.947266, 179.096634}</string>
+					<key>subclassNodeType</key>
+					<string>LevelButtonAsset</string>
+					<key>tags</key>
+					<array>
+						<string>DEFAULT</string>
+					</array>
+					<key>userPropertyInfo</key>
+					<dict>
+						<key>levelFile</key>
+						<string>bambooForest_level15</string>
+						<key>levelID</key>
+						<integer>15</integer>
+					</dict>
+					<key>userPropertyName</key>
+					<string>ButtonInfo</string>
+					<key>uuid</key>
+					<string>487F3290-ECF6-44B3-9B76-D702184463EB</string>
+					<key>zOrder</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>alpha</key>
+					<real>255</real>
+					<key>anchor</key>
+					<string>{0.500000, 0.500000}</string>
+					<key>assetFile</key>
+					<string>levelSelect.lhasset</string>
+					<key>assetUUID</key>
+					<string>FD187235-E3EC-44DB-BCA7-BC711EEF1626</string>
+					<key>colorOverlay</key>
+					<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+					<key>generalPosition</key>
+					<string>{0.302776, 0.823038}</string>
+					<key>invisibleInEditor</key>
+					<false/>
+					<key>name</key>
+					<string>levelSelect_15</string>
+					<key>nodeType</key>
+					<string>LHAsset</string>
+					<key>parentUUID</key>
+					<string>_GAME_WORLD_NODE_UUID_</string>
+					<key>rotation</key>
+					<real>0.0</real>
+					<key>scale</key>
+					<string>{1.000000, 1.000000}</string>
+					<key>size</key>
+					<string>{130.947266, 179.096634}</string>
+					<key>subclassNodeType</key>
+					<string>LevelButtonAsset</string>
+					<key>tags</key>
+					<array>
+						<string>DEFAULT</string>
+					</array>
+					<key>userPropertyInfo</key>
+					<dict>
+						<key>levelFile</key>
+						<string>bambooForest_level16</string>
+						<key>levelID</key>
+						<integer>16</integer>
+					</dict>
+					<key>userPropertyName</key>
+					<string>ButtonInfo</string>
+					<key>uuid</key>
+					<string>8D8C537E-FBE5-49B4-AB72-4871C9CBB1AE</string>
+					<key>zOrder</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>alpha</key>
+					<real>255</real>
+					<key>anchor</key>
+					<string>{0.500000, 0.500000}</string>
+					<key>assetFile</key>
+					<string>levelSelect.lhasset</string>
+					<key>assetUUID</key>
+					<string>FD187235-E3EC-44DB-BCA7-BC711EEF1626</string>
+					<key>colorOverlay</key>
+					<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+					<key>generalPosition</key>
+					<string>{0.439993, 0.823038}</string>
+					<key>invisibleInEditor</key>
+					<false/>
+					<key>name</key>
+					<string>levelSelect_16</string>
+					<key>nodeType</key>
+					<string>LHAsset</string>
+					<key>parentUUID</key>
+					<string>_GAME_WORLD_NODE_UUID_</string>
+					<key>rotation</key>
+					<real>0.0</real>
+					<key>scale</key>
+					<string>{1.000000, 1.000000}</string>
+					<key>size</key>
+					<string>{130.947266, 179.096634}</string>
+					<key>subclassNodeType</key>
+					<string>LevelButtonAsset</string>
+					<key>tags</key>
+					<array>
+						<string>DEFAULT</string>
+					</array>
+					<key>userPropertyInfo</key>
+					<dict>
+						<key>levelFile</key>
+						<string>bambooForest_level17</string>
+						<key>levelID</key>
+						<integer>17</integer>
+					</dict>
+					<key>userPropertyName</key>
+					<string>ButtonInfo</string>
+					<key>uuid</key>
+					<string>2AC2473C-CFF4-4434-BABA-C0A1E046F520</string>
+					<key>zOrder</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>alpha</key>
+					<real>255</real>
+					<key>anchor</key>
+					<string>{0.500000, 0.500000}</string>
+					<key>assetFile</key>
+					<string>levelSelect.lhasset</string>
+					<key>assetUUID</key>
+					<string>FD187235-E3EC-44DB-BCA7-BC711EEF1626</string>
+					<key>colorOverlay</key>
+					<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+					<key>generalPosition</key>
+					<string>{0.577211, 0.823038}</string>
+					<key>invisibleInEditor</key>
+					<false/>
+					<key>name</key>
+					<string>levelSelect_17</string>
+					<key>nodeType</key>
+					<string>LHAsset</string>
+					<key>parentUUID</key>
+					<string>_GAME_WORLD_NODE_UUID_</string>
+					<key>rotation</key>
+					<real>0.0</real>
+					<key>scale</key>
+					<string>{1.000000, 1.000000}</string>
+					<key>size</key>
+					<string>{130.947266, 179.096634}</string>
+					<key>subclassNodeType</key>
+					<string>LevelButtonAsset</string>
+					<key>tags</key>
+					<array>
+						<string>DEFAULT</string>
+					</array>
+					<key>userPropertyInfo</key>
+					<dict>
+						<key>levelFile</key>
+						<string>bambooForest_level18</string>
+						<key>levelID</key>
+						<integer>18</integer>
+					</dict>
+					<key>userPropertyName</key>
+					<string>ButtonInfo</string>
+					<key>uuid</key>
+					<string>0739607B-57B9-4378-AB59-D27CE4BFF334</string>
+					<key>zOrder</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>alpha</key>
+					<real>255</real>
+					<key>anchor</key>
+					<string>{0.500000, 0.500000}</string>
+					<key>assetFile</key>
+					<string>levelSelect.lhasset</string>
+					<key>assetUUID</key>
+					<string>FD187235-E3EC-44DB-BCA7-BC711EEF1626</string>
+					<key>colorOverlay</key>
+					<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+					<key>generalPosition</key>
+					<string>{0.714428, 0.823038}</string>
+					<key>invisibleInEditor</key>
+					<false/>
+					<key>name</key>
+					<string>levelSelect_18</string>
+					<key>nodeType</key>
+					<string>LHAsset</string>
+					<key>parentUUID</key>
+					<string>_GAME_WORLD_NODE_UUID_</string>
+					<key>rotation</key>
+					<real>0.0</real>
+					<key>scale</key>
+					<string>{1.000000, 1.000000}</string>
+					<key>size</key>
+					<string>{130.947266, 179.096634}</string>
+					<key>subclassNodeType</key>
+					<string>LevelButtonAsset</string>
+					<key>tags</key>
+					<array>
+						<string>DEFAULT</string>
+					</array>
+					<key>userPropertyInfo</key>
+					<dict>
+						<key>levelFile</key>
+						<string>bambooForest_level19</string>
+						<key>levelID</key>
+						<integer>19</integer>
+					</dict>
+					<key>userPropertyName</key>
+					<string>ButtonInfo</string>
+					<key>uuid</key>
+					<string>2F5526FA-2D12-4BFA-8892-61EE6F03E1B2</string>
+					<key>zOrder</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>alpha</key>
+					<real>255</real>
+					<key>anchor</key>
+					<string>{0.500000, 0.500000}</string>
+					<key>assetFile</key>
+					<string>levelSelect.lhasset</string>
+					<key>assetUUID</key>
+					<string>FD187235-E3EC-44DB-BCA7-BC711EEF1626</string>
+					<key>colorOverlay</key>
+					<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+					<key>generalPosition</key>
+					<string>{0.851646, 0.823038}</string>
+					<key>invisibleInEditor</key>
+					<false/>
+					<key>name</key>
+					<string>levelSelect_19</string>
+					<key>nodeType</key>
+					<string>LHAsset</string>
+					<key>parentUUID</key>
+					<string>_GAME_WORLD_NODE_UUID_</string>
+					<key>rotation</key>
+					<real>0.0</real>
+					<key>scale</key>
+					<string>{1.000000, 1.000000}</string>
+					<key>size</key>
+					<string>{130.947266, 179.096634}</string>
+					<key>subclassNodeType</key>
+					<string>LevelButtonAsset</string>
+					<key>tags</key>
+					<array>
+						<string>DEFAULT</string>
+					</array>
+					<key>userPropertyInfo</key>
+					<dict>
+						<key>levelFile</key>
+						<string>bambooForest_level20</string>
+						<key>levelID</key>
+						<integer>20</integer>
+					</dict>
+					<key>userPropertyName</key>
+					<string>ButtonInfo</string>
+					<key>uuid</key>
+					<string>905BC50A-6094-4822-BFB4-2CDF774EAAB6</string>
+					<key>zOrder</key>
+					<integer>0</integer>
+				</dict>
+			</array>
+			<key>colorOverlay</key>
+			<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+			<key>generalPosition</key>
+			<string>{0.000000, 0.000000}</string>
+			<key>invisibleInEditor</key>
+			<false/>
+			<key>name</key>
+			<string>GAME WORLD</string>
+			<key>nodeType</key>
+			<string>LHGameWorldNode</string>
+			<key>parentUUID</key>
+			<string>24193307-F2D7-4027-A0D4-7307FE985270</string>
+			<key>rotation</key>
+			<real>0.0</real>
+			<key>scale</key>
+			<string>{1.000000, 1.000000}</string>
+			<key>size</key>
+			<string>{128.000000, 128.000000}</string>
+			<key>tags</key>
+			<array>
+				<string>DEFAULT</string>
+			</array>
+			<key>uuid</key>
+			<string>E10A8933-7C79-482E-A1BC-B95691ADC120</string>
+			<key>zOrder</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>alpha</key>
+			<real>255</real>
+			<key>anchor</key>
+			<string>{0.500000, 0.500000}</string>
+			<key>colorOverlay</key>
+			<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+			<key>generalPosition</key>
+			<string>{0.000000, 0.000000}</string>
+			<key>invisibleInEditor</key>
+			<false/>
+			<key>name</key>
+			<string>FRONT USER INTERFACE</string>
+			<key>nodeType</key>
+			<string>LHUINode</string>
+			<key>parentUUID</key>
+			<string>24193307-F2D7-4027-A0D4-7307FE985270</string>
+			<key>rotation</key>
+			<real>0.0</real>
+			<key>scale</key>
+			<string>{1.000000, 1.000000}</string>
+			<key>size</key>
+			<string>{128.000000, 128.000000}</string>
+			<key>tags</key>
+			<array>
+				<string>DEFAULT</string>
+			</array>
+			<key>uuid</key>
+			<string>7F141D74-7DB9-40CA-85CF-3B06B66FE6BC</string>
+			<key>zOrder</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>designResolution</key>
+	<string>{960.000000, 640.000000}</string>
+	<key>devices</key>
+	<array>
+		<dict>
+			<key>ratio</key>
+			<real>1</real>
+			<key>size</key>
+			<string>{960.000000, 640.000000}</string>
+			<key>suffix</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>ratio</key>
+			<real>1</real>
+			<key>size</key>
+			<string>{1136.000000, 640.000000}</string>
+			<key>suffix</key>
+			<string>-568</string>
+		</dict>
+		<dict>
+			<key>ratio</key>
+			<real>1</real>
+			<key>size</key>
+			<string>{1024.000000, 768.000000}</string>
+			<key>suffix</key>
+			<string>-ipad</string>
+		</dict>
+		<dict>
+			<key>ratio</key>
+			<real>2</real>
+			<key>size</key>
+			<string>{2048.000000, 1536.000000}</string>
+			<key>suffix</key>
+			<string>-ipad@2x</string>
+		</dict>
+	</array>
+	<key>globalGravityDirection</key>
+	<string>{0.000000, -1.000000}</string>
+	<key>globalGravityForce</key>
+	<real>8</real>
+	<key>invisibleInEditor</key>
+	<false/>
+	<key>nodeType</key>
+	<string>LHScene</string>
+	<key>sceneFormat</key>
+	<real>1</real>
+	<key>tags</key>
+	<array>
+		<string>DEFAULT</string>
+	</array>
+	<key>useGlobalGravity</key>
+	<true/>
+	<key>uuid</key>
+	<string>24193307-F2D7-4027-A0D4-7307FE985270</string>
+</dict>
+</plist>
