@@ -123,7 +123,10 @@
 }
 
 
--(void)didBeginContactBetweenNodeA:(SKNode *)a andNodeB:(SKNode *)b atLocation:(CGPoint)scenePt withImpulse:(float)impulse
+-(void)didBeginContactBetweenNodeA:(SKNode *)a
+                          andNodeB:(SKNode *)b
+                        atLocation:(CGPoint)scenePt
+                       withImpulse:(float)impulse
 {
 
     if([[a name] isEqualToString:@"candy"])

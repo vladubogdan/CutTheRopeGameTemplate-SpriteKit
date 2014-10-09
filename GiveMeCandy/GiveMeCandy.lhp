@@ -8,7 +8,7 @@
 	<array>
 		<dict>
 			<key>DeviceName</key>
-			<string>iPhones 3.5 inch Retina</string>
+			<string>iPhone 4 &amp; 4S</string>
 			<key>ScaleRatio</key>
 			<real>1</real>
 			<key>ScreenHeight</key>
@@ -18,11 +18,11 @@
 			<key>SuffixName</key>
 			<string></string>
 			<key>color</key>
-			<string>{{0.17161963880062103, 0}, {0.043363295495510101, 1}}</string>
+			<string>{{0.45644199848175049, 0}, {0.049516279250383377, 1}}</string>
 		</dict>
 		<dict>
 			<key>DeviceName</key>
-			<string>iPhone 4 inch Retina</string>
+			<string>iPhone 5 &amp; 5S</string>
 			<key>ScaleRatio</key>
 			<real>1</real>
 			<key>ScreenHeight</key>
@@ -32,7 +32,35 @@
 			<key>SuffixName</key>
 			<string>-568</string>
 			<key>color</key>
-			<string>{{1, 1}, {0.078242406249046326, 1}}</string>
+			<string>{{1, 1}, {0.078214749693870544, 1}}</string>
+		</dict>
+		<dict>
+			<key>DeviceName</key>
+			<string>iPhone 6</string>
+			<key>ScaleRatio</key>
+			<real>1</real>
+			<key>ScreenHeight</key>
+			<integer>750</integer>
+			<key>ScreenWidth</key>
+			<integer>1334</integer>
+			<key>SuffixName</key>
+			<string>-667</string>
+			<key>color</key>
+			<string>{{0.45644199848175049, 0}, {0.049516279250383377, 1}}</string>
+		</dict>
+		<dict>
+			<key>DeviceName</key>
+			<string>iPhone 6 Plus</string>
+			<key>ScaleRatio</key>
+			<real>2</real>
+			<key>ScreenHeight</key>
+			<integer>1242</integer>
+			<key>ScreenWidth</key>
+			<integer>2208</integer>
+			<key>SuffixName</key>
+			<string>-736@2x</string>
+			<key>color</key>
+			<string>{{0.45644199848175049, 0}, {0.049516279250383377, 1}}</string>
 		</dict>
 		<dict>
 			<key>DeviceName</key>
@@ -46,7 +74,7 @@
 			<key>SuffixName</key>
 			<string>-ipad</string>
 			<key>color</key>
-			<string>{{0.14000754058361053, 0}, {0.85061699151992798, 1}}</string>
+			<string>{{0.42057669162750244, 0}, {0.94168412685394287, 1}}</string>
 		</dict>
 		<dict>
 			<key>DeviceName</key>
@@ -60,7 +88,7 @@
 			<key>SuffixName</key>
 			<string>-ipad@2x</string>
 			<key>color</key>
-			<string>{{0.14000754058361053, 0}, {0.85061699151992798, 1}}</string>
+			<string>{{0.42057669162750244, 0}, {0.94168412685394287, 1}}</string>
 		</dict>
 	</array>
 	<key>engine</key>
@@ -68,7 +96,9 @@
 	<key>options</key>
 	<dict>
 		<key>ignoredFolders</key>
-		<array/>
+		<array>
+			<string>publishedResources</string>
+		</array>
 		<key>name</key>
 		<string>GiveMeCandy</string>
 		<key>publishOptions</key>
@@ -80,32 +110,52 @@
 					<key>publish</key>
 					<true/>
 				</dict>
-				<key>bambooForest_level1.lhs</key>
+				<key>bambooForest_level01.lhs</key>
 				<dict>
 					<key>publish</key>
 					<true/>
 				</dict>
-				<key>bambooForest_level2.lhs</key>
+				<key>bambooForest_level02.lhs</key>
 				<dict>
 					<key>publish</key>
 					<true/>
 				</dict>
-				<key>bambooForest_level3.lhs</key>
+				<key>bambooForest_level03.lhs</key>
 				<dict>
 					<key>publish</key>
 					<true/>
 				</dict>
-				<key>bambooForest_level4.lhs</key>
+				<key>bambooForest_level04.lhs</key>
 				<dict>
 					<key>publish</key>
 					<true/>
 				</dict>
-				<key>bambooForest_level5.lhs</key>
+				<key>bambooForest_level05.lhs</key>
 				<dict>
 					<key>publish</key>
 					<true/>
 				</dict>
-				<key>bambooForest_level6.lhs</key>
+				<key>bambooForest_level06.lhs</key>
+				<dict>
+					<key>publish</key>
+					<true/>
+				</dict>
+				<key>bambooForest_level07.lhs</key>
+				<dict>
+					<key>publish</key>
+					<true/>
+				</dict>
+				<key>bambooForest_level08.lhs</key>
+				<dict>
+					<key>publish</key>
+					<true/>
+				</dict>
+				<key>bambooForest_level09.lhs</key>
+				<dict>
+					<key>publish</key>
+					<true/>
+				</dict>
+				<key>bambooForest_level10.lhs</key>
 				<dict>
 					<key>publish</key>
 					<true/>
@@ -119,10 +169,10 @@
 			<key>publisherPluginName</key>
 			<string>Sprite Kit</string>
 			<key>selectedPublishTypeName</key>
-			<string>All Selected Scenes</string>
+			<string>Current Scene Only</string>
 		</dict>
 	</dict>
 	<key>uuid</key>
-	<string>983EB774-0905-4306-89E8-29DA5A7E6BCC</string>
+	<string>4B65D4F3-E97D-41F5-B03E-A3775D46F4A1</string>
 </dict>
 </plist>

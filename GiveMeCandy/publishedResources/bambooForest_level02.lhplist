@@ -1,0 +1,5704 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspect</key>
+	<integer>2</integer>
+	<key>backgroundColor</key>
+	<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+	<key>children</key>
+	<array>
+		<dict>
+			<key>alpha</key>
+			<real>255</real>
+			<key>anchor</key>
+			<string>{0.500000, 0.500000}</string>
+			<key>children</key>
+			<array>
+				<dict>
+					<key>alpha</key>
+					<real>255</real>
+					<key>anchor</key>
+					<string>{0.500000, 0.500000}</string>
+					<key>colorOverlay</key>
+					<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+					<key>generalPosition</key>
+					<string>{0.500000, 0.500000}</string>
+					<key>imageFileName</key>
+					<string>bambooBkgrd.png</string>
+					<key>invisibleInEditor</key>
+					<false/>
+					<key>name</key>
+					<string>bambooBkgrd.png</string>
+					<key>nodeType</key>
+					<string>LHSprite</string>
+					<key>parentUUID</key>
+					<string>_BACK_USER_INTERFACE_NODE_UUID_</string>
+					<key>relativeImagePath</key>
+					<string>backgrounds/</string>
+					<key>rotation</key>
+					<real>0.0</real>
+					<key>scale</key>
+					<string>{1.000000, 1.000000}</string>
+					<key>size</key>
+					<string>{960.000000, 640.000000}</string>
+					<key>tags</key>
+					<array>
+						<string>DEFAULT</string>
+					</array>
+					<key>uuid</key>
+					<string>B49B5EBE-E62C-4677-9147-C76D7F01DB9A</string>
+					<key>zOrder</key>
+					<integer>0</integer>
+				</dict>
+			</array>
+			<key>colorOverlay</key>
+			<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+			<key>generalPosition</key>
+			<string>{0.000000, 0.000000}</string>
+			<key>invisibleInEditor</key>
+			<false/>
+			<key>name</key>
+			<string>BACK USER INTERFACE</string>
+			<key>nodeType</key>
+			<string>LHBackUINode</string>
+			<key>parentUUID</key>
+			<string>5B6C2FE1-D350-4507-BB26-259A41F7C2E3</string>
+			<key>rotation</key>
+			<real>0.0</real>
+			<key>scale</key>
+			<string>{1.000000, 1.000000}</string>
+			<key>size</key>
+			<string>{128.000000, 128.000000}</string>
+			<key>tags</key>
+			<array>
+				<string>DEFAULT</string>
+			</array>
+			<key>uuid</key>
+			<string>EF4014C9-7052-4083-A5E0-BE84D51FEEFC</string>
+			<key>zOrder</key>
+			<integer>-1</integer>
+		</dict>
+		<dict>
+			<key>alpha</key>
+			<real>255</real>
+			<key>anchor</key>
+			<string>{0.500000, 0.500000}</string>
+			<key>children</key>
+			<array>
+				<dict>
+					<key>alpha</key>
+					<real>255</real>
+					<key>anchor</key>
+					<string>{0.500000, 0.500000}</string>
+					<key>children</key>
+					<array>
+						<dict>
+							<key>alpha</key>
+							<real>255</real>
+							<key>anchor</key>
+							<string>{0.500000, 0.500000}</string>
+							<key>children</key>
+							<array>
+								<dict>
+									<key>alpha</key>
+									<real>107.85044097900391</real>
+									<key>anchor</key>
+									<string>{0.500000, 0.500000}</string>
+									<key>colorOverlay</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>generalPosition</key>
+									<string>{-0.044244, 0.852407}</string>
+									<key>imageFileName</key>
+									<string>bambooForest.png</string>
+									<key>invisibleInEditor</key>
+									<false/>
+									<key>name</key>
+									<string>backBambooTree_6.png</string>
+									<key>nodeType</key>
+									<string>LHSprite</string>
+									<key>parentUUID</key>
+									<string>695A8327-2DCD-4A3B-AC51-C36A6F7AA5C2</string>
+									<key>relativeImagePath</key>
+									<string>publishedResources/</string>
+									<key>rotation</key>
+									<real>0.0</real>
+									<key>scale</key>
+									<string>{-1.000000, 1.000000}</string>
+									<key>size</key>
+									<string>{151.000000, 932.000000}</string>
+									<key>spriteName</key>
+									<string>backBambooTree.png</string>
+									<key>spriteUUID</key>
+									<string>D7F203C7-3476-4AF6-914A-03B430F5BCD7</string>
+									<key>tags</key>
+									<array>
+										<string>DEFAULT</string>
+									</array>
+									<key>uuid</key>
+									<string>E3F5559D-CF05-4969-902C-2926CFC5676D</string>
+									<key>zOrder</key>
+									<integer>0</integer>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>107.85044097900391</real>
+									<key>anchor</key>
+									<string>{0.500000, 0.500000}</string>
+									<key>colorOverlay</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>generalPosition</key>
+									<string>{-0.212140, 1.067880}</string>
+									<key>imageFileName</key>
+									<string>bambooForest.png</string>
+									<key>invisibleInEditor</key>
+									<false/>
+									<key>name</key>
+									<string>backBambooTree_5.png</string>
+									<key>nodeType</key>
+									<string>LHSprite</string>
+									<key>parentUUID</key>
+									<string>695A8327-2DCD-4A3B-AC51-C36A6F7AA5C2</string>
+									<key>relativeImagePath</key>
+									<string>publishedResources/</string>
+									<key>rotation</key>
+									<real>0.0</real>
+									<key>scale</key>
+									<string>{1.000000, 1.000000}</string>
+									<key>size</key>
+									<string>{151.000000, 932.000000}</string>
+									<key>spriteName</key>
+									<string>backBambooTree.png</string>
+									<key>spriteUUID</key>
+									<string>D7F203C7-3476-4AF6-914A-03B430F5BCD7</string>
+									<key>tags</key>
+									<array>
+										<string>DEFAULT</string>
+									</array>
+									<key>uuid</key>
+									<string>CFA92E74-0ABF-4655-8B5D-B092D581FC66</string>
+									<key>zOrder</key>
+									<integer>0</integer>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>107.85044097900391</real>
+									<key>anchor</key>
+									<string>{0.500000, 0.500000}</string>
+									<key>colorOverlay</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>generalPosition</key>
+									<string>{-0.390075, 0.944532}</string>
+									<key>imageFileName</key>
+									<string>bambooForest.png</string>
+									<key>invisibleInEditor</key>
+									<false/>
+									<key>name</key>
+									<string>backBambooTree_4.png</string>
+									<key>nodeType</key>
+									<string>LHSprite</string>
+									<key>parentUUID</key>
+									<string>695A8327-2DCD-4A3B-AC51-C36A6F7AA5C2</string>
+									<key>relativeImagePath</key>
+									<string>publishedResources/</string>
+									<key>rotation</key>
+									<real>0.0</real>
+									<key>scale</key>
+									<string>{1.000000, 1.000000}</string>
+									<key>size</key>
+									<string>{151.000000, 932.000000}</string>
+									<key>spriteName</key>
+									<string>backBambooTree.png</string>
+									<key>spriteUUID</key>
+									<string>D7F203C7-3476-4AF6-914A-03B430F5BCD7</string>
+									<key>tags</key>
+									<array>
+										<string>DEFAULT</string>
+									</array>
+									<key>uuid</key>
+									<string>FB9A8147-1170-49D2-9550-73E0D227A851</string>
+									<key>zOrder</key>
+									<integer>0</integer>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>107.85044097900391</real>
+									<key>anchor</key>
+									<string>{0.500000, 0.500000}</string>
+									<key>colorOverlay</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>generalPosition</key>
+									<string>{0.123594, 0.945463}</string>
+									<key>imageFileName</key>
+									<string>bambooForest.png</string>
+									<key>invisibleInEditor</key>
+									<false/>
+									<key>name</key>
+									<string>backBambooTree_9.png</string>
+									<key>nodeType</key>
+									<string>LHSprite</string>
+									<key>parentUUID</key>
+									<string>695A8327-2DCD-4A3B-AC51-C36A6F7AA5C2</string>
+									<key>relativeImagePath</key>
+									<string>publishedResources/</string>
+									<key>rotation</key>
+									<real>0.0</real>
+									<key>scale</key>
+									<string>{1.000000, 1.000000}</string>
+									<key>size</key>
+									<string>{151.000000, 932.000000}</string>
+									<key>spriteName</key>
+									<string>backBambooTree.png</string>
+									<key>spriteUUID</key>
+									<string>D7F203C7-3476-4AF6-914A-03B430F5BCD7</string>
+									<key>tags</key>
+									<array>
+										<string>DEFAULT</string>
+									</array>
+									<key>uuid</key>
+									<string>2A13E8FE-EABA-46C9-A911-EC4A265FF7DD</string>
+									<key>zOrder</key>
+									<integer>0</integer>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>107.85044097900391</real>
+									<key>anchor</key>
+									<string>{0.500000, 0.500000}</string>
+									<key>colorOverlay</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>generalPosition</key>
+									<string>{0.262309, 1.055812}</string>
+									<key>imageFileName</key>
+									<string>bambooForest.png</string>
+									<key>invisibleInEditor</key>
+									<false/>
+									<key>name</key>
+									<string>backBambooTree_8.png</string>
+									<key>nodeType</key>
+									<string>LHSprite</string>
+									<key>parentUUID</key>
+									<string>695A8327-2DCD-4A3B-AC51-C36A6F7AA5C2</string>
+									<key>relativeImagePath</key>
+									<string>publishedResources/</string>
+									<key>rotation</key>
+									<real>0.0</real>
+									<key>scale</key>
+									<string>{-1.000000, 1.000000}</string>
+									<key>size</key>
+									<string>{151.000000, 932.000000}</string>
+									<key>spriteName</key>
+									<string>backBambooTree.png</string>
+									<key>spriteUUID</key>
+									<string>D7F203C7-3476-4AF6-914A-03B430F5BCD7</string>
+									<key>tags</key>
+									<array>
+										<string>DEFAULT</string>
+									</array>
+									<key>uuid</key>
+									<string>F14067C3-C1D1-4E1D-8295-0C77395F4979</string>
+									<key>zOrder</key>
+									<integer>0</integer>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>107.85044097900391</real>
+									<key>anchor</key>
+									<string>{0.500000, 0.500000}</string>
+									<key>colorOverlay</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>generalPosition</key>
+									<string>{0.435377, 0.976133}</string>
+									<key>imageFileName</key>
+									<string>bambooForest.png</string>
+									<key>invisibleInEditor</key>
+									<false/>
+									<key>name</key>
+									<string>backBambooTree_7.png</string>
+									<key>nodeType</key>
+									<string>LHSprite</string>
+									<key>parentUUID</key>
+									<string>695A8327-2DCD-4A3B-AC51-C36A6F7AA5C2</string>
+									<key>relativeImagePath</key>
+									<string>publishedResources/</string>
+									<key>rotation</key>
+									<real>0.0</real>
+									<key>scale</key>
+									<string>{1.000000, 1.000000}</string>
+									<key>size</key>
+									<string>{151.000000, 932.000000}</string>
+									<key>spriteName</key>
+									<string>backBambooTree.png</string>
+									<key>spriteUUID</key>
+									<string>D7F203C7-3476-4AF6-914A-03B430F5BCD7</string>
+									<key>tags</key>
+									<array>
+										<string>DEFAULT</string>
+									</array>
+									<key>uuid</key>
+									<string>65546F95-C9DB-46FE-8963-A83C0829D83B</string>
+									<key>zOrder</key>
+									<integer>0</integer>
+								</dict>
+							</array>
+							<key>colorOverlay</key>
+							<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+							<key>generalPosition</key>
+							<string>{-0.042568, 0.845452}</string>
+							<key>invisibleInEditor</key>
+							<false/>
+							<key>name</key>
+							<string>veryFarTrees</string>
+							<key>nodeType</key>
+							<string>LHNode</string>
+							<key>parentUUID</key>
+							<string>0792252D-C6A5-48D8-957B-9CC859E5BCFE</string>
+							<key>rotation</key>
+							<real>0.0</real>
+							<key>scale</key>
+							<string>{1.000000, 1.000000}</string>
+							<key>size</key>
+							<string>{951.901489, 131.365723}</string>
+							<key>tags</key>
+							<array>
+								<string>DEFAULT</string>
+							</array>
+							<key>uuid</key>
+							<string>695A8327-2DCD-4A3B-AC51-C36A6F7AA5C2</string>
+							<key>zOrder</key>
+							<integer>-2</integer>
+						</dict>
+						<dict>
+							<key>alpha</key>
+							<real>255</real>
+							<key>anchor</key>
+							<string>{0.500000, 0.500000}</string>
+							<key>animations</key>
+							<array>
+								<dict>
+									<key>active</key>
+									<true/>
+									<key>fps</key>
+									<integer>4</integer>
+									<key>name</key>
+									<string>windAnim</string>
+									<key>properties</key>
+									<dict>
+										<key>Children Rotations</key>
+										<dict>
+											<key>Frames</key>
+											<array>
+												<dict>
+													<key>frameIndex</key>
+													<integer>0</integer>
+													<key>rotations</key>
+													<dict>
+														<key>0A172375-0AF5-44FD-94F7-25005C3B2255</key>
+														<real>36.418132781982422</real>
+														<key>0A7149F5-9435-444B-BDA6-EA7847C8A956</key>
+														<real>341.38479614257812</real>
+														<key>18BF45D4-5233-468F-947D-B05DA7396584</key>
+														<real>326.32498168945312</real>
+														<key>4F2D1D71-A9BB-474B-A595-ECEA96A856E9</key>
+														<real>285.19613647460938</real>
+														<key>5F890BAE-19C4-4748-B7D9-8CC97B03AF1C</key>
+														<real>0.40007391571998596</real>
+														<key>8873984E-C360-478F-9CF3-F2643C9F36BE</key>
+														<real>297.41156005859375</real>
+														<key>922802CE-3002-4E1F-853E-80877F10D50A</key>
+														<real>86.389610290527344</real>
+														<key>9B9F4EA7-9629-43F9-BACE-E9BDC9596EC6</key>
+														<real>24.275188446044922</real>
+														<key>A84CD91E-1FD6-4C28-AD62-FD40873595CE</key>
+														<real>297.41156005859375</real>
+														<key>AB3F31AB-9184-48E8-8A29-890550121C55</key>
+														<real>86.389610290527344</real>
+														<key>E9555D8D-AA84-42A1-9F00-B026ABF59D2A</key>
+														<real>330.68087768554688</real>
+														<key>EC48CB7F-3BD8-4983-9616-88D6F8CEE43B</key>
+														<real>49.157146453857422</real>
+													</dict>
+												</dict>
+												<dict>
+													<key>frameIndex</key>
+													<integer>14</integer>
+													<key>rotations</key>
+													<dict>
+														<key>0A172375-0AF5-44FD-94F7-25005C3B2255</key>
+														<real>34.403697967529297</real>
+														<key>0A7149F5-9435-444B-BDA6-EA7847C8A956</key>
+														<real>339.71023559570312</real>
+														<key>18BF45D4-5233-468F-947D-B05DA7396584</key>
+														<real>329.26959228515625</real>
+														<key>4F2D1D71-A9BB-474B-A595-ECEA96A856E9</key>
+														<real>288.41421508789062</real>
+														<key>5F890BAE-19C4-4748-B7D9-8CC97B03AF1C</key>
+														<real>4.1587357521057129</real>
+														<key>8873984E-C360-478F-9CF3-F2643C9F36BE</key>
+														<real>301.4117431640625</real>
+														<key>922802CE-3002-4E1F-853E-80877F10D50A</key>
+														<real>80.1727294921875</real>
+														<key>9B9F4EA7-9629-43F9-BACE-E9BDC9596EC6</key>
+														<real>27.508077621459961</real>
+														<key>A84CD91E-1FD6-4C28-AD62-FD40873595CE</key>
+														<real>300.67156982421875</real>
+														<key>AB3F31AB-9184-48E8-8A29-890550121C55</key>
+														<real>82.774772644042969</real>
+														<key>E9555D8D-AA84-42A1-9F00-B026ABF59D2A</key>
+														<real>334.15203857421875</real>
+														<key>EC48CB7F-3BD8-4983-9616-88D6F8CEE43B</key>
+														<real>51.371631622314453</real>
+													</dict>
+												</dict>
+												<dict>
+													<key>frameIndex</key>
+													<integer>29</integer>
+													<key>rotations</key>
+													<dict>
+														<key>0A172375-0AF5-44FD-94F7-25005C3B2255</key>
+														<real>36.418132781982422</real>
+														<key>0A7149F5-9435-444B-BDA6-EA7847C8A956</key>
+														<real>341.38479614257812</real>
+														<key>18BF45D4-5233-468F-947D-B05DA7396584</key>
+														<real>326.32498168945312</real>
+														<key>4F2D1D71-A9BB-474B-A595-ECEA96A856E9</key>
+														<real>285.19613647460938</real>
+														<key>5F890BAE-19C4-4748-B7D9-8CC97B03AF1C</key>
+														<real>0.40007391571998596</real>
+														<key>8873984E-C360-478F-9CF3-F2643C9F36BE</key>
+														<real>297.41156005859375</real>
+														<key>922802CE-3002-4E1F-853E-80877F10D50A</key>
+														<real>86.389610290527344</real>
+														<key>9B9F4EA7-9629-43F9-BACE-E9BDC9596EC6</key>
+														<real>24.275188446044922</real>
+														<key>A84CD91E-1FD6-4C28-AD62-FD40873595CE</key>
+														<real>297.41156005859375</real>
+														<key>AB3F31AB-9184-48E8-8A29-890550121C55</key>
+														<real>86.389610290527344</real>
+														<key>E9555D8D-AA84-42A1-9F00-B026ABF59D2A</key>
+														<real>330.68087768554688</real>
+														<key>EC48CB7F-3BD8-4983-9616-88D6F8CEE43B</key>
+														<real>49.157146453857422</real>
+													</dict>
+												</dict>
+											</array>
+											<key>type</key>
+											<string>LHChildrenRotationsProperty</string>
+										</dict>
+									</dict>
+									<key>repetitions</key>
+									<integer>0</integer>
+									<key>totalFrames</key>
+									<integer>30</integer>
+								</dict>
+							</array>
+							<key>children</key>
+							<array>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>anchor</key>
+									<string>{0.479323, 0.945838}</string>
+									<key>colorOverlay</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>generalPosition</key>
+									<string>{0.309865, -0.275434}</string>
+									<key>imageFileName</key>
+									<string>bambooForest.png</string>
+									<key>invisibleInEditor</key>
+									<false/>
+									<key>name</key>
+									<string>groundLeaf_3.png</string>
+									<key>nodeType</key>
+									<string>LHSprite</string>
+									<key>parentUUID</key>
+									<string>6CB97252-577C-4D16-A01E-19E9A9A70B81</string>
+									<key>relativeImagePath</key>
+									<string>publishedResources/</string>
+									<key>rotation</key>
+									<real>297.41156005859375</real>
+									<key>scale</key>
+									<string>{1.000000, 1.000000}</string>
+									<key>size</key>
+									<string>{118.000000, 277.000000}</string>
+									<key>spriteName</key>
+									<string>groundLeaf.png</string>
+									<key>spriteUUID</key>
+									<string>60C8ACBB-A893-4847-9B92-147E8AF999A4</string>
+									<key>tags</key>
+									<array>
+										<string>DEFAULT</string>
+									</array>
+									<key>uuid</key>
+									<string>8873984E-C360-478F-9CF3-F2643C9F36BE</string>
+									<key>zOrder</key>
+									<integer>0</integer>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>anchor</key>
+									<string>{0.479323, 0.945838}</string>
+									<key>colorOverlay</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>generalPosition</key>
+									<string>{0.309865, -0.275434}</string>
+									<key>imageFileName</key>
+									<string>bambooForest.png</string>
+									<key>invisibleInEditor</key>
+									<false/>
+									<key>name</key>
+									<string>groundLeaf_2.png</string>
+									<key>nodeType</key>
+									<string>LHSprite</string>
+									<key>parentUUID</key>
+									<string>6CB97252-577C-4D16-A01E-19E9A9A70B81</string>
+									<key>relativeImagePath</key>
+									<string>publishedResources/</string>
+									<key>rotation</key>
+									<real>341.38479614257812</real>
+									<key>scale</key>
+									<string>{1.000000, 1.000000}</string>
+									<key>size</key>
+									<string>{118.000000, 277.000000}</string>
+									<key>spriteName</key>
+									<string>groundLeaf.png</string>
+									<key>spriteUUID</key>
+									<string>60C8ACBB-A893-4847-9B92-147E8AF999A4</string>
+									<key>tags</key>
+									<array>
+										<string>DEFAULT</string>
+									</array>
+									<key>uuid</key>
+									<string>0A7149F5-9435-444B-BDA6-EA7847C8A956</string>
+									<key>zOrder</key>
+									<integer>0</integer>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>anchor</key>
+									<string>{0.479323, 0.945838}</string>
+									<key>colorOverlay</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>generalPosition</key>
+									<string>{0.309865, -0.275434}</string>
+									<key>imageFileName</key>
+									<string>bambooForest.png</string>
+									<key>invisibleInEditor</key>
+									<false/>
+									<key>name</key>
+									<string>groundLeaf_1.png</string>
+									<key>nodeType</key>
+									<string>LHSprite</string>
+									<key>parentUUID</key>
+									<string>6CB97252-577C-4D16-A01E-19E9A9A70B81</string>
+									<key>relativeImagePath</key>
+									<string>publishedResources/</string>
+									<key>rotation</key>
+									<real>49.157146453857422</real>
+									<key>scale</key>
+									<string>{1.000000, 1.000000}</string>
+									<key>size</key>
+									<string>{118.000000, 277.000000}</string>
+									<key>spriteName</key>
+									<string>groundLeaf.png</string>
+									<key>spriteUUID</key>
+									<string>60C8ACBB-A893-4847-9B92-147E8AF999A4</string>
+									<key>tags</key>
+									<array>
+										<string>DEFAULT</string>
+									</array>
+									<key>uuid</key>
+									<string>EC48CB7F-3BD8-4983-9616-88D6F8CEE43B</string>
+									<key>zOrder</key>
+									<integer>0</integer>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>anchor</key>
+									<string>{0.479323, 0.945838}</string>
+									<key>colorOverlay</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>generalPosition</key>
+									<string>{0.315024, -0.294125}</string>
+									<key>imageFileName</key>
+									<string>bambooForest.png</string>
+									<key>invisibleInEditor</key>
+									<false/>
+									<key>name</key>
+									<string>groundLeaf.png</string>
+									<key>nodeType</key>
+									<string>LHSprite</string>
+									<key>parentUUID</key>
+									<string>6CB97252-577C-4D16-A01E-19E9A9A70B81</string>
+									<key>relativeImagePath</key>
+									<string>publishedResources/</string>
+									<key>rotation</key>
+									<real>86.389610290527344</real>
+									<key>scale</key>
+									<string>{1.000000, 1.000000}</string>
+									<key>size</key>
+									<string>{118.000000, 277.000000}</string>
+									<key>spriteName</key>
+									<string>groundLeaf.png</string>
+									<key>spriteUUID</key>
+									<string>60C8ACBB-A893-4847-9B92-147E8AF999A4</string>
+									<key>tags</key>
+									<array>
+										<string>DEFAULT</string>
+									</array>
+									<key>uuid</key>
+									<string>AB3F31AB-9184-48E8-8A29-890550121C55</string>
+									<key>zOrder</key>
+									<integer>0</integer>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>anchor</key>
+									<string>{0.479323, 0.945838}</string>
+									<key>colorOverlay</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>generalPosition</key>
+									<string>{-0.079307, -0.228497}</string>
+									<key>imageFileName</key>
+									<string>bambooForest.png</string>
+									<key>invisibleInEditor</key>
+									<false/>
+									<key>name</key>
+									<string>groundLeaf_11.png</string>
+									<key>nodeType</key>
+									<string>LHSprite</string>
+									<key>parentUUID</key>
+									<string>6CB97252-577C-4D16-A01E-19E9A9A70B81</string>
+									<key>relativeImagePath</key>
+									<string>publishedResources/</string>
+									<key>rotation</key>
+									<real>326.32498168945312</real>
+									<key>scale</key>
+									<string>{1.000000, 1.000000}</string>
+									<key>size</key>
+									<string>{118.000000, 277.000000}</string>
+									<key>spriteName</key>
+									<string>groundLeaf.png</string>
+									<key>spriteUUID</key>
+									<string>60C8ACBB-A893-4847-9B92-147E8AF999A4</string>
+									<key>tags</key>
+									<array>
+										<string>DEFAULT</string>
+									</array>
+									<key>uuid</key>
+									<string>18BF45D4-5233-468F-947D-B05DA7396584</string>
+									<key>zOrder</key>
+									<integer>0</integer>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>anchor</key>
+									<string>{0.479323, 0.945838}</string>
+									<key>colorOverlay</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>generalPosition</key>
+									<string>{-0.084466, -0.209806}</string>
+									<key>imageFileName</key>
+									<string>bambooForest.png</string>
+									<key>invisibleInEditor</key>
+									<false/>
+									<key>name</key>
+									<string>groundLeaf_10.png</string>
+									<key>nodeType</key>
+									<string>LHSprite</string>
+									<key>parentUUID</key>
+									<string>6CB97252-577C-4D16-A01E-19E9A9A70B81</string>
+									<key>relativeImagePath</key>
+									<string>publishedResources/</string>
+									<key>rotation</key>
+									<real>36.418132781982422</real>
+									<key>scale</key>
+									<string>{1.000000, 1.000000}</string>
+									<key>size</key>
+									<string>{118.000000, 277.000000}</string>
+									<key>spriteName</key>
+									<string>groundLeaf.png</string>
+									<key>spriteUUID</key>
+									<string>60C8ACBB-A893-4847-9B92-147E8AF999A4</string>
+									<key>tags</key>
+									<array>
+										<string>DEFAULT</string>
+									</array>
+									<key>uuid</key>
+									<string>0A172375-0AF5-44FD-94F7-25005C3B2255</string>
+									<key>zOrder</key>
+									<integer>0</integer>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>anchor</key>
+									<string>{0.479323, 0.945838}</string>
+									<key>colorOverlay</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>generalPosition</key>
+									<string>{-0.079706, -0.214189}</string>
+									<key>imageFileName</key>
+									<string>bambooForest.png</string>
+									<key>invisibleInEditor</key>
+									<false/>
+									<key>name</key>
+									<string>groundLeaf_9.png</string>
+									<key>nodeType</key>
+									<string>LHSprite</string>
+									<key>parentUUID</key>
+									<string>6CB97252-577C-4D16-A01E-19E9A9A70B81</string>
+									<key>relativeImagePath</key>
+									<string>publishedResources/</string>
+									<key>rotation</key>
+									<real>0.40007391571998596</real>
+									<key>scale</key>
+									<string>{1.000000, 1.000000}</string>
+									<key>size</key>
+									<string>{118.000000, 277.000000}</string>
+									<key>spriteName</key>
+									<string>groundLeaf.png</string>
+									<key>spriteUUID</key>
+									<string>60C8ACBB-A893-4847-9B92-147E8AF999A4</string>
+									<key>tags</key>
+									<array>
+										<string>DEFAULT</string>
+									</array>
+									<key>uuid</key>
+									<string>5F890BAE-19C4-4748-B7D9-8CC97B03AF1C</string>
+									<key>zOrder</key>
+									<integer>0</integer>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>anchor</key>
+									<string>{0.479323, 0.945838}</string>
+									<key>colorOverlay</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>generalPosition</key>
+									<string>{-0.084466, -0.209806}</string>
+									<key>imageFileName</key>
+									<string>bambooForest.png</string>
+									<key>invisibleInEditor</key>
+									<false/>
+									<key>name</key>
+									<string>groundLeaf_8.png</string>
+									<key>nodeType</key>
+									<string>LHSprite</string>
+									<key>parentUUID</key>
+									<string>6CB97252-577C-4D16-A01E-19E9A9A70B81</string>
+									<key>relativeImagePath</key>
+									<string>publishedResources/</string>
+									<key>rotation</key>
+									<real>297.41156005859375</real>
+									<key>scale</key>
+									<string>{1.000000, 1.000000}</string>
+									<key>size</key>
+									<string>{118.000000, 277.000000}</string>
+									<key>spriteName</key>
+									<string>groundLeaf.png</string>
+									<key>spriteUUID</key>
+									<string>60C8ACBB-A893-4847-9B92-147E8AF999A4</string>
+									<key>tags</key>
+									<array>
+										<string>DEFAULT</string>
+									</array>
+									<key>uuid</key>
+									<string>A84CD91E-1FD6-4C28-AD62-FD40873595CE</string>
+									<key>zOrder</key>
+									<integer>0</integer>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>anchor</key>
+									<string>{0.479323, 0.945838}</string>
+									<key>colorOverlay</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>generalPosition</key>
+									<string>{-0.409147, -0.260716}</string>
+									<key>imageFileName</key>
+									<string>bambooForest.png</string>
+									<key>invisibleInEditor</key>
+									<false/>
+									<key>name</key>
+									<string>groundLeaf_7.png</string>
+									<key>nodeType</key>
+									<string>LHSprite</string>
+									<key>parentUUID</key>
+									<string>6CB97252-577C-4D16-A01E-19E9A9A70B81</string>
+									<key>relativeImagePath</key>
+									<string>publishedResources/</string>
+									<key>rotation</key>
+									<real>86.389610290527344</real>
+									<key>scale</key>
+									<string>{1.000000, 1.000000}</string>
+									<key>size</key>
+									<string>{118.000000, 277.000000}</string>
+									<key>spriteName</key>
+									<string>groundLeaf.png</string>
+									<key>spriteUUID</key>
+									<string>60C8ACBB-A893-4847-9B92-147E8AF999A4</string>
+									<key>tags</key>
+									<array>
+										<string>DEFAULT</string>
+									</array>
+									<key>uuid</key>
+									<string>922802CE-3002-4E1F-853E-80877F10D50A</string>
+									<key>zOrder</key>
+									<integer>0</integer>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>anchor</key>
+									<string>{0.479323, 0.945838}</string>
+									<key>colorOverlay</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>generalPosition</key>
+									<string>{-0.407305, -0.215811}</string>
+									<key>imageFileName</key>
+									<string>bambooForest.png</string>
+									<key>invisibleInEditor</key>
+									<false/>
+									<key>name</key>
+									<string>groundLeaf_6.png</string>
+									<key>nodeType</key>
+									<string>LHSprite</string>
+									<key>parentUUID</key>
+									<string>6CB97252-577C-4D16-A01E-19E9A9A70B81</string>
+									<key>relativeImagePath</key>
+									<string>publishedResources/</string>
+									<key>rotation</key>
+									<real>24.275188446044922</real>
+									<key>scale</key>
+									<string>{1.000000, 1.000000}</string>
+									<key>size</key>
+									<string>{118.000000, 277.000000}</string>
+									<key>spriteName</key>
+									<string>groundLeaf.png</string>
+									<key>spriteUUID</key>
+									<string>60C8ACBB-A893-4847-9B92-147E8AF999A4</string>
+									<key>tags</key>
+									<array>
+										<string>DEFAULT</string>
+									</array>
+									<key>uuid</key>
+									<string>9B9F4EA7-9629-43F9-BACE-E9BDC9596EC6</string>
+									<key>zOrder</key>
+									<integer>0</integer>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>anchor</key>
+									<string>{0.479323, 0.945838}</string>
+									<key>colorOverlay</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>generalPosition</key>
+									<string>{-0.414306, -0.242025}</string>
+									<key>imageFileName</key>
+									<string>bambooForest.png</string>
+									<key>invisibleInEditor</key>
+									<false/>
+									<key>name</key>
+									<string>groundLeaf_5.png</string>
+									<key>nodeType</key>
+									<string>LHSprite</string>
+									<key>parentUUID</key>
+									<string>6CB97252-577C-4D16-A01E-19E9A9A70B81</string>
+									<key>relativeImagePath</key>
+									<string>publishedResources/</string>
+									<key>rotation</key>
+									<real>330.68087768554688</real>
+									<key>scale</key>
+									<string>{1.000000, 1.000000}</string>
+									<key>size</key>
+									<string>{118.000000, 277.000000}</string>
+									<key>spriteName</key>
+									<string>groundLeaf.png</string>
+									<key>spriteUUID</key>
+									<string>60C8ACBB-A893-4847-9B92-147E8AF999A4</string>
+									<key>tags</key>
+									<array>
+										<string>DEFAULT</string>
+									</array>
+									<key>uuid</key>
+									<string>E9555D8D-AA84-42A1-9F00-B026ABF59D2A</string>
+									<key>zOrder</key>
+									<integer>0</integer>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>anchor</key>
+									<string>{0.479323, 0.945838}</string>
+									<key>colorOverlay</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>generalPosition</key>
+									<string>{-0.383234, -0.239296}</string>
+									<key>imageFileName</key>
+									<string>bambooForest.png</string>
+									<key>invisibleInEditor</key>
+									<false/>
+									<key>name</key>
+									<string>groundLeaf_4.png</string>
+									<key>nodeType</key>
+									<string>LHSprite</string>
+									<key>parentUUID</key>
+									<string>6CB97252-577C-4D16-A01E-19E9A9A70B81</string>
+									<key>relativeImagePath</key>
+									<string>publishedResources/</string>
+									<key>rotation</key>
+									<real>285.19613647460938</real>
+									<key>scale</key>
+									<string>{1.000000, 1.000000}</string>
+									<key>size</key>
+									<string>{118.000000, 277.000000}</string>
+									<key>spriteName</key>
+									<string>groundLeaf.png</string>
+									<key>spriteUUID</key>
+									<string>60C8ACBB-A893-4847-9B92-147E8AF999A4</string>
+									<key>tags</key>
+									<array>
+										<string>DEFAULT</string>
+									</array>
+									<key>uuid</key>
+									<string>4F2D1D71-A9BB-474B-A595-ECEA96A856E9</string>
+									<key>zOrder</key>
+									<integer>0</integer>
+								</dict>
+							</array>
+							<key>colorOverlay</key>
+							<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+							<key>generalPosition</key>
+							<string>{0.013257, 2.526344}</string>
+							<key>invisibleInEditor</key>
+							<false/>
+							<key>name</key>
+							<string>leafs</string>
+							<key>nodeType</key>
+							<string>LHNode</string>
+							<key>parentUUID</key>
+							<string>0792252D-C6A5-48D8-957B-9CC859E5BCFE</string>
+							<key>rotation</key>
+							<real>0.0</real>
+							<key>scale</key>
+							<string>{1.000000, 1.000000}</string>
+							<key>size</key>
+							<string>{1482.895630, 105.837379}</string>
+							<key>tags</key>
+							<array>
+								<string>DEFAULT</string>
+							</array>
+							<key>uuid</key>
+							<string>6CB97252-577C-4D16-A01E-19E9A9A70B81</string>
+							<key>zOrder</key>
+							<integer>-1</integer>
+						</dict>
+						<dict>
+							<key>alpha</key>
+							<real>255</real>
+							<key>anchor</key>
+							<string>{0.500000, 0.500000}</string>
+							<key>children</key>
+							<array>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>anchor</key>
+									<string>{0.500000, 0.500000}</string>
+									<key>colorOverlay</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>generalPosition</key>
+									<string>{0.330115, 0.008133}</string>
+									<key>imageFileName</key>
+									<string>bambooForest.png</string>
+									<key>invisibleInEditor</key>
+									<false/>
+									<key>name</key>
+									<string>backGrass_1.png</string>
+									<key>nodeType</key>
+									<string>LHSprite</string>
+									<key>parentUUID</key>
+									<string>C8070886-880B-4283-B60B-08F701215B23</string>
+									<key>relativeImagePath</key>
+									<string>publishedResources/</string>
+									<key>rotation</key>
+									<real>0.0</real>
+									<key>scale</key>
+									<string>{1.000000, 1.000000}</string>
+									<key>size</key>
+									<string>{832.000000, 197.000000}</string>
+									<key>spriteName</key>
+									<string>backGrass.png</string>
+									<key>spriteUUID</key>
+									<string>0F94904E-0FB5-4DC2-8557-1868AE8286A7</string>
+									<key>tags</key>
+									<array>
+										<string>DEFAULT</string>
+									</array>
+									<key>uuid</key>
+									<string>0E76777D-2215-47E0-A3A7-B593509AD080</string>
+									<key>zOrder</key>
+									<integer>0</integer>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>anchor</key>
+									<string>{0.500000, 0.500000}</string>
+									<key>colorOverlay</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>generalPosition</key>
+									<string>{-0.332837, -0.003138}</string>
+									<key>imageFileName</key>
+									<string>bambooForest.png</string>
+									<key>invisibleInEditor</key>
+									<false/>
+									<key>name</key>
+									<string>backGrass.png</string>
+									<key>nodeType</key>
+									<string>LHSprite</string>
+									<key>parentUUID</key>
+									<string>C8070886-880B-4283-B60B-08F701215B23</string>
+									<key>relativeImagePath</key>
+									<string>publishedResources/</string>
+									<key>rotation</key>
+									<real>0.0</real>
+									<key>scale</key>
+									<string>{1.000000, 1.000000}</string>
+									<key>size</key>
+									<string>{832.000000, 197.000000}</string>
+									<key>spriteName</key>
+									<string>backGrass.png</string>
+									<key>spriteUUID</key>
+									<string>0F94904E-0FB5-4DC2-8557-1868AE8286A7</string>
+									<key>tags</key>
+									<array>
+										<string>DEFAULT</string>
+									</array>
+									<key>uuid</key>
+									<string>00D4C394-B6B6-4F2E-9BC2-657B6402053A</string>
+									<key>zOrder</key>
+									<integer>0</integer>
+								</dict>
+							</array>
+							<key>colorOverlay</key>
+							<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+							<key>devicePositions</key>
+							<dict>
+								<key>1024x768</key>
+								<string>{-0.023257, 2.336865}</string>
+								<key>1136x640</key>
+								<string>{0.008230, 2.311687}</string>
+								<key>1334x750</key>
+								<string>{0.085545, 2.329213}</string>
+								<key>2048x1536</key>
+								<string>{-0.096825, 2.343997}</string>
+								<key>2208x1242</key>
+								<string>{-0.003041, 2.239237}</string>
+								<key>960x640</key>
+								<string>{-0.013598, 2.292303}</string>
+							</dict>
+							<key>generalPosition</key>
+							<string>{-0.096825, 2.343997}</string>
+							<key>invisibleInEditor</key>
+							<false/>
+							<key>name</key>
+							<string>backGrass</string>
+							<key>nodeType</key>
+							<string>LHNode</string>
+							<key>parentUUID</key>
+							<string>0792252D-C6A5-48D8-957B-9CC859E5BCFE</string>
+							<key>perDevicePosition</key>
+							<true/>
+							<key>rotation</key>
+							<real>0.0</real>
+							<key>scale</key>
+							<string>{1.000000, 1.000000}</string>
+							<key>size</key>
+							<string>{1523.460938, 180.183472}</string>
+							<key>tags</key>
+							<array>
+								<string>DEFAULT</string>
+							</array>
+							<key>uuid</key>
+							<string>C8070886-880B-4283-B60B-08F701215B23</string>
+							<key>zOrder</key>
+							<integer>0</integer>
+						</dict>
+						<dict>
+							<key>alpha</key>
+							<real>255</real>
+							<key>anchor</key>
+							<string>{0.500000, 0.500000}</string>
+							<key>children</key>
+							<array>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>anchor</key>
+									<string>{0.500000, 0.500000}</string>
+									<key>colorOverlay</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>generalPosition</key>
+									<string>{0.553635, 0.954042}</string>
+									<key>imageFileName</key>
+									<string>bambooForest.png</string>
+									<key>invisibleInEditor</key>
+									<false/>
+									<key>name</key>
+									<string>backBambooTree_3.png</string>
+									<key>nodeType</key>
+									<string>LHSprite</string>
+									<key>parentUUID</key>
+									<string>6F7E1CD2-4E65-400C-AC4E-9A26F1D01EBF</string>
+									<key>relativeImagePath</key>
+									<string>publishedResources/</string>
+									<key>rotation</key>
+									<real>0.0</real>
+									<key>scale</key>
+									<string>{1.000000, 1.000000}</string>
+									<key>size</key>
+									<string>{151.000000, 932.000000}</string>
+									<key>spriteName</key>
+									<string>backBambooTree.png</string>
+									<key>spriteUUID</key>
+									<string>D7F203C7-3476-4AF6-914A-03B430F5BCD7</string>
+									<key>tags</key>
+									<array>
+										<string>DEFAULT</string>
+									</array>
+									<key>uuid</key>
+									<string>CDBEBFF4-7A87-457D-A789-92AE3186609B</string>
+									<key>zOrder</key>
+									<integer>0</integer>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>anchor</key>
+									<string>{0.500000, 0.500000}</string>
+									<key>colorOverlay</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>generalPosition</key>
+									<string>{0.432675, 0.816552}</string>
+									<key>imageFileName</key>
+									<string>bambooForest.png</string>
+									<key>invisibleInEditor</key>
+									<false/>
+									<key>name</key>
+									<string>backBambooTree_2.png</string>
+									<key>nodeType</key>
+									<string>LHSprite</string>
+									<key>parentUUID</key>
+									<string>6F7E1CD2-4E65-400C-AC4E-9A26F1D01EBF</string>
+									<key>relativeImagePath</key>
+									<string>publishedResources/</string>
+									<key>rotation</key>
+									<real>0.0</real>
+									<key>scale</key>
+									<string>{-1.000000, 1.000000}</string>
+									<key>size</key>
+									<string>{151.000000, 932.000000}</string>
+									<key>spriteName</key>
+									<string>backBambooTree.png</string>
+									<key>spriteUUID</key>
+									<string>D7F203C7-3476-4AF6-914A-03B430F5BCD7</string>
+									<key>tags</key>
+									<array>
+										<string>DEFAULT</string>
+									</array>
+									<key>uuid</key>
+									<string>E9DF5ED4-DC74-4D19-BDA7-8EC4A5338007</string>
+									<key>zOrder</key>
+									<integer>0</integer>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>anchor</key>
+									<string>{0.500000, 0.500000}</string>
+									<key>colorOverlay</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>generalPosition</key>
+									<string>{-0.418798, 0.954701}</string>
+									<key>imageFileName</key>
+									<string>bambooForest.png</string>
+									<key>invisibleInEditor</key>
+									<false/>
+									<key>name</key>
+									<string>backBambooTree_1.png</string>
+									<key>nodeType</key>
+									<string>LHSprite</string>
+									<key>parentUUID</key>
+									<string>6F7E1CD2-4E65-400C-AC4E-9A26F1D01EBF</string>
+									<key>relativeImagePath</key>
+									<string>publishedResources/</string>
+									<key>rotation</key>
+									<real>0.0</real>
+									<key>scale</key>
+									<string>{1.000000, 1.000000}</string>
+									<key>size</key>
+									<string>{151.000000, 932.000000}</string>
+									<key>spriteName</key>
+									<string>backBambooTree.png</string>
+									<key>spriteUUID</key>
+									<string>D7F203C7-3476-4AF6-914A-03B430F5BCD7</string>
+									<key>tags</key>
+									<array>
+										<string>DEFAULT</string>
+									</array>
+									<key>uuid</key>
+									<string>8989031C-E4B8-4BC1-9477-EECE42AB2B06</string>
+									<key>zOrder</key>
+									<integer>0</integer>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>anchor</key>
+									<string>{0.500000, 0.500000}</string>
+									<key>colorOverlay</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>generalPosition</key>
+									<string>{-0.548959, 0.790359}</string>
+									<key>imageFileName</key>
+									<string>bambooForest.png</string>
+									<key>invisibleInEditor</key>
+									<false/>
+									<key>name</key>
+									<string>backBambooTree.png</string>
+									<key>nodeType</key>
+									<string>LHSprite</string>
+									<key>parentUUID</key>
+									<string>6F7E1CD2-4E65-400C-AC4E-9A26F1D01EBF</string>
+									<key>relativeImagePath</key>
+									<string>publishedResources/</string>
+									<key>rotation</key>
+									<real>0.0</real>
+									<key>scale</key>
+									<string>{-1.000000, 1.000000}</string>
+									<key>size</key>
+									<string>{151.000000, 932.000000}</string>
+									<key>spriteName</key>
+									<string>backBambooTree.png</string>
+									<key>spriteUUID</key>
+									<string>D7F203C7-3476-4AF6-914A-03B430F5BCD7</string>
+									<key>tags</key>
+									<array>
+										<string>DEFAULT</string>
+									</array>
+									<key>uuid</key>
+									<string>6F08A32E-6E28-4554-B9F0-16D850CECE79</string>
+									<key>zOrder</key>
+									<integer>0</integer>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>anchor</key>
+									<string>{0.500000, 0.500000}</string>
+									<key>colorOverlay</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>generalPosition</key>
+									<string>{0.732188, 0.876469}</string>
+									<key>imageFileName</key>
+									<string>bambooForest.png</string>
+									<key>invisibleInEditor</key>
+									<false/>
+									<key>name</key>
+									<string>backBambooTree_10.png</string>
+									<key>nodeType</key>
+									<string>LHSprite</string>
+									<key>parentUUID</key>
+									<string>6F7E1CD2-4E65-400C-AC4E-9A26F1D01EBF</string>
+									<key>relativeImagePath</key>
+									<string>publishedResources/</string>
+									<key>rotation</key>
+									<real>0.0</real>
+									<key>scale</key>
+									<string>{1.000000, 1.000000}</string>
+									<key>size</key>
+									<string>{151.000000, 932.000000}</string>
+									<key>spriteName</key>
+									<string>backBambooTree.png</string>
+									<key>spriteUUID</key>
+									<string>D7F203C7-3476-4AF6-914A-03B430F5BCD7</string>
+									<key>tags</key>
+									<array>
+										<string>DEFAULT</string>
+									</array>
+									<key>uuid</key>
+									<string>686A9BC5-F870-4D9F-881F-940320B133E0</string>
+									<key>zOrder</key>
+									<integer>0</integer>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>anchor</key>
+									<string>{0.500000, 0.500000}</string>
+									<key>colorOverlay</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>generalPosition</key>
+									<string>{0.611228, 0.738979}</string>
+									<key>imageFileName</key>
+									<string>bambooForest.png</string>
+									<key>invisibleInEditor</key>
+									<false/>
+									<key>name</key>
+									<string>backBambooTree_11.png</string>
+									<key>nodeType</key>
+									<string>LHSprite</string>
+									<key>parentUUID</key>
+									<string>6F7E1CD2-4E65-400C-AC4E-9A26F1D01EBF</string>
+									<key>relativeImagePath</key>
+									<string>publishedResources/</string>
+									<key>rotation</key>
+									<real>0.0</real>
+									<key>scale</key>
+									<string>{-1.000000, 1.000000}</string>
+									<key>size</key>
+									<string>{151.000000, 932.000000}</string>
+									<key>spriteName</key>
+									<string>backBambooTree.png</string>
+									<key>spriteUUID</key>
+									<string>D7F203C7-3476-4AF6-914A-03B430F5BCD7</string>
+									<key>tags</key>
+									<array>
+										<string>DEFAULT</string>
+									</array>
+									<key>uuid</key>
+									<string>5264D39A-5A8D-41B4-A679-258781D778D2</string>
+									<key>zOrder</key>
+									<integer>0</integer>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>anchor</key>
+									<string>{0.500000, 0.500000}</string>
+									<key>colorOverlay</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>generalPosition</key>
+									<string>{-0.498453, 0.947712}</string>
+									<key>imageFileName</key>
+									<string>bambooForest.png</string>
+									<key>invisibleInEditor</key>
+									<false/>
+									<key>name</key>
+									<string>backBambooTree_12.png</string>
+									<key>nodeType</key>
+									<string>LHSprite</string>
+									<key>parentUUID</key>
+									<string>6F7E1CD2-4E65-400C-AC4E-9A26F1D01EBF</string>
+									<key>relativeImagePath</key>
+									<string>publishedResources/</string>
+									<key>rotation</key>
+									<real>0.0</real>
+									<key>scale</key>
+									<string>{1.000000, 1.000000}</string>
+									<key>size</key>
+									<string>{151.000000, 932.000000}</string>
+									<key>spriteName</key>
+									<string>backBambooTree.png</string>
+									<key>spriteUUID</key>
+									<string>D7F203C7-3476-4AF6-914A-03B430F5BCD7</string>
+									<key>tags</key>
+									<array>
+										<string>DEFAULT</string>
+									</array>
+									<key>uuid</key>
+									<string>56B8F18C-8431-4BE0-A959-661D237FE266</string>
+									<key>zOrder</key>
+									<integer>0</integer>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>anchor</key>
+									<string>{0.500000, 0.500000}</string>
+									<key>colorOverlay</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>generalPosition</key>
+									<string>{-0.628614, 0.783370}</string>
+									<key>imageFileName</key>
+									<string>bambooForest.png</string>
+									<key>invisibleInEditor</key>
+									<false/>
+									<key>name</key>
+									<string>backBambooTree_13.png</string>
+									<key>nodeType</key>
+									<string>LHSprite</string>
+									<key>parentUUID</key>
+									<string>6F7E1CD2-4E65-400C-AC4E-9A26F1D01EBF</string>
+									<key>relativeImagePath</key>
+									<string>publishedResources/</string>
+									<key>rotation</key>
+									<real>0.0</real>
+									<key>scale</key>
+									<string>{-1.000000, 1.000000}</string>
+									<key>size</key>
+									<string>{151.000000, 932.000000}</string>
+									<key>spriteName</key>
+									<string>backBambooTree.png</string>
+									<key>spriteUUID</key>
+									<string>D7F203C7-3476-4AF6-914A-03B430F5BCD7</string>
+									<key>tags</key>
+									<array>
+										<string>DEFAULT</string>
+									</array>
+									<key>uuid</key>
+									<string>12AA9DD5-DD9E-4206-8A9B-A9979E80BCF3</string>
+									<key>zOrder</key>
+									<integer>0</integer>
+								</dict>
+							</array>
+							<key>colorOverlay</key>
+							<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+							<key>generalPosition</key>
+							<string>{0.011386, 0.953119}</string>
+							<key>invisibleInEditor</key>
+							<false/>
+							<key>name</key>
+							<string>backTrees</string>
+							<key>nodeType</key>
+							<string>LHNode</string>
+							<key>parentUUID</key>
+							<string>0792252D-C6A5-48D8-957B-9CC859E5BCFE</string>
+							<key>rotation</key>
+							<real>0.0</real>
+							<key>scale</key>
+							<string>{1.000000, 1.000000}</string>
+							<key>size</key>
+							<string>{1220.035645, 67.931435}</string>
+							<key>tags</key>
+							<array>
+								<string>DEFAULT</string>
+							</array>
+							<key>uuid</key>
+							<string>6F7E1CD2-4E65-400C-AC4E-9A26F1D01EBF</string>
+							<key>zOrder</key>
+							<integer>1</integer>
+						</dict>
+						<dict>
+							<key>alpha</key>
+							<real>255</real>
+							<key>anchor</key>
+							<string>{0.500000, 0.500000}</string>
+							<key>animations</key>
+							<array>
+								<dict>
+									<key>active</key>
+									<true/>
+									<key>fps</key>
+									<integer>4</integer>
+									<key>name</key>
+									<string>movementAnim</string>
+									<key>properties</key>
+									<dict>
+										<key>Children Rotations</key>
+										<dict>
+											<key>Frames</key>
+											<array>
+												<dict>
+													<key>frameIndex</key>
+													<integer>0</integer>
+													<key>rotations</key>
+													<dict>
+														<key>2D096B92-9639-4F13-BCA1-C4B275B8CA49</key>
+														<real>153.952880859375</real>
+														<key>34FD15A3-24EC-45DE-B666-79DC3F22512C</key>
+														<real>185.52545166015625</real>
+														<key>55671913-8378-4362-812F-38C135BBBF46</key>
+														<real>171.57745361328125</real>
+													</dict>
+												</dict>
+												<dict>
+													<key>frameIndex</key>
+													<integer>14</integer>
+													<key>rotations</key>
+													<dict>
+														<key>2D096B92-9639-4F13-BCA1-C4B275B8CA49</key>
+														<real>155.60566711425781</real>
+														<key>34FD15A3-24EC-45DE-B666-79DC3F22512C</key>
+														<real>187.92630004882812</real>
+														<key>55671913-8378-4362-812F-38C135BBBF46</key>
+														<real>170.25849914550781</real>
+													</dict>
+												</dict>
+												<dict>
+													<key>frameIndex</key>
+													<integer>29</integer>
+													<key>rotations</key>
+													<dict>
+														<key>2D096B92-9639-4F13-BCA1-C4B275B8CA49</key>
+														<real>153.952880859375</real>
+														<key>34FD15A3-24EC-45DE-B666-79DC3F22512C</key>
+														<real>185.52545166015625</real>
+														<key>55671913-8378-4362-812F-38C135BBBF46</key>
+														<real>171.57745361328125</real>
+													</dict>
+												</dict>
+											</array>
+											<key>type</key>
+											<string>LHChildrenRotationsProperty</string>
+										</dict>
+									</dict>
+									<key>repetitions</key>
+									<integer>0</integer>
+									<key>totalFrames</key>
+									<integer>30</integer>
+								</dict>
+							</array>
+							<key>children</key>
+							<array>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>anchor</key>
+									<string>{0.424606, 0.960950}</string>
+									<key>colorOverlay</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>generalPosition</key>
+									<string>{0.324385, 0.541761}</string>
+									<key>imageFileName</key>
+									<string>bambooForest.png</string>
+									<key>invisibleInEditor</key>
+									<false/>
+									<key>name</key>
+									<string>godRay_2.png</string>
+									<key>nodeType</key>
+									<string>LHSprite</string>
+									<key>parentUUID</key>
+									<string>1B4A36CB-1BAB-47A7-933F-A1D3815C6D57</string>
+									<key>relativeImagePath</key>
+									<string>publishedResources/</string>
+									<key>rotation</key>
+									<real>185.52545166015625</real>
+									<key>scale</key>
+									<string>{1.000000, 1.000000}</string>
+									<key>size</key>
+									<string>{215.000000, 871.000000}</string>
+									<key>spriteName</key>
+									<string>godRay.png</string>
+									<key>spriteUUID</key>
+									<string>B0B2297B-2FCF-4F6D-80BC-D2D45D57466A</string>
+									<key>tags</key>
+									<array>
+										<string>DEFAULT</string>
+									</array>
+									<key>uuid</key>
+									<string>34FD15A3-24EC-45DE-B666-79DC3F22512C</string>
+									<key>zOrder</key>
+									<integer>0</integer>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>anchor</key>
+									<string>{0.424606, 0.960950}</string>
+									<key>colorOverlay</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>generalPosition</key>
+									<string>{-0.317530, 0.590274}</string>
+									<key>imageFileName</key>
+									<string>bambooForest.png</string>
+									<key>invisibleInEditor</key>
+									<false/>
+									<key>name</key>
+									<string>godRay.png</string>
+									<key>nodeType</key>
+									<string>LHSprite</string>
+									<key>parentUUID</key>
+									<string>1B4A36CB-1BAB-47A7-933F-A1D3815C6D57</string>
+									<key>relativeImagePath</key>
+									<string>publishedResources/</string>
+									<key>rotation</key>
+									<real>153.952880859375</real>
+									<key>scale</key>
+									<string>{1.000000, 1.000000}</string>
+									<key>size</key>
+									<string>{215.000000, 871.000000}</string>
+									<key>spriteName</key>
+									<string>godRay.png</string>
+									<key>spriteUUID</key>
+									<string>B0B2297B-2FCF-4F6D-80BC-D2D45D57466A</string>
+									<key>tags</key>
+									<array>
+										<string>DEFAULT</string>
+									</array>
+									<key>uuid</key>
+									<string>2D096B92-9639-4F13-BCA1-C4B275B8CA49</string>
+									<key>zOrder</key>
+									<integer>0</integer>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>anchor</key>
+									<string>{0.424606, 0.960950}</string>
+									<key>colorOverlay</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>generalPosition</key>
+									<string>{-0.000161, 0.556629}</string>
+									<key>imageFileName</key>
+									<string>bambooForest.png</string>
+									<key>invisibleInEditor</key>
+									<false/>
+									<key>name</key>
+									<string>godRay_1.png</string>
+									<key>nodeType</key>
+									<string>LHSprite</string>
+									<key>parentUUID</key>
+									<string>1B4A36CB-1BAB-47A7-933F-A1D3815C6D57</string>
+									<key>relativeImagePath</key>
+									<string>publishedResources/</string>
+									<key>rotation</key>
+									<real>171.57745361328125</real>
+									<key>scale</key>
+									<string>{1.000000, 1.000000}</string>
+									<key>size</key>
+									<string>{215.000000, 871.000000}</string>
+									<key>spriteName</key>
+									<string>godRay.png</string>
+									<key>spriteUUID</key>
+									<string>B0B2297B-2FCF-4F6D-80BC-D2D45D57466A</string>
+									<key>tags</key>
+									<array>
+										<string>DEFAULT</string>
+									</array>
+									<key>uuid</key>
+									<string>55671913-8378-4362-812F-38C135BBBF46</string>
+									<key>zOrder</key>
+									<integer>2</integer>
+								</dict>
+							</array>
+							<key>colorOverlay</key>
+							<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+							<key>generalPosition</key>
+							<string>{-0.128124, 0.603433}</string>
+							<key>invisibleInEditor</key>
+							<false/>
+							<key>name</key>
+							<string>godRays</string>
+							<key>nodeType</key>
+							<string>LHNode</string>
+							<key>parentUUID</key>
+							<string>0792252D-C6A5-48D8-957B-9CC859E5BCFE</string>
+							<key>rotation</key>
+							<real>0.0</real>
+							<key>scale</key>
+							<string>{1.000000, 1.000000}</string>
+							<key>size</key>
+							<string>{711.138794, 72.400078}</string>
+							<key>tags</key>
+							<array>
+								<string>DEFAULT</string>
+							</array>
+							<key>uuid</key>
+							<string>1B4A36CB-1BAB-47A7-933F-A1D3815C6D57</string>
+							<key>zOrder</key>
+							<integer>1</integer>
+						</dict>
+						<dict>
+							<key>alpha</key>
+							<real>255</real>
+							<key>anchor</key>
+							<string>{0.500000, 0.500000}</string>
+							<key>children</key>
+							<array>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>anchor</key>
+									<string>{0.500000, 0.500000}</string>
+									<key>colorOverlay</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>generalPosition</key>
+									<string>{-0.509046, 1.433358}</string>
+									<key>imageFileName</key>
+									<string>bambooForest.png</string>
+									<key>invisibleInEditor</key>
+									<false/>
+									<key>name</key>
+									<string>frontBambooTree.png</string>
+									<key>nodeType</key>
+									<string>LHSprite</string>
+									<key>parentUUID</key>
+									<string>C472E3A0-0800-422C-94CB-142276A6BF68</string>
+									<key>relativeImagePath</key>
+									<string>publishedResources/</string>
+									<key>rotation</key>
+									<real>0.0</real>
+									<key>scale</key>
+									<string>{1.000000, 1.000000}</string>
+									<key>size</key>
+									<string>{88.000000, 942.000000}</string>
+									<key>spriteName</key>
+									<string>frontBambooTree.png</string>
+									<key>spriteUUID</key>
+									<string>1222207B-7E17-4212-B469-D6268768310B</string>
+									<key>tags</key>
+									<array>
+										<string>DEFAULT</string>
+									</array>
+									<key>uuid</key>
+									<string>1E724815-CC93-4E30-AFAE-058AE070C560</string>
+									<key>zOrder</key>
+									<integer>0</integer>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>anchor</key>
+									<string>{0.500000, 0.500000}</string>
+									<key>colorOverlay</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>generalPosition</key>
+									<string>{-0.408858, 1.544287}</string>
+									<key>imageFileName</key>
+									<string>bambooForest.png</string>
+									<key>invisibleInEditor</key>
+									<false/>
+									<key>name</key>
+									<string>frontBambooTree_1.png</string>
+									<key>nodeType</key>
+									<string>LHSprite</string>
+									<key>parentUUID</key>
+									<string>C472E3A0-0800-422C-94CB-142276A6BF68</string>
+									<key>relativeImagePath</key>
+									<string>publishedResources/</string>
+									<key>rotation</key>
+									<real>0.0</real>
+									<key>scale</key>
+									<string>{-1.000000, 1.000000}</string>
+									<key>size</key>
+									<string>{88.000000, 942.000000}</string>
+									<key>spriteName</key>
+									<string>frontBambooTree.png</string>
+									<key>spriteUUID</key>
+									<string>1222207B-7E17-4212-B469-D6268768310B</string>
+									<key>tags</key>
+									<array>
+										<string>DEFAULT</string>
+									</array>
+									<key>uuid</key>
+									<string>AFE2496D-B3C4-4E8C-8864-E7E950373961</string>
+									<key>zOrder</key>
+									<integer>0</integer>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>anchor</key>
+									<string>{0.500000, 0.500000}</string>
+									<key>colorOverlay</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>generalPosition</key>
+									<string>{0.402790, 1.561777}</string>
+									<key>imageFileName</key>
+									<string>bambooForest.png</string>
+									<key>invisibleInEditor</key>
+									<false/>
+									<key>name</key>
+									<string>frontBambooTree_2.png</string>
+									<key>nodeType</key>
+									<string>LHSprite</string>
+									<key>parentUUID</key>
+									<string>C472E3A0-0800-422C-94CB-142276A6BF68</string>
+									<key>relativeImagePath</key>
+									<string>publishedResources/</string>
+									<key>rotation</key>
+									<real>0.0</real>
+									<key>scale</key>
+									<string>{1.000000, 1.000000}</string>
+									<key>size</key>
+									<string>{88.000000, 942.000000}</string>
+									<key>spriteName</key>
+									<string>frontBambooTree.png</string>
+									<key>spriteUUID</key>
+									<string>1222207B-7E17-4212-B469-D6268768310B</string>
+									<key>tags</key>
+									<array>
+										<string>DEFAULT</string>
+									</array>
+									<key>uuid</key>
+									<string>AC543EA7-0C04-4E6F-B29E-BC3301FD59F5</string>
+									<key>zOrder</key>
+									<integer>0</integer>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>anchor</key>
+									<string>{0.500000, 0.500000}</string>
+									<key>colorOverlay</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>generalPosition</key>
+									<string>{0.512266, 1.354736}</string>
+									<key>imageFileName</key>
+									<string>bambooForest.png</string>
+									<key>invisibleInEditor</key>
+									<false/>
+									<key>name</key>
+									<string>frontBambooTree_3.png</string>
+									<key>nodeType</key>
+									<string>LHSprite</string>
+									<key>parentUUID</key>
+									<string>C472E3A0-0800-422C-94CB-142276A6BF68</string>
+									<key>relativeImagePath</key>
+									<string>publishedResources/</string>
+									<key>rotation</key>
+									<real>0.0</real>
+									<key>scale</key>
+									<string>{-1.000000, 1.000000}</string>
+									<key>size</key>
+									<string>{88.000000, 942.000000}</string>
+									<key>spriteName</key>
+									<string>frontBambooTree.png</string>
+									<key>spriteUUID</key>
+									<string>1222207B-7E17-4212-B469-D6268768310B</string>
+									<key>tags</key>
+									<array>
+										<string>DEFAULT</string>
+									</array>
+									<key>uuid</key>
+									<string>22EACF1A-0B56-41EA-8F7C-C2B7ED26F47E</string>
+									<key>zOrder</key>
+									<integer>0</integer>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>anchor</key>
+									<string>{0.500000, 0.500000}</string>
+									<key>colorOverlay</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>generalPosition</key>
+									<string>{-0.665682, 1.404795}</string>
+									<key>imageFileName</key>
+									<string>bambooForest.png</string>
+									<key>invisibleInEditor</key>
+									<false/>
+									<key>name</key>
+									<string>frontBambooTree_4.png</string>
+									<key>nodeType</key>
+									<string>LHSprite</string>
+									<key>parentUUID</key>
+									<string>C472E3A0-0800-422C-94CB-142276A6BF68</string>
+									<key>relativeImagePath</key>
+									<string>publishedResources/</string>
+									<key>rotation</key>
+									<real>0.0</real>
+									<key>scale</key>
+									<string>{1.000000, 1.000000}</string>
+									<key>size</key>
+									<string>{88.000000, 942.000000}</string>
+									<key>spriteName</key>
+									<string>frontBambooTree.png</string>
+									<key>spriteUUID</key>
+									<string>1222207B-7E17-4212-B469-D6268768310B</string>
+									<key>tags</key>
+									<array>
+										<string>DEFAULT</string>
+									</array>
+									<key>uuid</key>
+									<string>9A0A77D6-0E16-40CD-8775-690AF472CE4F</string>
+									<key>zOrder</key>
+									<integer>0</integer>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>anchor</key>
+									<string>{0.500000, 0.500000}</string>
+									<key>colorOverlay</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>generalPosition</key>
+									<string>{-0.565494, 1.515724}</string>
+									<key>imageFileName</key>
+									<string>bambooForest.png</string>
+									<key>invisibleInEditor</key>
+									<false/>
+									<key>name</key>
+									<string>frontBambooTree_5.png</string>
+									<key>nodeType</key>
+									<string>LHSprite</string>
+									<key>parentUUID</key>
+									<string>C472E3A0-0800-422C-94CB-142276A6BF68</string>
+									<key>relativeImagePath</key>
+									<string>publishedResources/</string>
+									<key>rotation</key>
+									<real>0.0</real>
+									<key>scale</key>
+									<string>{-1.000000, 1.000000}</string>
+									<key>size</key>
+									<string>{88.000000, 942.000000}</string>
+									<key>spriteName</key>
+									<string>frontBambooTree.png</string>
+									<key>spriteUUID</key>
+									<string>1222207B-7E17-4212-B469-D6268768310B</string>
+									<key>tags</key>
+									<array>
+										<string>DEFAULT</string>
+									</array>
+									<key>uuid</key>
+									<string>0D5E6F09-4913-4C63-8202-0EACF77D7790</string>
+									<key>zOrder</key>
+									<integer>0</integer>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>anchor</key>
+									<string>{0.500000, 0.500000}</string>
+									<key>colorOverlay</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>generalPosition</key>
+									<string>{0.622754, 1.493970}</string>
+									<key>imageFileName</key>
+									<string>bambooForest.png</string>
+									<key>invisibleInEditor</key>
+									<false/>
+									<key>name</key>
+									<string>frontBambooTree_6.png</string>
+									<key>nodeType</key>
+									<string>LHSprite</string>
+									<key>parentUUID</key>
+									<string>C472E3A0-0800-422C-94CB-142276A6BF68</string>
+									<key>relativeImagePath</key>
+									<string>publishedResources/</string>
+									<key>rotation</key>
+									<real>0.0</real>
+									<key>scale</key>
+									<string>{1.000000, 1.000000}</string>
+									<key>size</key>
+									<string>{88.000000, 942.000000}</string>
+									<key>spriteName</key>
+									<string>frontBambooTree.png</string>
+									<key>spriteUUID</key>
+									<string>1222207B-7E17-4212-B469-D6268768310B</string>
+									<key>tags</key>
+									<array>
+										<string>DEFAULT</string>
+									</array>
+									<key>uuid</key>
+									<string>DE05883A-78E5-4D62-B1C1-94FC4372F6FB</string>
+									<key>zOrder</key>
+									<integer>0</integer>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>anchor</key>
+									<string>{0.500000, 0.500000}</string>
+									<key>colorOverlay</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>generalPosition</key>
+									<string>{0.732230, 1.286929}</string>
+									<key>imageFileName</key>
+									<string>bambooForest.png</string>
+									<key>invisibleInEditor</key>
+									<false/>
+									<key>name</key>
+									<string>frontBambooTree_7.png</string>
+									<key>nodeType</key>
+									<string>LHSprite</string>
+									<key>parentUUID</key>
+									<string>C472E3A0-0800-422C-94CB-142276A6BF68</string>
+									<key>relativeImagePath</key>
+									<string>publishedResources/</string>
+									<key>rotation</key>
+									<real>0.0</real>
+									<key>scale</key>
+									<string>{-1.000000, 1.000000}</string>
+									<key>size</key>
+									<string>{88.000000, 942.000000}</string>
+									<key>spriteName</key>
+									<string>frontBambooTree.png</string>
+									<key>spriteUUID</key>
+									<string>1222207B-7E17-4212-B469-D6268768310B</string>
+									<key>tags</key>
+									<array>
+										<string>DEFAULT</string>
+									</array>
+									<key>uuid</key>
+									<string>6782A592-CF16-4A48-8E43-530168DD9B22</string>
+									<key>zOrder</key>
+									<integer>0</integer>
+								</dict>
+							</array>
+							<key>colorOverlay</key>
+							<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+							<key>generalPosition</key>
+							<string>{0.013062, 0.345848}</string>
+							<key>invisibleInEditor</key>
+							<false/>
+							<key>name</key>
+							<string>frontTrees</string>
+							<key>nodeType</key>
+							<string>LHNode</string>
+							<key>parentUUID</key>
+							<string>0792252D-C6A5-48D8-957B-9CC859E5BCFE</string>
+							<key>rotation</key>
+							<real>0.0</real>
+							<key>scale</key>
+							<string>{1.000000, 1.000000}</string>
+							<key>size</key>
+							<string>{1099.960693, 61.013664}</string>
+							<key>tags</key>
+							<array>
+								<string>DEFAULT</string>
+							</array>
+							<key>uuid</key>
+							<string>C472E3A0-0800-422C-94CB-142276A6BF68</string>
+							<key>zOrder</key>
+							<integer>3</integer>
+						</dict>
+					</array>
+					<key>colorOverlay</key>
+					<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+					<key>generalPosition</key>
+					<string>{0.484280, -1.290702}</string>
+					<key>invisibleInEditor</key>
+					<false/>
+					<key>name</key>
+					<string>allBackgroundNodes</string>
+					<key>nodeType</key>
+					<string>LHNode</string>
+					<key>parentUUID</key>
+					<string>_GAME_WORLD_NODE_UUID_</string>
+					<key>rotation</key>
+					<real>0.0</real>
+					<key>scale</key>
+					<string>{1.000000, 1.000000}</string>
+					<key>size</key>
+					<string>{879.786926, 279.244659}</string>
+					<key>tags</key>
+					<array>
+						<string>DEFAULT</string>
+					</array>
+					<key>uuid</key>
+					<string>0792252D-C6A5-48D8-957B-9CC859E5BCFE</string>
+					<key>zOrder</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>alpha</key>
+					<real>255</real>
+					<key>anchor</key>
+					<string>{0.500000, 0.500000}</string>
+					<key>children</key>
+					<array>
+						<dict>
+							<key>alpha</key>
+							<real>255</real>
+							<key>canBeCut</key>
+							<true/>
+							<key>collideConnected</key>
+							<false/>
+							<key>colorOverlay</key>
+							<string>{{0.000000, 0.407843}, {0.215686, 1.000000}}</string>
+							<key>fadeOutDelay</key>
+							<real>1</real>
+							<key>invisibleInEditor</key>
+							<false/>
+							<key>length</key>
+							<real>485.44357299804688</real>
+							<key>name</key>
+							<string>UntitledRopeJoint_1</string>
+							<key>needsCopyReasignment</key>
+							<false/>
+							<key>nodeType</key>
+							<string>LHRopeJoint</string>
+							<key>parentUUID</key>
+							<string>60B7A6B5-168B-48C9-9018-73B58BC52F3A</string>
+							<key>relativePosA</key>
+							<string>{0.000000, 0.000000}</string>
+							<key>relativePosB</key>
+							<string>{0.000000, 0.000000}</string>
+							<key>removeAfterCut</key>
+							<true/>
+							<key>segments</key>
+							<real>20</real>
+							<key>shouldDraw</key>
+							<true/>
+							<key>spriteAUUID</key>
+							<string>3C0D20AF-F958-44AF-B94D-3DED9FB3174C</string>
+							<key>spriteBUUID</key>
+							<string>36069ED1-CD09-42B4-980D-6410A9F72A56</string>
+							<key>tags</key>
+							<array>
+								<string>DEFAULT</string>
+							</array>
+							<key>thickness</key>
+							<real>8</real>
+							<key>useTexture</key>
+							<false/>
+							<key>uuid</key>
+							<string>3E3E2E66-BF72-44A6-8FF8-1DBB21FC6A1A</string>
+							<key>uvRepetitions</key>
+							<string>{1.000000, 1.000000}</string>
+							<key>zOrder</key>
+							<integer>-1</integer>
+						</dict>
+						<dict>
+							<key>alpha</key>
+							<real>255</real>
+							<key>canBeCut</key>
+							<true/>
+							<key>collideConnected</key>
+							<false/>
+							<key>colorOverlay</key>
+							<string>{{0.239216, 0.423529}, {0.125490, 1.000000}}</string>
+							<key>fadeOutDelay</key>
+							<real>1</real>
+							<key>invisibleInEditor</key>
+							<false/>
+							<key>length</key>
+							<real>338.26776123046875</real>
+							<key>name</key>
+							<string>UntitledRopeJoint</string>
+							<key>needsCopyReasignment</key>
+							<false/>
+							<key>nodeType</key>
+							<string>LHRopeJoint</string>
+							<key>parentUUID</key>
+							<string>60B7A6B5-168B-48C9-9018-73B58BC52F3A</string>
+							<key>relativePosA</key>
+							<string>{0.000000, 0.000000}</string>
+							<key>relativePosB</key>
+							<string>{0.000000, 0.000000}</string>
+							<key>removeAfterCut</key>
+							<true/>
+							<key>segments</key>
+							<real>20</real>
+							<key>shouldDraw</key>
+							<true/>
+							<key>spriteAUUID</key>
+							<string>D520DA04-954A-4C2F-A638-618F7A2B3FD0</string>
+							<key>spriteBUUID</key>
+							<string>36069ED1-CD09-42B4-980D-6410A9F72A56</string>
+							<key>tags</key>
+							<array>
+								<string>DEFAULT</string>
+							</array>
+							<key>thickness</key>
+							<real>8</real>
+							<key>useTexture</key>
+							<false/>
+							<key>uuid</key>
+							<string>34D7FA15-27A7-42D4-AF61-F5CB7BB46915</string>
+							<key>uvRepetitions</key>
+							<string>{1.000000, 1.000000}</string>
+							<key>zOrder</key>
+							<integer>-1</integer>
+						</dict>
+						<dict>
+							<key>alpha</key>
+							<real>255</real>
+							<key>anchor</key>
+							<string>{0.500000, 0.500000}</string>
+							<key>children</key>
+							<array>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>anchor</key>
+									<string>{0.500000, 0.500000}</string>
+									<key>colorOverlay</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>generalPosition</key>
+									<string>{-0.000188, 0.002727}</string>
+									<key>imageFileName</key>
+									<string>bambooForest.png</string>
+									<key>invisibleInEditor</key>
+									<false/>
+									<key>name</key>
+									<string>anchorLeaf-child_3.png</string>
+									<key>nodeType</key>
+									<string>LHSprite</string>
+									<key>parentUUID</key>
+									<string>3C0D20AF-F958-44AF-B94D-3DED9FB3174C</string>
+									<key>relativeImagePath</key>
+									<string>publishedResources/</string>
+									<key>rotation</key>
+									<real>0.0</real>
+									<key>scale</key>
+									<string>{1.000000, 1.000000}</string>
+									<key>size</key>
+									<string>{66.000000, 59.000000}</string>
+									<key>spriteName</key>
+									<string>anchorLeaf-child.png</string>
+									<key>spriteUUID</key>
+									<string>9149528A-AF57-45D1-AFA7-C082C2DABD90</string>
+									<key>tags</key>
+									<array>
+										<string>DEFAULT</string>
+									</array>
+									<key>uuid</key>
+									<string>9DF6BC27-7EC0-4BA7-A6DC-701995FD1403</string>
+									<key>zOrder</key>
+									<integer>0</integer>
+								</dict>
+							</array>
+							<key>colorOverlay</key>
+							<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+							<key>generalPosition</key>
+							<string>{-1.185573, 1.380783}</string>
+							<key>imageFileName</key>
+							<string>bambooForest.png</string>
+							<key>invisibleInEditor</key>
+							<false/>
+							<key>name</key>
+							<string>anchorLeaf-parent_1.png</string>
+							<key>nodePhysics</key>
+							<dict>
+								<key>allowSleep</key>
+								<true/>
+								<key>angularDamping</key>
+								<real>0.0</real>
+								<key>angularVelocity</key>
+								<real>0.0</real>
+								<key>bullet</key>
+								<false/>
+								<key>fixedRotation</key>
+								<false/>
+								<key>genericFixture</key>
+								<dict>
+									<key>category</key>
+									<integer>1</integer>
+									<key>density</key>
+									<real>0.10000000149011612</real>
+									<key>fixtureID</key>
+									<integer>0</integer>
+									<key>friction</key>
+									<real>0.20000000298023224</real>
+									<key>mask</key>
+									<integer>65535</integer>
+									<key>name</key>
+									<string>GenericFixture</string>
+									<key>restitution</key>
+									<real>0.0</real>
+									<key>sensor</key>
+									<false/>
+								</dict>
+								<key>gravityScale</key>
+								<real>1</real>
+								<key>linearDamping</key>
+								<real>0.0</real>
+								<key>linearVelocity</key>
+								<string>{0.000000, 0.000000}</string>
+								<key>shape</key>
+								<integer>1</integer>
+								<key>type</key>
+								<integer>0</integer>
+							</dict>
+							<key>nodeType</key>
+							<string>LHSprite</string>
+							<key>parentUUID</key>
+							<string>60B7A6B5-168B-48C9-9018-73B58BC52F3A</string>
+							<key>relativeImagePath</key>
+							<string>publishedResources/</string>
+							<key>rotation</key>
+							<real>0.0</real>
+							<key>scale</key>
+							<string>{1.000000, 1.000000}</string>
+							<key>size</key>
+							<string>{90.000000, 102.000000}</string>
+							<key>spriteName</key>
+							<string>anchorLeaf-parent.png</string>
+							<key>spriteUUID</key>
+							<string>49A4CFF7-3ADB-4918-8E5A-053ACB948050</string>
+							<key>tags</key>
+							<array>
+								<string>DEFAULT</string>
+							</array>
+							<key>uuid</key>
+							<string>3C0D20AF-F958-44AF-B94D-3DED9FB3174C</string>
+							<key>zOrder</key>
+							<integer>0</integer>
+						</dict>
+						<dict>
+							<key>alpha</key>
+							<real>255</real>
+							<key>anchor</key>
+							<string>{0.500000, 0.500000}</string>
+							<key>colorOverlay</key>
+							<string>{{0.000000, 0.470588}, {0.000000, 1.000000}}</string>
+							<key>generalPosition</key>
+							<string>{-1.392166, 1.997689}</string>
+							<key>invisibleInEditor</key>
+							<false/>
+							<key>name</key>
+							<string>TexturedShape+UntitledBezier_2</string>
+							<key>nodePhysics</key>
+							<dict>
+								<key>allowSleep</key>
+								<true/>
+								<key>angularDamping</key>
+								<real>0.0</real>
+								<key>angularVelocity</key>
+								<real>0.0</real>
+								<key>bullet</key>
+								<false/>
+								<key>fixedRotation</key>
+								<false/>
+								<key>genericFixture</key>
+								<dict>
+									<key>category</key>
+									<integer>1</integer>
+									<key>density</key>
+									<real>0.10000000149011612</real>
+									<key>fixtureID</key>
+									<integer>0</integer>
+									<key>friction</key>
+									<real>0.20000000298023224</real>
+									<key>mask</key>
+									<integer>65535</integer>
+									<key>name</key>
+									<string>GenericFixture</string>
+									<key>restitution</key>
+									<real>0.0</real>
+									<key>sensor</key>
+									<false/>
+								</dict>
+								<key>gravityScale</key>
+								<real>1</real>
+								<key>linearDamping</key>
+								<real>0.0</real>
+								<key>linearVelocity</key>
+								<string>{0.000000, 0.000000}</string>
+								<key>shape</key>
+								<integer>2</integer>
+								<key>type</key>
+								<integer>0</integer>
+							</dict>
+							<key>nodeType</key>
+							<string>LHTexturedShape</string>
+							<key>parentUUID</key>
+							<string>60B7A6B5-168B-48C9-9018-73B58BC52F3A</string>
+							<key>points</key>
+							<array>
+								<dict>
+									<key>point</key>
+									<string>{125.134271, 29.266261}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{133.911870, 26.086651}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{169.988805, 6.058093}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{197.730892, -24.268413}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{278.203127, -121.000024}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{302.560950, -141.077573}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{333.240532, -139.194008}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{349.312820, -108.002286}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{352.475748, -68.504232}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{345.220659, -24.503421}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{322.568947, 25.767511}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{301.772741, 74.310170}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{269.749344, 113.888990}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{246.818773, 128.611049}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{183.837529, 138.123230}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{110.550736, 141.077572}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{-3.536944, 136.830459}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{-93.535832, 127.492779}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{-180.609530, 112.870805}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{-258.705471, 92.954776}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{-321.771100, 67.734910}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{-338.406791, 58.147970}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{-352.475758, 47.970285}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{-316.859466, 56.509796}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{-258.328837, 64.072633}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{-152.325823, 65.218733}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{-23.105892, 53.535452}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{125.134315, 29.266253}</string>
+								</dict>
+							</array>
+							<key>rotation</key>
+							<real>0.0</real>
+							<key>scale</key>
+							<string>{1.000000, 1.000000}</string>
+							<key>size</key>
+							<string>{704.951538, 282.155151}</string>
+							<key>tags</key>
+							<array>
+								<string>DEFAULT</string>
+							</array>
+							<key>tileScale</key>
+							<string>{1.000000, 1.000000}</string>
+							<key>tileTexture</key>
+							<false/>
+							<key>triangles</key>
+							<array>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-23.105892, 53.535452}</string>
+									<key>uv</key>
+									<string>{0.467074, 0.695644}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{125.134315, 29.266253}</string>
+									<key>uv</key>
+									<string>{0.677290, 0.611268}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{125.134271, 29.266261}</string>
+									<key>uv</key>
+									<string>{0.677290, 0.611268}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-338.406791, 58.147970}</string>
+									<key>uv</key>
+									<string>{0.019951, 0.711680}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-352.475758, 47.970285}</string>
+									<key>uv</key>
+									<string>{-0.000000, 0.676296}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-316.859466, 56.509796}</string>
+									<key>uv</key>
+									<string>{0.050507, 0.705985}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-321.771100, 67.734910}</string>
+									<key>uv</key>
+									<string>{0.043542, 0.745011}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-338.406791, 58.147970}</string>
+									<key>uv</key>
+									<string>{0.019951, 0.711680}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-316.859466, 56.509796}</string>
+									<key>uv</key>
+									<string>{0.050507, 0.705985}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-258.705471, 92.954776}</string>
+									<key>uv</key>
+									<string>{0.132974, 0.832692}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-321.771100, 67.734910}</string>
+									<key>uv</key>
+									<string>{0.043542, 0.745011}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-316.859466, 56.509796}</string>
+									<key>uv</key>
+									<string>{0.050507, 0.705985}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-258.705471, 92.954776}</string>
+									<key>uv</key>
+									<string>{0.132974, 0.832692}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-316.859466, 56.509796}</string>
+									<key>uv</key>
+									<string>{0.050507, 0.705985}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-258.328837, 64.072633}</string>
+									<key>uv</key>
+									<string>{0.133508, 0.732278}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-258.705471, 92.954776}</string>
+									<key>uv</key>
+									<string>{0.132974, 0.832692}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-258.328837, 64.072633}</string>
+									<key>uv</key>
+									<string>{0.133508, 0.732278}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-152.325823, 65.218733}</string>
+									<key>uv</key>
+									<string>{0.283829, 0.736263}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-180.609530, 112.870805}</string>
+									<key>uv</key>
+									<string>{0.243720, 0.901934}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-258.705471, 92.954776}</string>
+									<key>uv</key>
+									<string>{0.132974, 0.832692}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-152.325823, 65.218733}</string>
+									<key>uv</key>
+									<string>{0.283829, 0.736263}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-93.535832, 127.492779}</string>
+									<key>uv</key>
+									<string>{0.367198, 0.952770}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-180.609530, 112.870805}</string>
+									<key>uv</key>
+									<string>{0.243720, 0.901934}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-152.325823, 65.218733}</string>
+									<key>uv</key>
+									<string>{0.283829, 0.736263}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-93.535832, 127.492779}</string>
+									<key>uv</key>
+									<string>{0.367198, 0.952770}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-152.325823, 65.218733}</string>
+									<key>uv</key>
+									<string>{0.283829, 0.736263}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-23.105892, 53.535452}</string>
+									<key>uv</key>
+									<string>{0.467074, 0.695644}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-3.536944, 136.830459}</string>
+									<key>uv</key>
+									<string>{0.494824, 0.985234}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-93.535832, 127.492779}</string>
+									<key>uv</key>
+									<string>{0.367198, 0.952770}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-23.105892, 53.535452}</string>
+									<key>uv</key>
+									<string>{0.467074, 0.695644}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-3.536944, 136.830459}</string>
+									<key>uv</key>
+									<string>{0.494824, 0.985234}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-23.105892, 53.535452}</string>
+									<key>uv</key>
+									<string>{0.467074, 0.695644}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{125.134271, 29.266261}</string>
+									<key>uv</key>
+									<string>{0.677290, 0.611268}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{110.550736, 141.077572}</string>
+									<key>uv</key>
+									<string>{0.656610, 1.000000}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-3.536944, 136.830459}</string>
+									<key>uv</key>
+									<string>{0.494824, 0.985234}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{125.134271, 29.266261}</string>
+									<key>uv</key>
+									<string>{0.677290, 0.611268}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{183.837529, 138.123230}</string>
+									<key>uv</key>
+									<string>{0.760536, 0.989729}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{110.550736, 141.077572}</string>
+									<key>uv</key>
+									<string>{0.656610, 1.000000}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{125.134271, 29.266261}</string>
+									<key>uv</key>
+									<string>{0.677290, 0.611268}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{246.818773, 128.611049}</string>
+									<key>uv</key>
+									<string>{0.849849, 0.956658}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{183.837529, 138.123230}</string>
+									<key>uv</key>
+									<string>{0.760536, 0.989729}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{125.134271, 29.266261}</string>
+									<key>uv</key>
+									<string>{0.677290, 0.611268}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{269.749344, 113.888990}</string>
+									<key>uv</key>
+									<string>{0.882366, 0.905474}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{246.818773, 128.611049}</string>
+									<key>uv</key>
+									<string>{0.849849, 0.956658}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{125.134271, 29.266261}</string>
+									<key>uv</key>
+									<string>{0.677290, 0.611268}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{301.772741, 74.310170}</string>
+									<key>uv</key>
+									<string>{0.927778, 0.767871}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{269.749344, 113.888990}</string>
+									<key>uv</key>
+									<string>{0.882366, 0.905474}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{125.134271, 29.266261}</string>
+									<key>uv</key>
+									<string>{0.677290, 0.611268}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{322.568947, 25.767511}</string>
+									<key>uv</key>
+									<string>{0.967862, 0.579735}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{301.772741, 74.310170}</string>
+									<key>uv</key>
+									<string>{0.927778, 0.767871}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{125.134271, 29.266261}</string>
+									<key>uv</key>
+									<string>{0.677290, 0.611268}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{302.560950, -141.077573}</string>
+									<key>uv</key>
+									<string>{0.972402, 0.025585}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{333.240532, -139.194008}</string>
+									<key>uv</key>
+									<string>{0.995194, 0.134029}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{349.312820, -108.002286}</string>
+									<key>uv</key>
+									<string>{0.999679, 0.271351}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{278.203127, -121.000024}</string>
+									<key>uv</key>
+									<string>{0.972402, 0.025585}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{302.560950, -141.077573}</string>
+									<key>uv</key>
+									<string>{0.999679, 0.271351}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{349.312820, -108.002286}</string>
+									<key>uv</key>
+									<string>{0.989391, 0.424328}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{278.203127, -121.000024}</string>
+									<key>uv</key>
+									<string>{0.972402, 0.025585}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{349.312820, -108.002286}</string>
+									<key>uv</key>
+									<string>{0.989391, 0.424328}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{352.475748, -68.504232}</string>
+									<key>uv</key>
+									<string>{0.967862, 0.579735}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{197.730892, -24.268413}</string>
+									<key>uv</key>
+									<string>{0.948712, 0.000000}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{278.203127, -121.000024}</string>
+									<key>uv</key>
+									<string>{0.957474, 0.000665}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{352.475748, -68.504232}</string>
+									<key>uv</key>
+									<string>{0.965391, 0.008979}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{197.730892, -24.268413}</string>
+									<key>uv</key>
+									<string>{0.948712, 0.000000}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{352.475748, -68.504232}</string>
+									<key>uv</key>
+									<string>{0.965391, 0.008979}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{345.220659, -24.503421}</string>
+									<key>uv</key>
+									<string>{0.972402, 0.025585}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{197.730892, -24.268413}</string>
+									<key>uv</key>
+									<string>{0.939166, 0.006339}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{345.220659, -24.503421}</string>
+									<key>uv</key>
+									<string>{0.948712, 0.000000}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{322.568947, 25.767511}</string>
+									<key>uv</key>
+									<string>{0.972402, 0.025585}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{169.988805, 6.058093}</string>
+									<key>uv</key>
+									<string>{0.928896, 0.019037}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{197.730892, -24.268413}</string>
+									<key>uv</key>
+									<string>{0.939166, 0.006339}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{322.568947, 25.767511}</string>
+									<key>uv</key>
+									<string>{0.972402, 0.025585}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{133.911870, 26.086651}</string>
+									<key>uv</key>
+									<string>{0.894355, 0.088840}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{169.988805, 6.058093}</string>
+									<key>uv</key>
+									<string>{0.928896, 0.019037}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{322.568947, 25.767511}</string>
+									<key>uv</key>
+									<string>{0.972402, 0.025585}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{322.568947, 25.767511}</string>
+									<key>uv</key>
+									<string>{0.743252, 0.503565}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{125.134271, 29.266261}</string>
+									<key>uv</key>
+									<string>{0.894355, 0.088840}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{133.911870, 26.086651}</string>
+									<key>uv</key>
+									<string>{0.972402, 0.025585}</string>
+								</dict>
+							</array>
+							<key>uuid</key>
+							<string>3548C29F-321B-4670-A6A0-73D010D0522C</string>
+							<key>zOrder</key>
+							<integer>0</integer>
+						</dict>
+						<dict>
+							<key>alpha</key>
+							<real>255</real>
+							<key>anchor</key>
+							<string>{0.500000, 0.500000}</string>
+							<key>colorOverlay</key>
+							<string>{{0.404925, 1.000000}, {0.224752, 1.000000}}</string>
+							<key>generalPosition</key>
+							<string>{-1.607655, 1.601107}</string>
+							<key>invisibleInEditor</key>
+							<false/>
+							<key>name</key>
+							<string>TexturedShape+UntitledBezier_1</string>
+							<key>nodeType</key>
+							<string>LHTexturedShape</string>
+							<key>parentUUID</key>
+							<string>60B7A6B5-168B-48C9-9018-73B58BC52F3A</string>
+							<key>points</key>
+							<array>
+								<dict>
+									<key>point</key>
+									<string>{-118.738915, -97.101600}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{-98.669007, -96.650214}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{-72.171354, -85.541539}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{129.024615, 55.293574}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{128.034267, 68.757272}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{116.230325, 82.540266}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{95.869303, 91.741216}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{64.075294, 97.101595}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{38.118455, 96.719402}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{15.744647, 92.400901}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{-8.908700, 75.462118}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{-46.216392, 54.079743}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{-68.465886, 22.177699}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{-84.980019, -16.363018}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{-129.024614, -88.239007}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{-127.493666, -91.826083}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{-125.280323, -94.549154}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{-122.367701, -96.332804}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{-118.738903, -97.101601}</string>
+								</dict>
+							</array>
+							<key>rotation</key>
+							<real>0.0</real>
+							<key>scale</key>
+							<string>{1.049053, 1.001677}</string>
+							<key>size</key>
+							<string>{258.049225, 194.203201}</string>
+							<key>tags</key>
+							<array>
+								<string>DEFAULT</string>
+							</array>
+							<key>tileScale</key>
+							<string>{1.000000, 1.000000}</string>
+							<key>tileTexture</key>
+							<false/>
+							<key>triangles</key>
+							<array>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-72.171354, -85.541539}</string>
+									<key>uv</key>
+									<string>{0.287445, 0.081095}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{129.024615, 55.293574}</string>
+									<key>uv</key>
+									<string>{0.997344, 0.722214}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{128.034267, 68.757272}</string>
+									<key>uv</key>
+									<string>{0.992430, 0.811005}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-72.171354, -85.541539}</string>
+									<key>uv</key>
+									<string>{0.287445, 0.081095}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{128.034267, 68.757272}</string>
+									<key>uv</key>
+									<string>{0.992430, 0.811005}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{116.230325, 82.540266}</string>
+									<key>uv</key>
+									<string>{0.933865, 0.901903}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-72.171354, -85.541539}</string>
+									<key>uv</key>
+									<string>{0.287445, 0.081095}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{116.230325, 82.540266}</string>
+									<key>uv</key>
+									<string>{0.933865, 0.901903}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{95.869303, 91.741216}</string>
+									<key>uv</key>
+									<string>{0.832845, 0.962582}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-72.171354, -85.541539}</string>
+									<key>uv</key>
+									<string>{0.287445, 0.081095}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{95.869303, 91.741216}</string>
+									<key>uv</key>
+									<string>{0.832845, 0.962582}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{64.075294, 97.101595}</string>
+									<key>uv</key>
+									<string>{0.675101, 0.997933}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-72.171354, -85.541539}</string>
+									<key>uv</key>
+									<string>{0.287445, 0.081095}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{64.075294, 97.101595}</string>
+									<key>uv</key>
+									<string>{0.675101, 0.997933}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{38.118455, 96.719402}</string>
+									<key>uv</key>
+									<string>{0.546317, 0.995413}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-72.171354, -85.541539}</string>
+									<key>uv</key>
+									<string>{0.287445, 0.081095}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{38.118455, 96.719402}</string>
+									<key>uv</key>
+									<string>{0.546317, 0.995413}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{15.744647, 92.400901}</string>
+									<key>uv</key>
+									<string>{0.435310, 0.966933}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-72.171354, -85.541539}</string>
+									<key>uv</key>
+									<string>{0.287445, 0.081095}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{15.744647, 92.400901}</string>
+									<key>uv</key>
+									<string>{0.435310, 0.966933}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-8.908700, 75.462118}</string>
+									<key>uv</key>
+									<string>{0.312994, 0.855223}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-72.171354, -85.541539}</string>
+									<key>uv</key>
+									<string>{0.287445, 0.081095}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-8.908700, 75.462118}</string>
+									<key>uv</key>
+									<string>{0.312994, 0.855223}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-46.216392, 54.079743}</string>
+									<key>uv</key>
+									<string>{0.207565, 0.714209}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-72.171354, -85.541539}</string>
+									<key>uv</key>
+									<string>{0.287445, 0.081095}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-46.216392, 54.079743}</string>
+									<key>uv</key>
+									<string>{0.207565, 0.714209}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-68.465886, 22.177699}</string>
+									<key>uv</key>
+									<string>{0.097175, 0.503818}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-72.171354, -85.541539}</string>
+									<key>uv</key>
+									<string>{0.287445, 0.081095}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-68.465886, 22.177699}</string>
+									<key>uv</key>
+									<string>{0.097175, 0.503818}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-84.980019, -16.363018}</string>
+									<key>uv</key>
+									<string>{0.015241, 0.249646}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-72.171354, -85.541539}</string>
+									<key>uv</key>
+									<string>{0.155978, 0.007834}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-84.980019, -16.363018}</string>
+									<key>uv</key>
+									<string>{0.287445, 0.081095}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-129.024614, -88.239007}</string>
+									<key>uv</key>
+									<string>{0.015241, 0.249646}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-98.669007, -96.650214}</string>
+									<key>uv</key>
+									<string>{0.155978, 0.007834}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-72.171354, -85.541539}</string>
+									<key>uv</key>
+									<string>{0.015241, 0.249646}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-129.024614, -88.239007}</string>
+									<key>uv</key>
+									<string>{0.005370, 0.063305}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-118.738915, -97.101600}</string>
+									<key>uv</key>
+									<string>{0.056402, 0.004857}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-98.669007, -96.650214}</string>
+									<key>uv</key>
+									<string>{0.155978, 0.007834}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-129.024614, -88.239007}</string>
+									<key>uv</key>
+									<string>{0.005370, 0.063305}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-118.738915, -97.101600}</string>
+									<key>uv</key>
+									<string>{0.056402, 0.004857}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-129.024614, -88.239007}</string>
+									<key>uv</key>
+									<string>{0.005370, 0.063305}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-127.493666, -91.826083}</string>
+									<key>uv</key>
+									<string>{0.012966, 0.039649}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-118.738915, -97.101600}</string>
+									<key>uv</key>
+									<string>{0.056402, 0.004857}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-127.493666, -91.826083}</string>
+									<key>uv</key>
+									<string>{0.012966, 0.039649}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-125.280323, -94.549154}</string>
+									<key>uv</key>
+									<string>{0.023947, 0.021690}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-118.738915, -97.101600}</string>
+									<key>uv</key>
+									<string>{0.056402, 0.004857}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-125.280323, -94.549154}</string>
+									<key>uv</key>
+									<string>{0.023947, 0.021690}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-122.367701, -96.332804}</string>
+									<key>uv</key>
+									<string>{0.038398, 0.009927}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-122.367701, -96.332804}</string>
+									<key>uv</key>
+									<string>{0.038398, 0.009927}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-118.738915, -97.101600}</string>
+									<key>uv</key>
+									<string>{0.056402, 0.004857}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-118.738903, -97.101601}</string>
+									<key>uv</key>
+									<string>{0.056402, 0.004857}</string>
+								</dict>
+							</array>
+							<key>uuid</key>
+							<string>088A6D98-87B5-4899-8404-6C3B4BFE9E0D</string>
+							<key>zOrder</key>
+							<integer>0</integer>
+						</dict>
+						<dict>
+							<key>alpha</key>
+							<real>255</real>
+							<key>anchor</key>
+							<string>{0.500000, 0.500000}</string>
+							<key>colorOverlay</key>
+							<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+							<key>generalPosition</key>
+							<string>{-1.638227, 2.030881}</string>
+							<key>invisibleInEditor</key>
+							<false/>
+							<key>name</key>
+							<string>win</string>
+							<key>nodePhysics</key>
+							<dict>
+								<key>allowSleep</key>
+								<true/>
+								<key>angularDamping</key>
+								<real>0.0</real>
+								<key>angularVelocity</key>
+								<real>0.0</real>
+								<key>bullet</key>
+								<false/>
+								<key>fixedRotation</key>
+								<false/>
+								<key>genericFixture</key>
+								<dict>
+									<key>category</key>
+									<integer>1</integer>
+									<key>density</key>
+									<real>0.10000000149011612</real>
+									<key>fixtureID</key>
+									<integer>0</integer>
+									<key>friction</key>
+									<real>0.20000000298023224</real>
+									<key>mask</key>
+									<integer>65535</integer>
+									<key>name</key>
+									<string>GenericFixture</string>
+									<key>restitution</key>
+									<real>0.0</real>
+									<key>sensor</key>
+									<false/>
+								</dict>
+								<key>gravityScale</key>
+								<real>1</real>
+								<key>linearDamping</key>
+								<real>0.0</real>
+								<key>linearVelocity</key>
+								<string>{0.000000, 0.000000}</string>
+								<key>ovalShape</key>
+								<array>
+									<array>
+										<string>{-6.5942497501966096e-15, -53.736034393310547}</string>
+										<string>{7.003239631652832, -52.703510284423828}</string>
+										<string>{13.737349510192871, -49.645622253417969}</string>
+										<string>{19.943540573120117, -44.679878234863281}</string>
+										<string>{25.383310317993164, -37.997116088867188}</string>
+										<string>{-19.943540573120117, -44.679878234863281}</string>
+										<string>{-13.737349510192871, -49.645622253417969}</string>
+										<string>{-7.003239631652832, -52.703510284423828}</string>
+									</array>
+									<array>
+										<string>{2.1980831088933787e-15, 53.736034393310547}</string>
+										<string>{-7.003239631652832, 52.703510284423828}</string>
+										<string>{-13.737349510192871, 49.645622253417969}</string>
+										<string>{-19.943540573120117, 44.679878234863281}</string>
+										<string>{25.383310317993164, 37.997116088867188}</string>
+										<string>{19.943540573120117, 44.679878234863281}</string>
+										<string>{13.737349510192871, 49.645622253417969}</string>
+										<string>{7.003239631652832, 52.703510284423828}</string>
+									</array>
+									<array>
+										<string>{-19.943540573120117, -44.679878234863281}</string>
+										<string>{25.383310317993164, -37.997116088867188}</string>
+										<string>{29.847616195678711, -29.854141235351562}</string>
+										<string>{33.164894104003906, -20.56389045715332}</string>
+										<string>{35.207664489746094, -10.483380317687988}</string>
+										<string>{-33.164894104003906, -20.56389045715332}</string>
+										<string>{-29.847616195678711, -29.854141235351562}</string>
+										<string>{-25.383310317993164, -37.997116088867188}</string>
+									</array>
+									<array>
+										<string>{-33.164894104003906, -20.56389045715332}</string>
+										<string>{35.207664489746094, -10.483380317687988}</string>
+										<string>{35.897422790527344, 0}</string>
+										<string>{35.207664489746094, 10.483380317687988}</string>
+										<string>{-33.164894104003906, 20.56389045715332}</string>
+										<string>{-35.207664489746094, 10.483380317687988}</string>
+										<string>{-35.897422790527344, 6.5807662562257421e-15}</string>
+										<string>{-35.207664489746094, -10.483380317687988}</string>
+									</array>
+									<array>
+										<string>{35.207664489746094, 10.483380317687988}</string>
+										<string>{33.164894104003906, 20.56389045715332}</string>
+										<string>{29.847616195678711, 29.854141235351562}</string>
+										<string>{25.383310317993164, 37.997116088867188}</string>
+										<string>{-19.943540573120117, 44.679878234863281}</string>
+										<string>{-25.383310317993164, 37.997116088867188}</string>
+										<string>{-29.847616195678711, 29.854141235351562}</string>
+										<string>{-33.164894104003906, 20.56389045715332}</string>
+									</array>
+								</array>
+								<key>shape</key>
+								<integer>4</integer>
+								<key>type</key>
+								<integer>0</integer>
+							</dict>
+							<key>nodeType</key>
+							<string>LHNode</string>
+							<key>parentUUID</key>
+							<string>60B7A6B5-168B-48C9-9018-73B58BC52F3A</string>
+							<key>rotation</key>
+							<real>0.0</real>
+							<key>scale</key>
+							<string>{1.000000, 1.000000}</string>
+							<key>size</key>
+							<string>{71.794846, 107.472069}</string>
+							<key>tags</key>
+							<array>
+								<string>DEFAULT</string>
+							</array>
+							<key>uuid</key>
+							<string>A66E807B-40F0-4ADE-937C-E55842438493</string>
+							<key>zOrder</key>
+							<integer>0</integer>
+						</dict>
+						<dict>
+							<key>alpha</key>
+							<real>255</real>
+							<key>anchor</key>
+							<string>{0.500000, 0.500000}</string>
+							<key>colorOverlay</key>
+							<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+							<key>generalPosition</key>
+							<string>{-1.547241, 2.043410}</string>
+							<key>imageFileName</key>
+							<string>bambooForest.png</string>
+							<key>invisibleInEditor</key>
+							<false/>
+							<key>name</key>
+							<string>star_2</string>
+							<key>nodePhysics</key>
+							<dict>
+								<key>allowSleep</key>
+								<true/>
+								<key>angularDamping</key>
+								<real>0.0</real>
+								<key>angularVelocity</key>
+								<real>0.0</real>
+								<key>bullet</key>
+								<false/>
+								<key>fixedRotation</key>
+								<false/>
+								<key>fixtureUUID</key>
+								<string>23EBD697-F5B3-435D-8FF2-072642A78452</string>
+								<key>genericFixture</key>
+								<dict>
+									<key>category</key>
+									<integer>1</integer>
+									<key>density</key>
+									<real>0.10000000149011612</real>
+									<key>fixtureID</key>
+									<integer>0</integer>
+									<key>friction</key>
+									<real>0.20000000298023224</real>
+									<key>mask</key>
+									<integer>65535</integer>
+									<key>name</key>
+									<string>GenericFixture</string>
+									<key>restitution</key>
+									<real>0.0</real>
+									<key>sensor</key>
+									<true/>
+								</dict>
+								<key>gravityScale</key>
+								<real>1</real>
+								<key>linearDamping</key>
+								<real>0.0</real>
+								<key>linearVelocity</key>
+								<string>{0.000000, 0.000000}</string>
+								<key>shape</key>
+								<integer>5</integer>
+								<key>type</key>
+								<integer>0</integer>
+							</dict>
+							<key>nodeType</key>
+							<string>LHSprite</string>
+							<key>parentUUID</key>
+							<string>60B7A6B5-168B-48C9-9018-73B58BC52F3A</string>
+							<key>relativeImagePath</key>
+							<string>publishedResources/</string>
+							<key>rotation</key>
+							<real>0.0</real>
+							<key>scale</key>
+							<string>{1.000000, 1.000000}</string>
+							<key>size</key>
+							<string>{64.000000, 59.000000}</string>
+							<key>spriteName</key>
+							<string>star.png</string>
+							<key>spriteUUID</key>
+							<string>9B0616B9-9FE3-4016-9547-964AA220B52D</string>
+							<key>tags</key>
+							<array>
+								<string>DEFAULT</string>
+								<string>STAR</string>
+							</array>
+							<key>uuid</key>
+							<string>97CF906F-424B-4753-A82B-846CF39B1716</string>
+							<key>zOrder</key>
+							<integer>0</integer>
+						</dict>
+						<dict>
+							<key>alpha</key>
+							<real>255</real>
+							<key>anchor</key>
+							<string>{0.500000, 0.500000}</string>
+							<key>colorOverlay</key>
+							<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+							<key>generalPosition</key>
+							<string>{-1.213203, 1.884279}</string>
+							<key>imageFileName</key>
+							<string>bambooForest.png</string>
+							<key>invisibleInEditor</key>
+							<false/>
+							<key>name</key>
+							<string>star_1</string>
+							<key>nodePhysics</key>
+							<dict>
+								<key>allowSleep</key>
+								<true/>
+								<key>angularDamping</key>
+								<real>0.0</real>
+								<key>angularVelocity</key>
+								<real>0.0</real>
+								<key>bullet</key>
+								<false/>
+								<key>fixedRotation</key>
+								<false/>
+								<key>fixtureUUID</key>
+								<string>23EBD697-F5B3-435D-8FF2-072642A78452</string>
+								<key>genericFixture</key>
+								<dict>
+									<key>category</key>
+									<integer>1</integer>
+									<key>density</key>
+									<real>0.10000000149011612</real>
+									<key>fixtureID</key>
+									<integer>0</integer>
+									<key>friction</key>
+									<real>0.20000000298023224</real>
+									<key>mask</key>
+									<integer>65535</integer>
+									<key>name</key>
+									<string>GenericFixture</string>
+									<key>restitution</key>
+									<real>0.0</real>
+									<key>sensor</key>
+									<true/>
+								</dict>
+								<key>gravityScale</key>
+								<real>1</real>
+								<key>linearDamping</key>
+								<real>0.0</real>
+								<key>linearVelocity</key>
+								<string>{0.000000, 0.000000}</string>
+								<key>shape</key>
+								<integer>5</integer>
+								<key>type</key>
+								<integer>0</integer>
+							</dict>
+							<key>nodeType</key>
+							<string>LHSprite</string>
+							<key>parentUUID</key>
+							<string>60B7A6B5-168B-48C9-9018-73B58BC52F3A</string>
+							<key>relativeImagePath</key>
+							<string>publishedResources/</string>
+							<key>rotation</key>
+							<real>0.0</real>
+							<key>scale</key>
+							<string>{1.000000, 1.000000}</string>
+							<key>size</key>
+							<string>{64.000000, 59.000000}</string>
+							<key>spriteName</key>
+							<string>star.png</string>
+							<key>spriteUUID</key>
+							<string>9B0616B9-9FE3-4016-9547-964AA220B52D</string>
+							<key>tags</key>
+							<array>
+								<string>DEFAULT</string>
+								<string>STAR</string>
+							</array>
+							<key>uuid</key>
+							<string>5FF5835B-B86A-402A-9469-13F28C35B5BE</string>
+							<key>zOrder</key>
+							<integer>0</integer>
+						</dict>
+						<dict>
+							<key>alpha</key>
+							<real>255</real>
+							<key>anchor</key>
+							<string>{0.500000, 0.500000}</string>
+							<key>children</key>
+							<array>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>anchor</key>
+									<string>{0.500000, 0.500000}</string>
+									<key>colorOverlay</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>generalPosition</key>
+									<string>{-0.000188, 0.002727}</string>
+									<key>imageFileName</key>
+									<string>bambooForest.png</string>
+									<key>invisibleInEditor</key>
+									<false/>
+									<key>name</key>
+									<string>anchorLeaf-child.png</string>
+									<key>nodeType</key>
+									<string>LHSprite</string>
+									<key>parentUUID</key>
+									<string>D520DA04-954A-4C2F-A638-618F7A2B3FD0</string>
+									<key>relativeImagePath</key>
+									<string>publishedResources/</string>
+									<key>rotation</key>
+									<real>0.0</real>
+									<key>scale</key>
+									<string>{1.000000, 1.000000}</string>
+									<key>size</key>
+									<string>{66.000000, 59.000000}</string>
+									<key>spriteName</key>
+									<string>anchorLeaf-child.png</string>
+									<key>spriteUUID</key>
+									<string>9149528A-AF57-45D1-AFA7-C082C2DABD90</string>
+									<key>tags</key>
+									<array>
+										<string>DEFAULT</string>
+									</array>
+									<key>uuid</key>
+									<string>77649429-A34A-463B-8B38-D8BBD9DC7FEE</string>
+									<key>zOrder</key>
+									<integer>0</integer>
+								</dict>
+							</array>
+							<key>colorOverlay</key>
+							<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+							<key>generalPosition</key>
+							<string>{-1.741303, 1.300615}</string>
+							<key>imageFileName</key>
+							<string>bambooForest.png</string>
+							<key>invisibleInEditor</key>
+							<false/>
+							<key>name</key>
+							<string>anchorLeaf-parent.png</string>
+							<key>nodePhysics</key>
+							<dict>
+								<key>allowSleep</key>
+								<true/>
+								<key>angularDamping</key>
+								<real>0.0</real>
+								<key>angularVelocity</key>
+								<real>0.0</real>
+								<key>bullet</key>
+								<false/>
+								<key>fixedRotation</key>
+								<false/>
+								<key>genericFixture</key>
+								<dict>
+									<key>category</key>
+									<integer>1</integer>
+									<key>density</key>
+									<real>0.10000000149011612</real>
+									<key>fixtureID</key>
+									<integer>0</integer>
+									<key>friction</key>
+									<real>0.20000000298023224</real>
+									<key>mask</key>
+									<integer>65535</integer>
+									<key>name</key>
+									<string>GenericFixture</string>
+									<key>restitution</key>
+									<real>0.0</real>
+									<key>sensor</key>
+									<false/>
+								</dict>
+								<key>gravityScale</key>
+								<real>1</real>
+								<key>linearDamping</key>
+								<real>0.0</real>
+								<key>linearVelocity</key>
+								<string>{0.000000, 0.000000}</string>
+								<key>shape</key>
+								<integer>1</integer>
+								<key>type</key>
+								<integer>0</integer>
+							</dict>
+							<key>nodeType</key>
+							<string>LHSprite</string>
+							<key>parentUUID</key>
+							<string>60B7A6B5-168B-48C9-9018-73B58BC52F3A</string>
+							<key>relativeImagePath</key>
+							<string>publishedResources/</string>
+							<key>rotation</key>
+							<real>0.0</real>
+							<key>scale</key>
+							<string>{1.000000, 1.000000}</string>
+							<key>size</key>
+							<string>{90.000000, 102.000000}</string>
+							<key>spriteName</key>
+							<string>anchorLeaf-parent.png</string>
+							<key>spriteUUID</key>
+							<string>49A4CFF7-3ADB-4918-8E5A-053ACB948050</string>
+							<key>tags</key>
+							<array>
+								<string>DEFAULT</string>
+							</array>
+							<key>uuid</key>
+							<string>D520DA04-954A-4C2F-A638-618F7A2B3FD0</string>
+							<key>zOrder</key>
+							<integer>0</integer>
+						</dict>
+						<dict>
+							<key>alpha</key>
+							<real>255</real>
+							<key>anchor</key>
+							<string>{0.500000, 0.500000}</string>
+							<key>colorOverlay</key>
+							<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+							<key>generalPosition</key>
+							<string>{-1.379079, 1.761174}</string>
+							<key>imageFileName</key>
+							<string>bambooForest.png</string>
+							<key>invisibleInEditor</key>
+							<false/>
+							<key>name</key>
+							<string>star</string>
+							<key>nodePhysics</key>
+							<dict>
+								<key>allowSleep</key>
+								<true/>
+								<key>angularDamping</key>
+								<real>0.0</real>
+								<key>angularVelocity</key>
+								<real>0.0</real>
+								<key>bullet</key>
+								<false/>
+								<key>fixedRotation</key>
+								<false/>
+								<key>fixtureUUID</key>
+								<string>23EBD697-F5B3-435D-8FF2-072642A78452</string>
+								<key>genericFixture</key>
+								<dict>
+									<key>category</key>
+									<integer>1</integer>
+									<key>density</key>
+									<real>0.10000000149011612</real>
+									<key>fixtureID</key>
+									<integer>0</integer>
+									<key>friction</key>
+									<real>0.20000000298023224</real>
+									<key>mask</key>
+									<integer>65535</integer>
+									<key>name</key>
+									<string>GenericFixture</string>
+									<key>restitution</key>
+									<real>0.0</real>
+									<key>sensor</key>
+									<true/>
+								</dict>
+								<key>gravityScale</key>
+								<real>1</real>
+								<key>linearDamping</key>
+								<real>0.0</real>
+								<key>linearVelocity</key>
+								<string>{0.000000, 0.000000}</string>
+								<key>shape</key>
+								<integer>5</integer>
+								<key>type</key>
+								<integer>0</integer>
+							</dict>
+							<key>nodeType</key>
+							<string>LHSprite</string>
+							<key>parentUUID</key>
+							<string>60B7A6B5-168B-48C9-9018-73B58BC52F3A</string>
+							<key>relativeImagePath</key>
+							<string>publishedResources/</string>
+							<key>rotation</key>
+							<real>0.0</real>
+							<key>scale</key>
+							<string>{1.000000, 1.000000}</string>
+							<key>size</key>
+							<string>{64.000000, 59.000000}</string>
+							<key>spriteName</key>
+							<string>star.png</string>
+							<key>spriteUUID</key>
+							<string>9B0616B9-9FE3-4016-9547-964AA220B52D</string>
+							<key>tags</key>
+							<array>
+								<string>DEFAULT</string>
+								<string>STAR</string>
+							</array>
+							<key>uuid</key>
+							<string>90351B5F-3C3B-4665-B18B-13C0CF06175F</string>
+							<key>zOrder</key>
+							<integer>0</integer>
+						</dict>
+						<dict>
+							<key>alpha</key>
+							<real>255</real>
+							<key>anchor</key>
+							<string>{0.500000, 0.500000}</string>
+							<key>colorOverlay</key>
+							<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+							<key>generalPosition</key>
+							<string>{-1.637003, 1.988379}</string>
+							<key>imageFileName</key>
+							<string>bambooForest.png</string>
+							<key>invisibleInEditor</key>
+							<false/>
+							<key>name</key>
+							<string>bird.png</string>
+							<key>nodeType</key>
+							<string>LHSprite</string>
+							<key>parentUUID</key>
+							<string>60B7A6B5-168B-48C9-9018-73B58BC52F3A</string>
+							<key>relativeImagePath</key>
+							<string>publishedResources/</string>
+							<key>rotation</key>
+							<real>0.0</real>
+							<key>scale</key>
+							<string>{1.000000, 1.000000}</string>
+							<key>size</key>
+							<string>{93.000000, 173.000000}</string>
+							<key>spriteName</key>
+							<string>bird.png</string>
+							<key>spriteUUID</key>
+							<string>C1A92712-AC15-4638-8B3B-4FA5EDBDEE6C</string>
+							<key>tags</key>
+							<array>
+								<string>DEFAULT</string>
+							</array>
+							<key>uuid</key>
+							<string>24585AEF-CF40-45E2-BB7C-453F3C38E396</string>
+							<key>zOrder</key>
+							<integer>1</integer>
+						</dict>
+						<dict>
+							<key>alpha</key>
+							<real>255</real>
+							<key>anchor</key>
+							<string>{0.500000, 0.500000}</string>
+							<key>children</key>
+							<array>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>anchor</key>
+									<string>{0.500000, 0.500000}</string>
+									<key>colorOverlay</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>generalPosition</key>
+									<string>{0.092109, 0.074595}</string>
+									<key>imageFileName</key>
+									<string>bambooForest.png</string>
+									<key>invisibleInEditor</key>
+									<false/>
+									<key>name</key>
+									<string>anchorLeaf-child_1.png</string>
+									<key>nodeType</key>
+									<string>LHSprite</string>
+									<key>parentUUID</key>
+									<string>83314949-0290-446E-8198-32751BCF4194</string>
+									<key>relativeImagePath</key>
+									<string>publishedResources/</string>
+									<key>rotation</key>
+									<real>0.0</real>
+									<key>scale</key>
+									<string>{1.000000, 1.000000}</string>
+									<key>size</key>
+									<string>{66.000000, 59.000000}</string>
+									<key>spriteName</key>
+									<string>anchorLeaf-child.png</string>
+									<key>spriteUUID</key>
+									<string>9149528A-AF57-45D1-AFA7-C082C2DABD90</string>
+									<key>tags</key>
+									<array>
+										<string>DEFAULT</string>
+									</array>
+									<key>uuid</key>
+									<string>C377F4DD-C9B4-4269-9A4E-CE7B3CA23C29</string>
+									<key>zOrder</key>
+									<integer>0</integer>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>anchor</key>
+									<string>{0.500000, 0.500000}</string>
+									<key>colorOverlay</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>generalPosition</key>
+									<string>{-0.136484, -0.093855}</string>
+									<key>imageFileName</key>
+									<string>bambooForest.png</string>
+									<key>invisibleInEditor</key>
+									<false/>
+									<key>name</key>
+									<string>anchorLeaf-child_2.png</string>
+									<key>nodeType</key>
+									<string>LHSprite</string>
+									<key>parentUUID</key>
+									<string>83314949-0290-446E-8198-32751BCF4194</string>
+									<key>relativeImagePath</key>
+									<string>publishedResources/</string>
+									<key>rotation</key>
+									<real>0.0</real>
+									<key>scale</key>
+									<string>{1.000000, 1.000000}</string>
+									<key>size</key>
+									<string>{66.000000, 59.000000}</string>
+									<key>spriteName</key>
+									<string>anchorLeaf-child.png</string>
+									<key>spriteUUID</key>
+									<string>9149528A-AF57-45D1-AFA7-C082C2DABD90</string>
+									<key>tags</key>
+									<array>
+										<string>DEFAULT</string>
+									</array>
+									<key>uuid</key>
+									<string>61D0CF46-2FA9-47D4-AE39-69D3D15BD9B6</string>
+									<key>zOrder</key>
+									<integer>0</integer>
+								</dict>
+							</array>
+							<key>colorOverlay</key>
+							<string>{{0.337477, 0.512728}, {0.258702, 1.000000}}</string>
+							<key>generalPosition</key>
+							<string>{-1.617909, 1.603211}</string>
+							<key>invisibleInEditor</key>
+							<false/>
+							<key>name</key>
+							<string>TexturedShape+UntitledBezier</string>
+							<key>nodePhysics</key>
+							<dict>
+								<key>allowSleep</key>
+								<true/>
+								<key>angularDamping</key>
+								<real>0.0</real>
+								<key>angularVelocity</key>
+								<real>0.0</real>
+								<key>bullet</key>
+								<false/>
+								<key>fixedRotation</key>
+								<false/>
+								<key>genericFixture</key>
+								<dict>
+									<key>category</key>
+									<integer>1</integer>
+									<key>density</key>
+									<real>0.10000000149011612</real>
+									<key>fixtureID</key>
+									<integer>0</integer>
+									<key>friction</key>
+									<real>0.20000000298023224</real>
+									<key>mask</key>
+									<integer>65535</integer>
+									<key>name</key>
+									<string>GenericFixture</string>
+									<key>restitution</key>
+									<real>0.0</real>
+									<key>sensor</key>
+									<false/>
+								</dict>
+								<key>gravityScale</key>
+								<real>1</real>
+								<key>linearDamping</key>
+								<real>0.0</real>
+								<key>linearVelocity</key>
+								<string>{0.000000, 0.000000}</string>
+								<key>shape</key>
+								<integer>2</integer>
+								<key>type</key>
+								<integer>0</integer>
+							</dict>
+							<key>nodeType</key>
+							<string>LHTexturedShape</string>
+							<key>parentUUID</key>
+							<string>60B7A6B5-168B-48C9-9018-73B58BC52F3A</string>
+							<key>points</key>
+							<array>
+								<dict>
+									<key>point</key>
+									<string>{-109.890942, -103.666291}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{-83.393289, -92.557616}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{140.246557, 62.309654}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{139.256209, 75.773352}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{127.452267, 89.556346}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{107.091245, 98.757296}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{75.297236, 104.117675}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{49.340397, 103.735482}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{26.966589, 99.416981}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{-22.350828, 84.168472}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{-43.600454, 62.786097}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{-121.742937, -28.459119}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{-138.257070, -66.999836}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{-140.246549, -95.255084}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{-138.715601, -98.842160}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{-136.502258, -101.565231}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{-133.589636, -103.348881}</string>
+								</dict>
+								<dict>
+									<key>point</key>
+									<string>{-129.960838, -104.117678}</string>
+								</dict>
+							</array>
+							<key>rotation</key>
+							<real>0.0</real>
+							<key>scale</key>
+							<string>{1.000000, 1.000000}</string>
+							<key>size</key>
+							<string>{280.493103, 208.235352}</string>
+							<key>tags</key>
+							<array>
+								<string>DEFAULT</string>
+							</array>
+							<key>tileScale</key>
+							<string>{1.000000, 1.000000}</string>
+							<key>tileTexture</key>
+							<false/>
+							<key>triangles</key>
+							<array>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-83.393289, -92.557616}</string>
+									<key>uv</key>
+									<string>{0.287445, 0.081095}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{140.246557, 62.309654}</string>
+									<key>uv</key>
+									<string>{0.997344, 0.722214}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{139.256209, 75.773352}</string>
+									<key>uv</key>
+									<string>{0.992430, 0.811005}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-83.393289, -92.557616}</string>
+									<key>uv</key>
+									<string>{0.287445, 0.081095}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{139.256209, 75.773352}</string>
+									<key>uv</key>
+									<string>{0.992430, 0.811005}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{127.452267, 89.556346}</string>
+									<key>uv</key>
+									<string>{0.933865, 0.901903}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-83.393289, -92.557616}</string>
+									<key>uv</key>
+									<string>{0.287445, 0.081095}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{127.452267, 89.556346}</string>
+									<key>uv</key>
+									<string>{0.933865, 0.901903}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{107.091245, 98.757296}</string>
+									<key>uv</key>
+									<string>{0.832845, 0.962582}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-83.393289, -92.557616}</string>
+									<key>uv</key>
+									<string>{0.287445, 0.081095}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{107.091245, 98.757296}</string>
+									<key>uv</key>
+									<string>{0.832845, 0.962582}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{75.297236, 104.117675}</string>
+									<key>uv</key>
+									<string>{0.675101, 0.997933}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-83.393289, -92.557616}</string>
+									<key>uv</key>
+									<string>{0.287445, 0.081095}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{75.297236, 104.117675}</string>
+									<key>uv</key>
+									<string>{0.675101, 0.997933}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{49.340397, 103.735482}</string>
+									<key>uv</key>
+									<string>{0.546317, 0.995413}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-83.393289, -92.557616}</string>
+									<key>uv</key>
+									<string>{0.287445, 0.081095}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{49.340397, 103.735482}</string>
+									<key>uv</key>
+									<string>{0.546317, 0.995413}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{26.966589, 99.416981}</string>
+									<key>uv</key>
+									<string>{0.435310, 0.966933}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-83.393289, -92.557616}</string>
+									<key>uv</key>
+									<string>{0.287445, 0.081095}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{26.966589, 99.416981}</string>
+									<key>uv</key>
+									<string>{0.435310, 0.966933}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-22.350828, 84.168472}</string>
+									<key>uv</key>
+									<string>{0.312994, 0.855223}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-83.393289, -92.557616}</string>
+									<key>uv</key>
+									<string>{0.287445, 0.081095}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-22.350828, 84.168472}</string>
+									<key>uv</key>
+									<string>{0.312994, 0.855223}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-43.600454, 62.786097}</string>
+									<key>uv</key>
+									<string>{0.207565, 0.714209}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-83.393289, -92.557616}</string>
+									<key>uv</key>
+									<string>{0.287445, 0.081095}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-43.600454, 62.786097}</string>
+									<key>uv</key>
+									<string>{0.207565, 0.714209}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-121.742937, -28.459119}</string>
+									<key>uv</key>
+									<string>{0.097175, 0.503818}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-83.393289, -92.557616}</string>
+									<key>uv</key>
+									<string>{0.287445, 0.081095}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-121.742937, -28.459119}</string>
+									<key>uv</key>
+									<string>{0.097175, 0.503818}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-138.257070, -66.999836}</string>
+									<key>uv</key>
+									<string>{0.015241, 0.249646}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-109.890942, -103.666291}</string>
+									<key>uv</key>
+									<string>{0.155978, 0.007834}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-83.393289, -92.557616}</string>
+									<key>uv</key>
+									<string>{0.287445, 0.081095}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-138.257070, -66.999836}</string>
+									<key>uv</key>
+									<string>{0.015241, 0.249646}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-109.890942, -103.666291}</string>
+									<key>uv</key>
+									<string>{0.155978, 0.007834}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-138.257070, -66.999836}</string>
+									<key>uv</key>
+									<string>{0.015241, 0.249646}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-140.246549, -95.255084}</string>
+									<key>uv</key>
+									<string>{0.005370, 0.063305}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-129.960838, -104.117678}</string>
+									<key>uv</key>
+									<string>{0.056402, 0.004857}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-109.890942, -103.666291}</string>
+									<key>uv</key>
+									<string>{0.155978, 0.007834}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-140.246549, -95.255084}</string>
+									<key>uv</key>
+									<string>{0.005370, 0.063305}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-129.960838, -104.117678}</string>
+									<key>uv</key>
+									<string>{0.056402, 0.004857}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-140.246549, -95.255084}</string>
+									<key>uv</key>
+									<string>{0.005370, 0.063305}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-138.715601, -98.842160}</string>
+									<key>uv</key>
+									<string>{0.012966, 0.039649}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-133.589636, -103.348881}</string>
+									<key>uv</key>
+									<string>{0.056402, 0.004857}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-129.960838, -104.117678}</string>
+									<key>uv</key>
+									<string>{0.012966, 0.039649}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-138.715601, -98.842160}</string>
+									<key>uv</key>
+									<string>{0.023947, 0.021690}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-133.589636, -103.348881}</string>
+									<key>uv</key>
+									<string>{0.056402, 0.004857}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-138.715601, -98.842160}</string>
+									<key>uv</key>
+									<string>{0.023947, 0.021690}</string>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>color</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>point</key>
+									<string>{-136.502258, -101.565231}</string>
+									<key>uv</key>
+									<string>{0.038398, 0.009927}</string>
+								</dict>
+							</array>
+							<key>uuid</key>
+							<string>83314949-0290-446E-8198-32751BCF4194</string>
+							<key>zOrder</key>
+							<integer>1</integer>
+						</dict>
+						<dict>
+							<key>alpha</key>
+							<real>255</real>
+							<key>anchor</key>
+							<string>{0.500000, 0.500000}</string>
+							<key>colorOverlay</key>
+							<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+							<key>generalPosition</key>
+							<string>{-1.655036, 1.183295}</string>
+							<key>imageFileName</key>
+							<string>bambooForest.png</string>
+							<key>invisibleInEditor</key>
+							<false/>
+							<key>name</key>
+							<string>candy</string>
+							<key>nodePhysics</key>
+							<dict>
+								<key>allowSleep</key>
+								<true/>
+								<key>angularDamping</key>
+								<real>0.0</real>
+								<key>angularVelocity</key>
+								<real>0.0</real>
+								<key>bullet</key>
+								<false/>
+								<key>fixedRotation</key>
+								<false/>
+								<key>genericFixture</key>
+								<dict>
+									<key>category</key>
+									<integer>1</integer>
+									<key>density</key>
+									<real>0.10000000149011612</real>
+									<key>fixtureID</key>
+									<integer>0</integer>
+									<key>friction</key>
+									<real>0.20000000298023224</real>
+									<key>mask</key>
+									<integer>65535</integer>
+									<key>name</key>
+									<string>GenericFixture</string>
+									<key>restitution</key>
+									<real>0.0</real>
+									<key>sensor</key>
+									<false/>
+								</dict>
+								<key>gravityScale</key>
+								<real>1</real>
+								<key>linearDamping</key>
+								<real>0.0</real>
+								<key>linearVelocity</key>
+								<string>{0.000000, 0.000000}</string>
+								<key>shape</key>
+								<integer>1</integer>
+								<key>type</key>
+								<integer>2</integer>
+							</dict>
+							<key>nodeType</key>
+							<string>LHSprite</string>
+							<key>parentUUID</key>
+							<string>60B7A6B5-168B-48C9-9018-73B58BC52F3A</string>
+							<key>relativeImagePath</key>
+							<string>publishedResources/</string>
+							<key>rotation</key>
+							<real>0.0</real>
+							<key>scale</key>
+							<string>{1.000000, 1.000000}</string>
+							<key>size</key>
+							<string>{67.000000, 67.000000}</string>
+							<key>spriteName</key>
+							<string>candy.png</string>
+							<key>spriteUUID</key>
+							<string>203C428A-DDD9-4CBB-B843-1800B31209DC</string>
+							<key>tags</key>
+							<array>
+								<string>DEFAULT</string>
+							</array>
+							<key>uuid</key>
+							<string>36069ED1-CD09-42B4-980D-6410A9F72A56</string>
+							<key>zOrder</key>
+							<integer>6</integer>
+						</dict>
+					</array>
+					<key>colorOverlay</key>
+					<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+					<key>generalPosition</key>
+					<string>{1.887891, -1.252263}</string>
+					<key>invisibleInEditor</key>
+					<false/>
+					<key>name</key>
+					<string>allGameElements</string>
+					<key>nodeType</key>
+					<string>LHNode</string>
+					<key>parentUUID</key>
+					<string>_GAME_WORLD_NODE_UUID_</string>
+					<key>rotation</key>
+					<real>0.0</real>
+					<key>scale</key>
+					<string>{1.000000, 1.000000}</string>
+					<key>size</key>
+					<string>{291.929382, 188.729813}</string>
+					<key>tags</key>
+					<array>
+						<string>DEFAULT</string>
+					</array>
+					<key>uuid</key>
+					<string>60B7A6B5-168B-48C9-9018-73B58BC52F3A</string>
+					<key>zOrder</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>alpha</key>
+					<real>255</real>
+					<key>anchor</key>
+					<string>{0.500000, 0.500000}</string>
+					<key>children</key>
+					<array>
+						<dict>
+							<key>alpha</key>
+							<real>255</real>
+							<key>anchor</key>
+							<string>{0.500000, 0.500000}</string>
+							<key>children</key>
+							<array>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>anchor</key>
+									<string>{0.500000, 0.500000}</string>
+									<key>colorOverlay</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>generalPosition</key>
+									<string>{0.423778, 0.006985}</string>
+									<key>imageFileName</key>
+									<string>bambooForest.png</string>
+									<key>invisibleInEditor</key>
+									<false/>
+									<key>name</key>
+									<string>frontGrass_1.png</string>
+									<key>nodeType</key>
+									<string>LHSprite</string>
+									<key>parentUUID</key>
+									<string>DCA4E080-4BAA-4002-83D8-3F0FE2EB9448</string>
+									<key>relativeImagePath</key>
+									<string>publishedResources/</string>
+									<key>rotation</key>
+									<real>0.0</real>
+									<key>scale</key>
+									<string>{1.000000, 1.000000}</string>
+									<key>size</key>
+									<string>{988.000000, 116.000000}</string>
+									<key>spriteName</key>
+									<string>frontGrass.png</string>
+									<key>spriteUUID</key>
+									<string>8B518B35-B406-4A2E-A212-35251A087AF4</string>
+									<key>tags</key>
+									<array>
+										<string>DEFAULT</string>
+									</array>
+									<key>uuid</key>
+									<string>E4D8DD42-8BE1-4C4A-AD28-0E4EF43DAE28</string>
+									<key>zOrder</key>
+									<integer>0</integer>
+								</dict>
+								<dict>
+									<key>alpha</key>
+									<real>255</real>
+									<key>anchor</key>
+									<string>{0.500000, 0.500000}</string>
+									<key>colorOverlay</key>
+									<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+									<key>generalPosition</key>
+									<string>{-0.420323, 0.007059}</string>
+									<key>imageFileName</key>
+									<string>bambooForest.png</string>
+									<key>invisibleInEditor</key>
+									<false/>
+									<key>name</key>
+									<string>frontGrass.png</string>
+									<key>nodeType</key>
+									<string>LHSprite</string>
+									<key>parentUUID</key>
+									<string>DCA4E080-4BAA-4002-83D8-3F0FE2EB9448</string>
+									<key>relativeImagePath</key>
+									<string>publishedResources/</string>
+									<key>rotation</key>
+									<real>0.0</real>
+									<key>scale</key>
+									<string>{1.000000, 1.000000}</string>
+									<key>size</key>
+									<string>{988.000000, 116.000000}</string>
+									<key>spriteName</key>
+									<string>frontGrass.png</string>
+									<key>spriteUUID</key>
+									<string>8B518B35-B406-4A2E-A212-35251A087AF4</string>
+									<key>tags</key>
+									<array>
+										<string>DEFAULT</string>
+									</array>
+									<key>uuid</key>
+									<string>359162AF-E8D7-4F4B-BC6C-C873E1E6114C</string>
+									<key>zOrder</key>
+									<integer>0</integer>
+								</dict>
+							</array>
+							<key>colorOverlay</key>
+							<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+							<key>devicePositions</key>
+							<dict>
+								<key>1024x768</key>
+								<string>{-0.922353, 2.367068}</string>
+								<key>1136x640</key>
+								<string>{-0.871924, 2.320775}</string>
+								<key>1334x750</key>
+								<string>{-0.788177, 2.364334}</string>
+								<key>2048x1536</key>
+								<string>{-0.940578, 2.371624}</string>
+								<key>2208x1242</key>
+								<string>{-0.837846, 2.287044}</string>
+								<key>960x640</key>
+								<string>{-0.910581, 2.303824}</string>
+							</dict>
+							<key>generalPosition</key>
+							<string>{-0.940578, 2.371624}</string>
+							<key>invisibleInEditor</key>
+							<false/>
+							<key>name</key>
+							<string>frontGrass</string>
+							<key>nodeType</key>
+							<string>LHNode</string>
+							<key>parentUUID</key>
+							<string>19B733AA-62E7-43D4-BDF5-846D7DFF7CE5</string>
+							<key>perDevicePosition</key>
+							<true/>
+							<key>rotation</key>
+							<real>0.0</real>
+							<key>scale</key>
+							<string>{1.000000, 1.000000}</string>
+							<key>size</key>
+							<string>{1823.762329, 129.658783}</string>
+							<key>tags</key>
+							<array>
+								<string>DEFAULT</string>
+							</array>
+							<key>uuid</key>
+							<string>DCA4E080-4BAA-4002-83D8-3F0FE2EB9448</string>
+							<key>zOrder</key>
+							<integer>5</integer>
+						</dict>
+					</array>
+					<key>colorOverlay</key>
+					<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+					<key>generalPosition</key>
+					<string>{1.335431, -1.306607}</string>
+					<key>invisibleInEditor</key>
+					<false/>
+					<key>name</key>
+					<string>allFrontNodes</string>
+					<key>nodeType</key>
+					<string>LHNode</string>
+					<key>parentUUID</key>
+					<string>_GAME_WORLD_NODE_UUID_</string>
+					<key>rotation</key>
+					<real>0.0</real>
+					<key>scale</key>
+					<string>{1.000000, 1.000000}</string>
+					<key>size</key>
+					<string>{602.727173, 264.635956}</string>
+					<key>tags</key>
+					<array>
+						<string>DEFAULT</string>
+					</array>
+					<key>uuid</key>
+					<string>19B733AA-62E7-43D4-BDF5-846D7DFF7CE5</string>
+					<key>zOrder</key>
+					<integer>2</integer>
+				</dict>
+			</array>
+			<key>colorOverlay</key>
+			<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+			<key>generalPosition</key>
+			<string>{0.000000, 0.000000}</string>
+			<key>invisibleInEditor</key>
+			<false/>
+			<key>name</key>
+			<string>GAME WORLD</string>
+			<key>nodeType</key>
+			<string>LHGameWorldNode</string>
+			<key>parentUUID</key>
+			<string>5B6C2FE1-D350-4507-BB26-259A41F7C2E3</string>
+			<key>rotation</key>
+			<real>0.0</real>
+			<key>scale</key>
+			<string>{1.000000, 1.000000}</string>
+			<key>size</key>
+			<string>{128.000000, 128.000000}</string>
+			<key>tags</key>
+			<array>
+				<string>DEFAULT</string>
+			</array>
+			<key>userPropertyInfo</key>
+			<dict>
+				<key>levelID</key>
+				<real>2</real>
+			</dict>
+			<key>userPropertyName</key>
+			<string>LevelInfo</string>
+			<key>uuid</key>
+			<string>6DA1432F-726E-44B5-BF3B-339D5839B00C</string>
+			<key>zOrder</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>alpha</key>
+			<real>255</real>
+			<key>anchor</key>
+			<string>{0.500000, 0.500000}</string>
+			<key>colorOverlay</key>
+			<string>{{1.000000, 1.000000}, {1.000000, 1.000000}}</string>
+			<key>generalPosition</key>
+			<string>{0.000000, 0.000000}</string>
+			<key>invisibleInEditor</key>
+			<false/>
+			<key>name</key>
+			<string>FRONT USER INTERFACE</string>
+			<key>nodeType</key>
+			<string>LHUINode</string>
+			<key>parentUUID</key>
+			<string>5B6C2FE1-D350-4507-BB26-259A41F7C2E3</string>
+			<key>rotation</key>
+			<real>0.0</real>
+			<key>scale</key>
+			<string>{1.000000, 1.000000}</string>
+			<key>size</key>
+			<string>{128.000000, 128.000000}</string>
+			<key>tags</key>
+			<array>
+				<string>DEFAULT</string>
+			</array>
+			<key>uuid</key>
+			<string>1C32EC5E-17BD-4DE3-B9E1-4A2BD0547F9E</string>
+			<key>zOrder</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>designResolution</key>
+	<string>{960.000000, 640.000000}</string>
+	<key>devices</key>
+	<array>
+		<dict>
+			<key>ratio</key>
+			<real>1</real>
+			<key>size</key>
+			<string>{960.000000, 640.000000}</string>
+			<key>suffix</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>ratio</key>
+			<real>1</real>
+			<key>size</key>
+			<string>{1136.000000, 640.000000}</string>
+			<key>suffix</key>
+			<string>-568</string>
+		</dict>
+		<dict>
+			<key>ratio</key>
+			<real>1</real>
+			<key>size</key>
+			<string>{1334.000000, 750.000000}</string>
+			<key>suffix</key>
+			<string>-667</string>
+		</dict>
+		<dict>
+			<key>ratio</key>
+			<real>2</real>
+			<key>size</key>
+			<string>{2208.000000, 1242.000000}</string>
+			<key>suffix</key>
+			<string>-736@2x</string>
+		</dict>
+		<dict>
+			<key>ratio</key>
+			<real>1</real>
+			<key>size</key>
+			<string>{1024.000000, 768.000000}</string>
+			<key>suffix</key>
+			<string>-ipad</string>
+		</dict>
+		<dict>
+			<key>ratio</key>
+			<real>2</real>
+			<key>size</key>
+			<string>{2048.000000, 1536.000000}</string>
+			<key>suffix</key>
+			<string>-ipad@2x</string>
+		</dict>
+	</array>
+	<key>globalGravityDirection</key>
+	<string>{0.000000, -1.000000}</string>
+	<key>globalGravityForce</key>
+	<real>8</real>
+	<key>invisibleInEditor</key>
+	<false/>
+	<key>nodeType</key>
+	<string>LHScene</string>
+	<key>sceneFormat</key>
+	<real>1</real>
+	<key>tags</key>
+	<array>
+		<string>DEFAULT</string>
+	</array>
+	<key>tracedFixtures</key>
+	<dict>
+		<key>23EBD697-F5B3-435D-8FF2-072642A78452</key>
+		<array>
+			<array>
+				<string>{31.5, -11.25}</string>
+				<string>{31, -4.75}</string>
+				<string>{-31.5, -2.25}</string>
+				<string>{23, -14.25}</string>
+			</array>
+			<array>
+				<string>{4, 22.75}</string>
+				<string>{0, 23.25}</string>
+				<string>{1.5, 21.75}</string>
+			</array>
+			<array>
+				<string>{-19, 22.75}</string>
+				<string>{-26.5, 4.25}</string>
+				<string>{-17.5, 9.75}</string>
+			</array>
+			<array>
+				<string>{-18, 28.25}</string>
+				<string>{-17.5, 9.75}</string>
+				<string>{1.5, 21.75}</string>
+				<string>{0, 23.25}</string>
+				<string>{-9.5, 28.75}</string>
+			</array>
+			<array>
+				<string>{-4.5, -29.25}</string>
+				<string>{1, -28.75}</string>
+				<string>{4.5, -26.75}</string>
+				<string>{9.5, -16.75}</string>
+				<string>{-12.5, -13.25}</string>
+				<string>{-9.5, -21.75}</string>
+			</array>
+			<array>
+				<string>{20, 27.25}</string>
+				<string>{16.5, 27.25}</string>
+				<string>{1.5, 21.75}</string>
+				<string>{21, 8.75}</string>
+				<string>{23, 18.75}</string>
+				<string>{22.5, 24.75}</string>
+			</array>
+			<array>
+				<string>{2.5, -29.25}</string>
+				<string>{4.5, -26.75}</string>
+				<string>{1, -28.75}</string>
+			</array>
+			<array>
+				<string>{-32, -8.25}</string>
+				<string>{-29, -10.75}</string>
+				<string>{-12.5, -13.25}</string>
+				<string>{-32, -2.75}</string>
+			</array>
+			<array>
+				<string>{-12.5, -13.25}</string>
+				<string>{9.5, -16.75}</string>
+				<string>{14.5, -13.25}</string>
+				<string>{-32, -2.75}</string>
+			</array>
+			<array>
+				<string>{-26.5, 4.25}</string>
+				<string>{-31.5, -2.25}</string>
+				<string>{31, -4.75}</string>
+				<string>{31.5, -4.25}</string>
+				<string>{-17.5, 9.75}</string>
+			</array>
+			<array>
+				<string>{21, 8.75}</string>
+				<string>{1.5, 21.75}</string>
+				<string>{-17.5, 9.75}</string>
+				<string>{31.5, -4.25}</string>
+			</array>
+			<array>
+				<string>{14.5, -13.25}</string>
+				<string>{26.5, -14.25}</string>
+				<string>{-31.5, -2.25}</string>
+				<string>{-32, -2.75}</string>
+			</array>
+			<array>
+				<string>{23, -14.25}</string>
+				<string>{26.5, -14.25}</string>
+				<string>{-31.5, -2.25}</string>
+			</array>
+		</array>
+	</dict>
+	<key>useGlobalGravity</key>
+	<true/>
+	<key>uuid</key>
+	<string>5B6C2FE1-D350-4507-BB26-259A41F7C2E3</string>
+</dict>
+</plist>

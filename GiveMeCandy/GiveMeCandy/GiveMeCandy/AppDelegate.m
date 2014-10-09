@@ -7,11 +7,28 @@
 //
 
 #import "AppDelegate.h"
+#import <AVFoundation/AVFoundation.h>
 
 @implementation AppDelegate
-
+{
+    AVAudioPlayer* backgroundMusicPlayer;
+}
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
+    
+//    SKAction* action = [SKAction playSoundFileNamed:@"jungleTheme.caf" waitForCompletion:YES];
+//    action
+    //        [SKAction repeatActionForever:[SKAction playSoundFileNamed:@"jungleTheme.mp3" waitForCompletion:YES]];
+    
+
+    
+    NSError *error = nil;
+    NSURL * backgroundMusicURL = [[NSBundle mainBundle] URLForResource:@"jungleTheme" withExtension:@"caf"];
+    backgroundMusicPlayer = [[AVAudioPlayer alloc] initWithContentsOfURL:backgroundMusicURL error:&error];
+    backgroundMusicPlayer.numberOfLoops = INFINITY;
+    [backgroundMusicPlayer play];
+    
+    
     // Override point for customization after application launch.
     return YES;
 }

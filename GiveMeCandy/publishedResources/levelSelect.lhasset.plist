@@ -111,7 +111,7 @@
 			<key>nodeType</key>
 			<string>LHSprite</string>
 			<key>parentUUID</key>
-			<string>3F3F8DC9-867F-4398-82A6-EEF88F0E924C</string>
+			<string>5D1C05C9-6395-4DC6-AE43-267A6DBA1D83</string>
 			<key>relativeImagePath</key>
 			<string>publishedResources/</string>
 			<key>rotation</key>
@@ -392,7 +392,7 @@
 			<key>nodeType</key>
 			<string>LHNode</string>
 			<key>parentUUID</key>
-			<string>3F3F8DC9-867F-4398-82A6-EEF88F0E924C</string>
+			<string>5D1C05C9-6395-4DC6-AE43-267A6DBA1D83</string>
 			<key>rotation</key>
 			<real>0.0</real>
 			<key>scale</key>
@@ -420,7 +420,7 @@
 	<key>nodeType</key>
 	<string>LHAsset</string>
 	<key>parentUUID</key>
-	<string>0BE04895-D397-4166-8A57-33F280B48F61</string>
+	<string>5B6C2FE1-D350-4507-BB26-259A41F7C2E3</string>
 	<key>rotation</key>
 	<real>0.0</real>
 	<key>scale</key>
@@ -432,7 +432,7 @@
 		<string>DEFAULT</string>
 	</array>
 	<key>uuid</key>
-	<string>3F3F8DC9-867F-4398-82A6-EEF88F0E924C</string>
+	<string>5D1C05C9-6395-4DC6-AE43-267A6DBA1D83</string>
 	<key>zOrder</key>
 	<integer>0</integer>
 </dict>

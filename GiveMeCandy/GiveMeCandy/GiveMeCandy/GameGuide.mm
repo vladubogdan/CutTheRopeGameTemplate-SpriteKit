@@ -26,10 +26,6 @@
         
         NSLog(@"WE CREATED A LEVEL WITH GAME GUIDE");
         
-        //for testing - reset the value
-//        [[NSUserDefaults standardUserDefaults] removeObjectForKey:@"DidPresentGuide"];
-//        [[NSUserDefaults standardUserDefaults] synchronize];
-        
         if([[NSUserDefaults standardUserDefaults] boolForKey:@"DidPresentGuide"])
         {
             [self hideGuide];

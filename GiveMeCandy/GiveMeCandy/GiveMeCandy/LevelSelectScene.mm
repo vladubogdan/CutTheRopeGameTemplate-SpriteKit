@@ -23,13 +23,13 @@
     self = [super initWithContentOfFile:levelPlistFile];
     if(self){
         
-        //init your content here
-        
+        //init your content here     
     }
     return self;
 }
 
--(Class)createNodeObjectForSubclassWithName:(NSString *)subclassTypeName superTypeName:(NSString *)superTypeName
+-(Class)createNodeObjectForSubclassWithName:(NSString *)subclassTypeName
+                              superTypeName:(NSString *)superTypeName
 {
     //you may ask why doesn't LevelHelper2-API do this - thats because the API does not have access to your own classes. NSClassFromString will return nil if the class in question is not imported in the file where it's executed.
     

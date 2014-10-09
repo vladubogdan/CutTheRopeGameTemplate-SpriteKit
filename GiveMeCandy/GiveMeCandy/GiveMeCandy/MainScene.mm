@@ -21,6 +21,14 @@
     if(self){
         
         //init your content here
+        
+        //for testing - reset the value
+//        NSDictionary *defaultsDictionary = [[NSUserDefaults standardUserDefaults] dictionaryRepresentation];
+//        for (NSString *key in [defaultsDictionary allKeys]) {
+//            [[NSUserDefaults standardUserDefaults] removeObjectForKey:key];
+//        }
+//        [[NSUserDefaults standardUserDefaults] synchronize];
+        
     }
     return self;
 }

@@ -17,6 +17,7 @@
 - (instancetype)initWithDictionary:(NSDictionary*)dict
                             parent:(SKNode*)prnt;
 
+
 -(BOOL)isUnlocked;
 
 -(NSString*)levelFile;

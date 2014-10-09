@@ -8,8 +8,12 @@
 
 #import "AppDelegateMac.h"
 #import "MainScene.h"
+#import <AVFoundation/AVFoundation.h>
 
 @implementation AppDelegate
+{
+    AVAudioPlayer* backgroundMusicPlayer;
+}
 
 @synthesize window = _window;
 
@@ -25,6 +29,13 @@
 
     self.skView.showsFPS = YES;
     self.skView.showsNodeCount = YES;
+    
+    
+    NSError *error = nil;
+    NSURL * backgroundMusicURL = [[NSBundle mainBundle] URLForResource:@"jungleTheme" withExtension:@"caf"];
+    backgroundMusicPlayer = [[AVAudioPlayer alloc] initWithContentsOfURL:backgroundMusicURL error:&error];
+    backgroundMusicPlayer.numberOfLoops = INFINITY;
+    [backgroundMusicPlayer play];
 }
 
 - (BOOL)applicationShouldTerminateAfterLastWindowClosed:(NSApplication *)sender {
